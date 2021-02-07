@@ -1,5 +1,5 @@
 import glob from 'glob-promise';
-import log from 'node-pretty-log';
+import log from '../logger.mjs';
 
 const talentMap = {
   i1: ['l1', 'l2', 'l3'],

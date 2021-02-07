@@ -22,14 +22,14 @@
   },
   "husky": {
     "hooks": {
-      "pre-commit": "lint-staged",
-      "pre-push": "npm run lint"
+      "pre-commit": "lint-staged && npm run validation"
     }
   },
   "scripts": {
+    "build": "npm run eslint && npm run validation",
     "lint": "eslint --fix ./data ",
     "pretty": "prettier --write ./data",
-    "check": "node --experimental-modules  --experimental-json-modules  scripts/validate.mjs"
+    "validation": "node --experimental-modules  --experimental-json-modules  scripts/validate.mjs"
   },
   "type": "module",
   "lint-staged": {

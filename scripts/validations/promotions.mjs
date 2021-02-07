@@ -1,6 +1,6 @@
 import fse from 'fs-extra';
 import glob from 'glob-promise';
-import log from 'node-pretty-log';
+import log from '../logger.mjs';
 
 let writeDir = './data/promotions';
 
