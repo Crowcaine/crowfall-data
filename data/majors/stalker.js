@@ -10,5 +10,5 @@ export default {
   name: 'Stalker',
   requirements: ['race:minotaur', 'domain:war'],
   type: 'major',
-  version: '6.400.0'
+  version: '6.400'
 };

@@ -24,5 +24,5 @@ export default {
   name: 'Warden',
   tags: ['melee', 'ranged', 'defense'],
   type: 'promotion',
-  version: '6.400.0'
+  version: '6.400'
 };

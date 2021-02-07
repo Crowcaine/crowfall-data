@@ -10,5 +10,5 @@ export default {
   name: 'Convictor',
   requirements: ['class:confessor', 'class:templar'],
   type: 'major',
-  version: '6.400.0'
+  version: '6.400'
 };

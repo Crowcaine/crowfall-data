@@ -5,5 +5,5 @@ export default {
   grants: ['power:shield-swipe', 'power:shield-block'],
   id: 'board-and-board',
   name: 'Board and Board',
-  version: '6.400.0'
+  version: '6.400'
 };

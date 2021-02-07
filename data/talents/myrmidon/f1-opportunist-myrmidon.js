@@ -5,5 +5,5 @@ export default {
   grants: ['power:opportunist-myrmidon'],
   id: 'opportunist-myrmidon',
   name: 'Opportunist',
-  version: '6.400.0'
+  version: '6.400'
 };

@@ -62,5 +62,5 @@ export default {
     l8: 'domain:justice',
     l9: 'domain:nature'
   },
-  version: '6.400.0'
+  version: '6.400'
 };

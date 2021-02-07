@@ -5,5 +5,5 @@ export default {
   grants: ['power:redirected-strikes'],
   id: 'redirected-strikes',
   name: 'Redirected Strikes',
-  version: '6.400.0'
+  version: '6.400'
 };

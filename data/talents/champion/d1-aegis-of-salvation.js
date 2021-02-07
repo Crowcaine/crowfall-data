@@ -5,5 +5,5 @@ export default {
   grants: ['power:aegis-of-salvation'],
   id: 'aegis-of-salvation',
   name: 'Aegis Of Salvation',
-  version: '6.400.0'
+  version: '6.400'
 };

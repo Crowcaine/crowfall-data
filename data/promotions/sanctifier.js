@@ -20,5 +20,5 @@ export default {
   name: 'Sanctifier',
   tags: ['melee', 'defense'],
   type: 'promotion',
-  version: '6.400.0'
+  version: '6.400'
 };

@@ -5,5 +5,5 @@ export default {
   name: 'Blessed Symbol',
   requirements: ['class:cleric', 'race:stoneborn'],
   type: 'minor',
-  version: '6.400.0'
+  version: '6.400'
 };

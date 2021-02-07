@@ -9,5 +9,5 @@ export default {
   name: 'Dead Eye',
   requirements: ['class:ranger', 'domain:dark'],
   type: 'major',
-  version: '6.400.0'
+  version: '6.400'
 };

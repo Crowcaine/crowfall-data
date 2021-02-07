@@ -4,5 +4,5 @@ export default {
   grants: ['power:chill-out'],
   id: 'chill-out',
   name: 'Chill Out',
-  version: '6.400.0'
+  version: '6.400'
 };

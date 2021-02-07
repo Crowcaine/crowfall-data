@@ -4,5 +4,5 @@ export default {
   grants: ['power:frost-armor'],
   id: 'frost-armor',
   name: 'Frost Armor',
-  version: '6.400.0'
+  version: '6.400'
 };

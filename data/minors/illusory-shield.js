@@ -8,5 +8,5 @@ export default {
   name: 'Illusory Shield',
   requirements: ['class:cleric', 'class:druid', 'class:knight'],
   type: 'minor',
-  version: '6.400.0'
+  version: '6.400'
 };

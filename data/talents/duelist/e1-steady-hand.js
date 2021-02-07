@@ -10,5 +10,5 @@ export default {
   ],
   id: 'steady-hand',
   name: 'Steady Hand',
-  version: '6.400.0'
+  version: '6.400'
 };

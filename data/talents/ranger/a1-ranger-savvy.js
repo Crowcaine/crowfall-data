@@ -5,5 +5,5 @@ export default {
   grants: ['power:rapid-fire', 'power:twin-surge'],
   id: 'ranger-savvy',
   name: 'Ranger Savvy',
-  version: '6.400.0'
+  version: '6.400'
 };

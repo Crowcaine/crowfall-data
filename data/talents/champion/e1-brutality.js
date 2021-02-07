@@ -9,5 +9,5 @@ export default {
   ],
   id: 'brutality',
   name: 'Brutality',
-  version: '6.400.0'
+  version: '6.400'
 };

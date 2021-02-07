@@ -5,5 +5,5 @@ export default {
   grants: ['power:refreshing-breeze'],
   id: 'refreshing-breeze',
   name: 'Refreshing Breeze',
-  version: '6.400.0'
+  version: '6.400'
 };

@@ -12,5 +12,5 @@ export default {
   name: 'Master of Focus',
   requirements: ['domain:fire', 'domain:frost'],
   type: 'major',
-  version: '6.400.0'
+  version: '6.400'
 };

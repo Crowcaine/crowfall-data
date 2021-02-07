@@ -4,5 +4,5 @@ export default {
   grants: ['power:barrage'],
   id: 'barrage',
   name: 'Barrage',
-  version: '6.400.0'
+  version: '6.400'
 };

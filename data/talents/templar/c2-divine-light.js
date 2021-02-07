@@ -4,5 +4,5 @@ export default {
   grants: ['power:divine-light'],
   id: 'divine-light',
   name: 'Divine Light',
-  version: '6.400.0'
+  version: '6.400'
 };

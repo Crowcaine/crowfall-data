@@ -9,5 +9,5 @@ export default {
   ],
   id: 'relentless',
   name: 'Relentless',
-  version: '6.400.0'
+  version: '6.400'
 };

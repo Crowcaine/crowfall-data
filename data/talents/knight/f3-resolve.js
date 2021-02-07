@@ -5,5 +5,5 @@ export default {
   grants: ['power:resolve'],
   id: 'resolve',
   name: 'Resolve',
-  version: '6.400.0'
+  version: '6.400'
 };

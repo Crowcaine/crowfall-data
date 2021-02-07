@@ -11,5 +11,5 @@ export default {
   ],
   id: 'forest-affinity',
   name: 'forest-affinity',
-  version: '6.400.0'
+  version: '6.400'
 };

@@ -10,5 +10,5 @@ export default {
   name: 'Rune Caster',
   requirements: ['class:cleric', 'class:templar', 'domain:justice'],
   type: 'major',
-  version: '6.400.0'
+  version: '6.400'
 };

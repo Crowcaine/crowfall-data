@@ -4,5 +4,5 @@ export default {
   grants: ['power:holy-shout'],
   id: 'holy-shout',
   name: 'Holy Shout',
-  version: '6.400.0'
+  version: '6.400'
 };

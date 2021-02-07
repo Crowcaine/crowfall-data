@@ -5,5 +5,5 @@ export default {
   grants: ['power:retribution-strike'],
   id: 'retribution-strike',
   name: 'Retribution Strike',
-  version: '6.400.0'
+  version: '6.400'
 };

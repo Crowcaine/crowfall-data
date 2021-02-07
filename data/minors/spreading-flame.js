@@ -5,5 +5,5 @@ export default {
   name: 'Spreading Flame',
   requirements: ['class:confessor'],
   type: 'minor',
-  version: '6.400.0'
+  version: '6.400'
 };

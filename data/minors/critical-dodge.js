@@ -5,5 +5,5 @@ export default {
   name: 'Critical Dodge',
   requirements: ['domain:shadow', 'domain:wind', 'domain:war'],
   type: 'minor',
-  version: '6.400.0'
+  version: '6.400'
 };

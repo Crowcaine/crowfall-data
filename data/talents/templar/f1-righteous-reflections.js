@@ -5,5 +5,5 @@ export default {
   grants: ['power:righteous-reflections'],
   id: 'righteous-reflections',
   name: 'Righteous Reflections',
-  version: '6.400.0'
+  version: '6.400'
 };

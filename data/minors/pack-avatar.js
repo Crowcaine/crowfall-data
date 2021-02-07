@@ -5,5 +5,5 @@ export default {
   name: 'Pack Avatar',
   requirements: ['race:centaur', 'race:elken'],
   type: 'minor',
-  version: '6.400.0'
+  version: '6.400'
 };

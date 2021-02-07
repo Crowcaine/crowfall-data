@@ -5,5 +5,5 @@ export default {
   grants: ['power:ice-sunder'],
   id: 'ice-sunder',
   name: 'Ice Sunder',
-  version: '6.400.0'
+  version: '6.400'
 };

@@ -10,5 +10,5 @@ export default {
   name: 'Frozen Dancer',
   requirements: ['class:frostweaver', 'domain:frost'],
   type: 'major',
-  version: '6.400.0'
+  version: '6.400'
 };

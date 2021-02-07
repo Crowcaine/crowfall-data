@@ -4,5 +4,5 @@ export default {
   grants: ['power:absolution'],
   id: 'absolution',
   name: 'Absolution',
-  version: '6.400.0'
+  version: '6.400'
 };

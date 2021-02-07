@@ -10,5 +10,5 @@ export default {
   name: 'Leecher',
   requirements: ['class:druid'],
   type: 'major',
-  version: '6.400.0'
+  version: '6.400'
 };

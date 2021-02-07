@@ -4,5 +4,5 @@ export default {
   grants: ['power:call-storm'],
   id: 'call-storm',
   name: 'Call Storm',
-  version: '6.400.0'
+  version: '6.400'
 };

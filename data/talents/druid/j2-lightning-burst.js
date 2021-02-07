@@ -5,5 +5,5 @@ export default {
   grants: ['power:lightning-burst'],
   id: 'lightning-burst',
   name: 'Lightning Burst',
-  version: '6.400.0'
+  version: '6.400'
 };

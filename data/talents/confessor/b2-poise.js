@@ -9,5 +9,5 @@ export default {
   ],
   id: 'poise',
   name: 'Poise',
-  version: '6.400.0'
+  version: '6.400'
 };

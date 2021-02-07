@@ -4,5 +4,5 @@ export default {
   grants: ['power:pulverize'],
   id: 'pulverize',
   name: 'Pulverize',
-  version: '6.400.0'
+  version: '6.400'
 };

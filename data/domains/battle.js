@@ -11,5 +11,5 @@ export default {
     'promotion:titan',
     'promotion:vindicator'
   ],
-  version: '6.400.0'
+  version: '6.400'
 };

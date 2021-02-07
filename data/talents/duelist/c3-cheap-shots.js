@@ -4,5 +4,5 @@ export default {
   grants: ['power:cheap-shots'],
   id: 'cheap-shots',
   name: 'Cheap Shots',
-  version: '6.400.0'
+  version: '6.400'
 };

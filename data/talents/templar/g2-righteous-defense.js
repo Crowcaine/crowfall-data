@@ -5,5 +5,5 @@ export default {
   grants: ['power:righteous-defense'],
   id: 'righteous-defense',
   name: 'Righteous Defense',
-  version: '6.400.0'
+  version: '6.400'
 };

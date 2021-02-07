@@ -4,5 +4,5 @@ export default {
   grants: ['power:illuminate', 'stat:stamina:15'],
   id: 'transcendence',
   name: 'Transcendence',
-  version: '6.400.0'
+  version: '6.400'
 };

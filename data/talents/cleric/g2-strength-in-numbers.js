@@ -5,5 +5,5 @@ export default {
   grants: ['power:strength-in-numbers'],
   id: 'strength-in-numbers',
   name: 'Strength in Numbers',
-  version: '6.400.0'
+  version: '6.400'
 };

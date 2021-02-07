@@ -10,5 +10,5 @@ export default {
   name: 'Demolisher',
   requirements: ['domain:battle'],
   type: 'major',
-  version: '6.400.0'
+  version: '6.400'
 };

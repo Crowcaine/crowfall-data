@@ -4,5 +4,5 @@ export default {
   grants: ['power:fire-bolt'],
   id: 'fire-bolt',
   name: 'Fire Bolt',
-  version: '6.400.0'
+  version: '6.400'
 };

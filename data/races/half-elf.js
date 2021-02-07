@@ -13,5 +13,5 @@ export default {
   ],
   id: 'half-elf',
   name: 'Half-Elf',
-  version: '6.400.0'
+  version: '6.400'
 };

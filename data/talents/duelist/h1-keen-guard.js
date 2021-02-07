@@ -4,5 +4,5 @@ export default {
   grants: ['power:keen-guard', 'stat:stealth:25', 'stat:stamina:15'],
   id: 'keen-guard',
   name: 'Keen Guard',
-  version: '6.400.0'
+  version: '6.400'
 };

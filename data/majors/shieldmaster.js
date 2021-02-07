@@ -10,5 +10,5 @@ export default {
   name: 'Shieldmaster',
   requirements: ['class:knight'],
   type: 'major',
-  version: '6.400.0'
+  version: '6.400'
 };

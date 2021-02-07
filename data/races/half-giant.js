@@ -13,5 +13,5 @@ export default {
   ],
   id: 'half-giant',
   name: 'Half-Giant',
-  version: '6.400.0'
+  version: '6.400'
 };

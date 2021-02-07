@@ -5,5 +5,5 @@ export default {
   grants: ['power:second-wind'],
   id: 'second-wind',
   name: 'Second Wind',
-  version: '6.400.0'
+  version: '6.400'
 };

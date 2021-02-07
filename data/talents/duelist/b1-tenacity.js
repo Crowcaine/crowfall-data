@@ -10,5 +10,5 @@ export default {
   ],
   id: 'tenacity',
   name: 'Tenacity',
-  version: '6.400.0'
+  version: '6.400'
 };

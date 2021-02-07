@@ -5,5 +5,5 @@ export default {
   grants: ['power:efficient-poisons'],
   id: 'efficient-poisons',
   name: 'Efficient Poisons',
-  version: '6.400.0'
+  version: '6.400'
 };

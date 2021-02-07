@@ -4,5 +4,5 @@ export default {
   grants: ['power:tend-wounds'],
   id: 'tend-wounds',
   name: 'Tend Wounds',
-  version: '6.400.0'
+  version: '6.400'
 };

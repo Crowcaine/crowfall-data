@@ -4,5 +4,5 @@ export default {
   grants: ['power:dirty-tricks'],
   id: 'dirty-tricks',
   name: 'Dirty Tricks',
-  version: '6.400.0'
+  version: '6.400'
 };

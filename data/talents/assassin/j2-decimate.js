@@ -4,5 +4,5 @@ export default {
   grants: ['power:decimate'],
   id: 'decimate',
   name: 'Decimate',
-  version: '6.400.0'
+  version: '6.400'
 };

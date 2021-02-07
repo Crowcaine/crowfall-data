@@ -10,5 +10,5 @@ export default {
   name: 'Master of Darkness',
   requirements: ['domain:shadow'],
   type: 'major',
-  version: '6.400.0'
+  version: '6.400'
 };

@@ -5,5 +5,5 @@ export default {
   grants: ['power:pureness-of-heart'],
   id: 'pureness-of-heart',
   name: 'Pureness of Heart',
-  version: '6.400.0'
+  version: '6.400'
 };

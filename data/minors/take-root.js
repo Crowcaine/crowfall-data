@@ -10,5 +10,5 @@ export default {
     'domain:protection'
   ],
   type: 'minor',
-  version: '6.400.0'
+  version: '6.400'
 };

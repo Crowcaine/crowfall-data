@@ -5,5 +5,5 @@ export default {
   name: 'Banshee Wail',
   requirements: ['domain:nature', 'domain:wind', 'domain:storm'],
   type: 'minor',
-  version: '6.400.0'
+  version: '6.400'
 };

@@ -4,5 +4,5 @@ export default {
   grants: ['power:serrated-blade'],
   id: 'serrated-blade',
   name: 'Serrated Blade',
-  version: '6.400.0'
+  version: '6.400'
 };

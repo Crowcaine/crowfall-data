@@ -5,5 +5,5 @@ export default {
   grants: ['power:shiv', 'equipment:poisons'],
   id: 'shiv',
   name: 'Shiv',
-  version: '6.400.0'
+  version: '6.400'
 };

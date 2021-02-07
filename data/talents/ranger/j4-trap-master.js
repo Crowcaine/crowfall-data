@@ -4,5 +4,5 @@ export default {
   grants: ['power:trap-master'],
   id: 'trap-master',
   name: 'Trap Master',
-  version: '6.400.0'
+  version: '6.400'
 };

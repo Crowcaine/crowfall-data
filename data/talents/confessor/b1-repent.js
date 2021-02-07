@@ -10,5 +10,5 @@ export default {
   ],
   id: 'repent',
   name: 'Repent',
-  version: '6.400.0'
+  version: '6.400'
 };

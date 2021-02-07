@@ -5,5 +5,5 @@ export default {
   grants: ['power:blizzard'],
   id: 'blizzard',
   name: 'Blizzard',
-  version: '6.400.0'
+  version: '6.400'
 };

@@ -5,5 +5,5 @@ export default {
   name: 'Heads Up',
   requirements: ['domain:light', 'domain:music', 'domain:dark'],
   type: 'minor',
-  version: '6.400.0'
+  version: '6.400'
 };

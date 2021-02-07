@@ -5,5 +5,5 @@ export default {
   name: "Bearer's Insignia",
   requirements: ['class:champion', 'domain:justice'],
   type: 'minor',
-  version: '6.400.0'
+  version: '6.400'
 };

@@ -4,5 +4,5 @@ export default {
   grants: ['power:iron-hide'],
   id: 'iron-hide',
   name: 'Iron Hide',
-  version: '6.400.0'
+  version: '6.400'
 };

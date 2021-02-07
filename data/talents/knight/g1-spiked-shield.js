@@ -5,5 +5,5 @@ export default {
   grants: ['power:spiked-shield'],
   id: 'spiked-shield',
   name: 'Spiked Shield',
-  version: '6.400.0'
+  version: '6.400'
 };

@@ -4,5 +4,5 @@ export default {
   grants: ['power:word-of-wrath'],
   id: 'word-of-wrath',
   name: 'Word of Wrath',
-  version: '6.400.0'
+  version: '6.400'
 };

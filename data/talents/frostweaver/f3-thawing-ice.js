@@ -5,5 +5,5 @@ export default {
   grants: ['power:thawing-ice'],
   id: 'thawing-ice',
   name: 'Thawing Ice',
-  version: '6.400.0'
+  version: '6.400'
 };

@@ -11,5 +11,5 @@ export default {
   name: 'Poison Sapper',
   requirements: ['domain:plague'],
   type: 'major',
-  version: '6.400.0'
+  version: '6.400'
 };

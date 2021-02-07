@@ -5,5 +5,5 @@ export default {
   grants: ['power:aura-of-chivalry'],
   id: 'aura-of-chivalry',
   name: 'Aura of Chivalry',
-  version: '6.400.0'
+  version: '6.400'
 };

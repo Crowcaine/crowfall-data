@@ -7,5 +7,5 @@ export default {
     'promotion:icecaller',
     'promotion:secutor'
   ],
-  version: '6.400.0'
+  version: '6.400'
 };

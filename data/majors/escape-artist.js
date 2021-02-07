@@ -10,5 +10,5 @@ export default {
   name: 'Escape Artist',
   requirements: ['domain:wind'],
   type: 'major',
-  version: '6.400.0'
+  version: '6.400'
 };

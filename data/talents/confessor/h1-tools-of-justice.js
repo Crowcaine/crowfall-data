@@ -10,5 +10,5 @@ export default {
   ],
   id: 'tools-of-justice',
   name: 'Tools of Justice',
-  version: '6.400.0'
+  version: '6.400'
 };

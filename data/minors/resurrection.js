@@ -11,5 +11,5 @@ export default {
     'domain:nature'
   ],
   type: 'minor',
-  version: '6.400.0'
+  version: '6.400'
 };

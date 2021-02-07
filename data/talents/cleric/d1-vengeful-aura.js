@@ -4,5 +4,5 @@ export default {
   grants: ['power:vengeful-aura'],
   id: 'vengeful-aura',
   name: 'Vengeful Aura',
-  version: '6.400.0'
+  version: '6.400'
 };

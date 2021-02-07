@@ -10,5 +10,5 @@ export default {
   name: 'Poisoned Trapper',
   requirements: ['domain:plague'],
   type: 'major',
-  version: '6.400.0'
+  version: '6.400'
 };

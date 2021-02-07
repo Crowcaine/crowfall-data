@@ -4,5 +4,5 @@ export default {
   grants: ['power:soothing-winds'],
   id: 'soothing-winds',
   name: 'Soothing Winds',
-  version: '6.400.0'
+  version: '6.400'
 };

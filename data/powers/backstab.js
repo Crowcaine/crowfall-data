@@ -7,5 +7,5 @@ export default {
   range: 5,
   target: 'reticle',
   castTime: 'instant',
-  version: '6.400.0'
+  version: '6.400'
 };

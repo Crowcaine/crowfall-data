@@ -9,5 +9,5 @@ export default {
   ],
   id: 'divine-alacrity',
   name: 'Divine Alacrity',
-  version: '6.400.0'
+  version: '6.400'
 };

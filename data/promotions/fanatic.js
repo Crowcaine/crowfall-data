@@ -19,5 +19,5 @@ export default {
   name: 'Fanatic',
   tags: ['ranged'],
   type: 'promotion',
-  version: '6.400.0'
+  version: '6.400'
 };

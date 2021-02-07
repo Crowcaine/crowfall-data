@@ -5,5 +5,5 @@ export default {
   grants: ['power:endurance'],
   id: 'endurance',
   name: 'Endurance',
-  version: '6.400.0'
+  version: '6.400'
 };

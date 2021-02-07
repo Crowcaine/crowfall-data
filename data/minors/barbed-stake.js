@@ -5,5 +5,5 @@ export default {
   name: 'Barbed Stake',
   requirements: ['race:elken', 'domain:dark', 'domain:plague'],
   type: 'minor',
-  version: '6.400.0'
+  version: '6.400'
 };

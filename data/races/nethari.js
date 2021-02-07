@@ -13,5 +13,5 @@ export default {
   ],
   id: 'nethari',
   name: 'Nethari',
-  version: '6.400.0'
+  version: '6.400'
 };

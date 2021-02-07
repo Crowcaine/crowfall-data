@@ -10,5 +10,5 @@ export default {
   name: 'Freedom Fighter',
   requirements: ['race:human', 'domain:nature', 'domain:wind'],
   type: 'major',
-  version: '6.400.0'
+  version: '6.400'
 };

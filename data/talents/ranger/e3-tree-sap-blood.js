@@ -10,5 +10,5 @@ export default {
   ],
   id: 'tree-sap-blood',
   name: 'tree-sap-blood',
-  version: '6.400.0'
+  version: '6.400'
 };

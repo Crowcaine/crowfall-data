@@ -10,5 +10,5 @@ export default {
   name: 'Heavy Hitter',
   requirements: ['race:half-giant', 'domain:battle', 'domain:music'],
   type: 'major',
-  version: '6.400.0'
+  version: '6.400'
 };

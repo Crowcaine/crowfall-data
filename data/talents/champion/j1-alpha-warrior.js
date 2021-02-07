@@ -5,5 +5,5 @@ export default {
   grants: ['power:alpha-warrior'],
   id: 'alpha-warrior',
   name: 'Alpha Warrior',
-  version: '6.400.0'
+  version: '6.400'
 };

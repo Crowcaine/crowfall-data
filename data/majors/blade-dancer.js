@@ -10,5 +10,5 @@ export default {
   name: 'Blade Dancer',
   requirements: ['domain:war'],
   type: 'major',
-  version: '6.400.0'
+  version: '6.400'
 };

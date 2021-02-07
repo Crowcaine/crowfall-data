@@ -9,5 +9,5 @@ export default {
   ],
   id: 'martial-weaponry',
   name: 'Martial Weaponry',
-  version: '6.400.0'
+  version: '6.400'
 };

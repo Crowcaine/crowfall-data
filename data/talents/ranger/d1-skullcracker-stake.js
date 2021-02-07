@@ -5,5 +5,5 @@ export default {
   grants: ['power:skullcracker-stake'],
   id: 'skullcracker-stake',
   name: 'Skullcracker Stake',
-  version: '6.400.0'
+  version: '6.400'
 };

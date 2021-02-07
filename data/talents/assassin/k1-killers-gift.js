@@ -12,5 +12,5 @@ export default {
   ],
   id: 'killers-gift',
   name: "Killer's Gift",
-  version: '6.400.0'
+  version: '6.400'
 };

@@ -5,5 +5,5 @@ export default {
   grants: ['power:surprise-strike'],
   id: 'surprise-strike',
   name: 'Surprise Strike',
-  version: '6.400.0'
+  version: '6.400'
 };

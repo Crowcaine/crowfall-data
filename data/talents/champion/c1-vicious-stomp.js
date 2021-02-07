@@ -4,5 +4,5 @@ export default {
   grants: ['power:vicious-stomp'],
   id: 'vicious-stomp',
   name: 'Vicious Stomp',
-  version: '6.400.0'
+  version: '6.400'
 };

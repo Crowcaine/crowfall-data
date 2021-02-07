@@ -5,5 +5,5 @@ export default {
   grants: ['power:blessed-protection'],
   id: 'blessed-protection',
   name: 'Blessed Protection',
-  version: '6.400.0'
+  version: '6.400'
 };

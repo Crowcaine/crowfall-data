@@ -10,5 +10,5 @@ export default {
   name: 'Elementalist',
   requirements: ['domain:fire', 'domain:frost', 'domain:music'],
   type: 'major',
-  version: '6.400.0'
+  version: '6.400'
 };

@@ -5,5 +5,5 @@ export default {
   grants: ['power:dagger-storm'],
   id: 'dagger-storm',
   name: 'Dagger Storm',
-  version: '6.400.0'
+  version: '6.400'
 };

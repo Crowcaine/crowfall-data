@@ -5,5 +5,5 @@ export default {
   grants: ['power:electrogenesis'],
   id: 'electrogenesis',
   name: 'Electrogenesis',
-  version: '6.400.0'
+  version: '6.400'
 };

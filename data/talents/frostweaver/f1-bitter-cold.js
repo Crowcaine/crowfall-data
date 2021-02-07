@@ -5,5 +5,5 @@ export default {
   grants: ['power:bitter-cold'],
   id: 'bitter-cold',
   name: 'Bitter Cold',
-  version: '6.400.0'
+  version: '6.400'
 };

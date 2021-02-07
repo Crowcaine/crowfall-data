@@ -10,5 +10,5 @@ export default {
   name: 'Stalwart',
   requirements: ['class:cleric', 'class:knight'],
   type: 'major',
-  version: '6.400.0'
+  version: '6.400'
 };

@@ -10,5 +10,5 @@ export default {
   name: 'Blade Master',
   requirements: ['domain:war', 'domain:death'],
   type: 'major',
-  version: '6.400.0'
+  version: '6.400'
 };

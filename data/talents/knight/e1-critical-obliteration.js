@@ -10,5 +10,5 @@ export default {
   ],
   id: 'critical-obliteration',
   name: 'Critical Obliteration',
-  version: '6.400.0'
+  version: '6.400'
 };

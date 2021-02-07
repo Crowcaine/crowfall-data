@@ -10,5 +10,5 @@ export default {
   ],
   id: 'military-training',
   name: 'Military Training',
-  version: '6.400.0'
+  version: '6.400'
 };

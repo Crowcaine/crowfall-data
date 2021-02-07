@@ -45,5 +45,5 @@ export default {
     l8: 'domain:frost',
     l9: 'domain:death'
   },
-  version: '6.400.0'
+  version: '6.400'
 };

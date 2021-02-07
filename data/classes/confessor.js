@@ -45,5 +45,5 @@ export default {
     l8: 'domain:fire',
     l9: 'domain:protection'
   },
-  version: '6.400.0'
+  version: '6.400'
 };

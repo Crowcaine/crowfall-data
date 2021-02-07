@@ -5,5 +5,5 @@ export default {
   grants: ['power:macemanship'],
   id: 'macemanship',
   name: 'Macemanship',
-  version: '6.400.0'
+  version: '6.400'
 };

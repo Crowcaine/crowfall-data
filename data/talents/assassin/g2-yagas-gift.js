@@ -5,5 +5,5 @@ export default {
   grants: ['power:yagas-gift'],
   id: 'yagas-gift',
   name: "Yaga's Gift",
-  version: '6.400.0'
+  version: '6.400'
 };

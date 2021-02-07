@@ -11,5 +11,5 @@ export default {
   ],
   id: 'freezing-reign',
   name: 'Freezing Reign',
-  version: '6.400.0'
+  version: '6.400'
 };

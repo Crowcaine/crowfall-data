@@ -5,5 +5,5 @@ export default {
   grants: ['power:draining-blades'],
   id: 'draining-blades',
   name: 'Draining Blades',
-  version: '6.400.0'
+  version: '6.400'
 };

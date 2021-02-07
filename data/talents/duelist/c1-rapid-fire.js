@@ -4,5 +4,5 @@ export default {
   grants: ['power:rapid-fire'],
   id: 'rapid-fire',
   name: 'Rapid Fire',
-  version: '6.400.0'
+  version: '6.400'
 };

@@ -4,5 +4,5 @@ export default {
   grants: ['power:circle-of-life'],
   id: 'circle-of-life',
   name: 'Circle of Life',
-  version: '6.400.0'
+  version: '6.400'
 };

@@ -4,5 +4,5 @@ export default {
   grants: ['power:furious-slash'],
   id: 'furious-slash',
   name: 'Furious Slash',
-  version: '6.400.0'
+  version: '6.400'
 };

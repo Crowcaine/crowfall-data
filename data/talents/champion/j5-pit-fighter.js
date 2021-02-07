@@ -5,5 +5,5 @@ export default {
   grants: ['power:pit-fighter'],
   id: 'pit-fighter',
   name: 'Pit Fighter',
-  version: '6.400.0'
+  version: '6.400'
 };

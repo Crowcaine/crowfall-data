@@ -5,5 +5,5 @@ export default {
   grants: [],
   id: 'poison-mastery',
   name: 'Poison Mastery',
-  version: '6.400.0'
+  version: '6.400'
 };

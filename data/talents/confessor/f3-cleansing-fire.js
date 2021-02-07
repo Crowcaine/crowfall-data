@@ -5,5 +5,5 @@ export default {
   grants: ['power:cleansing-fire'],
   id: 'cleansing-fire',
   name: 'Noble Purpose',
-  version: '6.400.0'
+  version: '6.400'
 };

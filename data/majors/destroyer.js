@@ -10,5 +10,5 @@ export default {
   name: 'Destroyer',
   requirements: ['class:champion'],
   type: 'major',
-  version: '6.400.0'
+  version: '6.400'
 };

@@ -5,5 +5,5 @@ export default {
   grants: ['power:sun-burn'],
   id: 'sun-burn',
   name: 'Sun Burn',
-  version: '6.400.0'
+  version: '6.400'
 };

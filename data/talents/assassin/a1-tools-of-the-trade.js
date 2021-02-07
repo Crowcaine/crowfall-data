@@ -5,5 +5,5 @@ export default {
   grants: ['power:backstab', 'power:in-the-zone'],
   id: 'tools-of-the-trade',
   name: 'Tools of the Trade',
-  version: '6.400.0'
+  version: '6.400'
 };

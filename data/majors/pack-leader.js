@@ -10,5 +10,5 @@ export default {
   name: 'Pack Leader',
   requirements: ['race:high-elf', 'domain:light', 'domain:nature'],
   type: 'major',
-  version: '6.400.0'
+  version: '6.400'
 };

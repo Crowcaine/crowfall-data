@@ -4,5 +4,5 @@ export default {
   grants: ['power:healing-burst'],
   id: 'healing-burst',
   name: 'Healing Burst',
-  version: '6.400.0'
+  version: '6.400'
 };

@@ -4,5 +4,5 @@ export default {
   grants: ['power:bloodied-swipe'],
   id: 'bloodied-swipe',
   name: 'Bloodied Swipe',
-  version: '6.400.0'
+  version: '6.400'
 };

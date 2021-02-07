@@ -5,5 +5,5 @@ export default {
   name: 'Touch of Rot',
   requirements: ['domain:plague'],
   type: 'minor',
-  version: '6.400.0'
+  version: '6.400'
 };

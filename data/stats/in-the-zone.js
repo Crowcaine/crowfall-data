@@ -5,5 +5,5 @@ export default {
   name: 'In The Zone',
   target: 'self',
   cast_time: 'instant',
-  version: '6.400.0'
+  version: '6.400'
 };

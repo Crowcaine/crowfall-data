@@ -4,5 +4,5 @@ export default {
   grants: ['power:black-ice'],
   id: 'black-ice',
   name: 'Black Ice',
-  version: '6.400.0'
+  version: '6.400'
 };

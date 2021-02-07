@@ -49,5 +49,5 @@ export default {
     l8: 'domain:shadow',
     l9: 'domain:wind'
   },
-  version: '6.400.0'
+  version: '6.400'
 };

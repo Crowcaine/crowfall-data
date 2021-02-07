@@ -45,5 +45,5 @@ export default {
     l8: 'domain:storm',
     l9: 'domain:light'
   },
-  version: '6.400.0'
+  version: '6.400'
 };

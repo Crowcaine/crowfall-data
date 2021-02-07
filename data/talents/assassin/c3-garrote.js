@@ -4,5 +4,5 @@ export default {
   grants: ['power:garrote'],
   id: 'garrote',
   name: 'Garrote',
-  version: '6.400.0'
+  version: '6.400'
 };

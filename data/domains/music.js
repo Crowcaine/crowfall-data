@@ -12,5 +12,5 @@ export default {
     'promotion:sentinel',
     'promotion:slayer'
   ],
-  version: '6.400.0'
+  version: '6.400'
 };

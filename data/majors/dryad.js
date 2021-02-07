@@ -10,5 +10,5 @@ export default {
   name: 'Dryad',
   requirements: ['race:elken', 'domain:nature'],
   type: 'major',
-  version: '6.400.0'
+  version: '6.400'
 };

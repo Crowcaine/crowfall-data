@@ -5,5 +5,5 @@ export default {
   grants: ['power:divine-presence'],
   id: 'divine-presence',
   name: 'Divine Presence',
-  version: '6.400.0'
+  version: '6.400'
 };

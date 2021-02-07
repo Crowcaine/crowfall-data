@@ -5,5 +5,5 @@ export default {
   grants: ['power:juggernaut'],
   id: 'juggernaut',
   name: 'Juggernaut',
-  version: '6.400.0'
+  version: '6.400'
 };

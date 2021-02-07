@@ -10,5 +10,5 @@ export default {
   ],
   id: 'into-the-fray',
   name: 'Into the Fray',
-  version: '6.400.0'
+  version: '6.400'
 };
