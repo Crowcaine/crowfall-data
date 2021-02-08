@@ -3,11 +3,11 @@ export default {
   description:
     'A master of pistols who enhances their powers when dealing critical strikes.',
   enhances: {
-    'power:peppershot-box': 'Now deals 50% more damage',
+    'power:flinlock-shot':
+      'Now generates an additional pip when used and has a chance to have its cooldown reset when using basic saber attacks and pistol shots.',
     'power:keen-guard':
       'Now adds a 1% critical strike and 3 critical damage buff that scales with pips.',
-    'power:flinlock-shot':
-      'Now generates an additional pip when used and has a chance to have its cooldown reset when using basic saber attacks and pistol shots.'
+    'power:peppershot-box': 'Now deals 50% more damage'
   },
   grants: [
     'mastery:pistol',

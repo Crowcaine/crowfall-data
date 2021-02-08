@@ -5,10 +5,10 @@ export default {
   enhances: {
     'power:chill-out':
       'Now also heals you and the lowest health member of your group',
-    'power:ice-weave': 'Now also heals and cannot be flipped.',
     'power:crystal-lance':
       'Now heals the icecaller for the damage done.',
-    'power:frost-armor': 'Now heals the target when picked up.'
+    'power:frost-armor': 'Now heals the target when picked up.',
+    'power:ice-weave': 'Now also heals and cannot be flipped.'
   },
   grants: [
     'proficiency:mail',

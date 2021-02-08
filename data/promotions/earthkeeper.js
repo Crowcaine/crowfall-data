@@ -3,10 +3,10 @@ export default {
   description:
     'With a single-minded focus of healing and resource regeneration, the chosen of Gaea are welcome by all.',
   enhances: {
-    'power:blight':
-      'Now also heals any friendlies in the radius and has a chance to spawn healing orbs for each ally healed.',
     'power:bark-skin':
       'Now has a self heal when cast, plus heals if the barrier is broken.',
+    'power:blight':
+      'Now also heals any friendlies in the radius and has a chance to spawn healing orbs for each ally healed.',
     'power:grasping-roots':
       'Now spawns healing orbs for every enemy hit.'
   },

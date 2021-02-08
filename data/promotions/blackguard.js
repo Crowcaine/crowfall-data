@@ -3,9 +3,9 @@ export default {
   description:
     'This dweller of the darkness achives victory through outlasting their opponents, in every possible way.',
   enhances: {
-    'power:kidney-shot': 'Now adds a Bleed when used',
+    'power:backstab': 'Now adds a Barrier when used',
     'power:in-the-zone': 'Now increases the duration per pip spent.',
-    'power:backstab': 'Now adds a Barrier when used'
+    'power:kidney-shot': 'Now adds a Bleed when used'
   },
   grants: [
     'proficiency:mail',

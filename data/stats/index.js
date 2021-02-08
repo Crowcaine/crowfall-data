@@ -87,15 +87,15 @@ export default {
     name: 'Attack Power',
     type: 'bonus'
   },
-  'backstab-damage': {
-    id: 'backstab-damage',
-    name: 'Backstab Damage',
-    percent: true,
-    type: 'bonus'
-  },
   'backstab-critical-strike': {
     id: 'backstab-critical-strike',
     name: 'Backstab Critical Strike',
+    percent: true,
+    type: 'bonus'
+  },
+  'backstab-damage': {
+    id: 'backstab-damage',
+    name: 'Backstab Damage',
     percent: true,
     type: 'bonus'
   },

@@ -3,11 +3,11 @@ export default {
   description:
     'Forgoing heavier armor for superior damage, this bladesman has increased damage based on their mastery of fire.',
   enhances: {
+    'power:divine-light':
+      'Now has increased damage and applie damnation, now only heals caster.',
     'power:holy-warrior':
       'Now increases holy damage, and increases your movement speed in combat while active.',
-    'power:judgement': 'Now reduces the pip cost for casting by 1.',
-    'power:divine-light':
-      'Now has increased damage and applie damnation, now only heals caster.'
+    'power:judgement': 'Now reduces the pip cost for casting by 1.'
   },
   grants: [
     'mastery:great-sword',

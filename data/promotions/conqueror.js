@@ -3,11 +3,10 @@ export default {
   description:
     'Usually known for recklessness, this thoughtful warrior knows the key to winning a fight is to hamper and control your opponents.',
   enhances: {
-    'power:whirlwind':
-      'Now immune to crowd control while channeling.',
-    'power:neck-slash': 'Now applies suppression.',
     'power:berserk':
-      'Now escapes active crow control and grants crowd control immunity'
+      'Now escapes active crow control and grants crowd control immunity',
+    'power:neck-slash': 'Now applies suppression.',
+    'power:whirlwind': 'Now immune to crowd control while channeling.'
   },
   grants: [
     'mastery:axe',

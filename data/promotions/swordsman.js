@@ -5,9 +5,9 @@ export default {
   enhances: {
     'power:oath-of-will':
       'Now grants a 25% critical strike increase for 15s or until you crit 3 times.',
-    'power:pursuit': 'Now has a reduced cooldown.',
     'power:obliterate':
-      'Now has a 100% critical strike chance for the bleed applied to it.'
+      'Now has a 100% critical strike chance for the bleed applied to it.',
+    'power:pursuit': 'Now has a reduced cooldown.'
   },
   grants: [
     'mastery:axe',

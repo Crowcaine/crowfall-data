@@ -4,9 +4,9 @@ export default {
     'Controlling enemies will cause this brute to become even more powerful.',
   enhances: {
     'power:leap': 'Now applies a Knockdown.',
-    'power:whirling-pain': 'Now applies Slow then Suppress.',
     'power:neck-breaker':
-      'Now has cost reduced to 300 and applies Knockdown'
+      'Now has cost reduced to 300 and applies Knockdown',
+    'power:whirling-pain': 'Now applies Slow then Suppress.'
   },
   grants: [
     'mastery:great-axe',

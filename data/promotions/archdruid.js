@@ -3,10 +3,10 @@ export default {
   description:
     'Balance upon the precipice of Life and Death magic, this master of nature can heal a group or set up devastating explosions with their orbs.',
   enhances: {
-    'power:blight':
-      'Now converts heal orbs into exploding orbs that deal damage to nearby enemies when they explode.',
     'power:bark-skin':
       'Now increases the thorns damage by 20 and causes a small aoe when your barksin barriers are destroyed.',
+    'power:blight':
+      'Now converts heal orbs into exploding orbs that deal damage to nearby enemies when they explode.',
     'power:grasping-roots': 'Now applies blackmantle when used.'
   },
   grants: [

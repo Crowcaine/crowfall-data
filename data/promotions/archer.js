@@ -3,12 +3,12 @@ export default {
   description:
     'A master of bows who can shoot whilst on the move and excels at bringing down enemies from afar.',
   enhances: {
-    'power:rapid-fire':
-      'Now shoots up to 10 arrows. Gain a critical strike buff for each non-critical hit.',
     'power:concussive-trap':
       "Now reduces target's personal damage modifier.",
     'power:disengage':
-      'Now grants a power damage bonus: ranged buff when used.'
+      'Now grants a power damage bonus: ranged buff when used.',
+    'power:rapid-fire':
+      'Now shoots up to 10 arrows. Gain a critical strike buff for each non-critical hit.'
   },
   grants: [
     'mastery:recurve-bow',

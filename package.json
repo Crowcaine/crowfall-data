@@ -27,7 +27,8 @@
   "scripts": {
     "build": "npm run eslint && npm run validation",
     "lint": "eslint --fix ./data ",
-    "pretty": "prettier --write ./data",
+    "pretty": "npm run sort-objects && prettier --write ./data",
+    "sort-objects": "node --experimental-modules  --experimental-json-modules  scripts/sort-object.mjs",
     "validation": "node --experimental-modules  --experimental-json-modules  scripts/validate.mjs"
   },
   "type": "module",

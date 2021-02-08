@@ -3,11 +3,11 @@ export default {
   description:
     'A well-rounded defender of the forest, good with both bows and one-handed weapons. Access to mail armor makes them sturdier than their leather-wearing counterparts.',
   enhances: {
-    'power:twin-surge': 'Now second attack applies a suppress.',
     'power:concussive-trap':
       'Now has a reduced cooldown and grants a barrier when triggered.',
     'power:disengage':
-      'Now also places a trap where you leapt from and rest the cooldown on stake powers.'
+      'Now also places a trap where you leapt from and rest the cooldown on stake powers.',
+    'power:twin-surge': 'Now second attack applies a suppress.'
   },
   grants: [
     'mastery:recurve-bow',

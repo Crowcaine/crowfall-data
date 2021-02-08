@@ -4,10 +4,9 @@ export default {
     'This terror fuels increased critical strikes with dominance gained from their powers.',
   enhances: {
     'power:leap': 'Now adds a point of Dominance.',
-    'power:whirling-pain':
-      "Now reduces enemy's Anti-Critical Strike.",
     'power:neck-breaker':
-      'Now has its cost reduced to 250 and consumes Dominance to automatically land a Critical.'
+      'Now has its cost reduced to 250 and consumes Dominance to automatically land a Critical.',
+    'power:whirling-pain': "Now reduces enemy's Anti-Critical Strike."
   },
   grants: [
     'mastery:great-axe',

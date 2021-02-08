@@ -5,9 +5,9 @@ export default {
   enhances: {
     'power:leap':
       'Now heals you when used below 50% health, once every 90 seconds.',
-    'power:whirling-pain': 'Now adds a Barrier when used.',
     'power:neck-breaker':
-      'Now increases your Max Health by 1875 and heals you for 2350 Hitpoints, and applies a Root to targets.'
+      'Now increases your Max Health by 1875 and heals you for 2350 Hitpoints, and applies a Root to targets.',
+    'power:whirling-pain': 'Now adds a Barrier when used.'
   },
   grants: [
     'proficiency:plate',

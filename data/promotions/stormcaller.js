@@ -3,10 +3,10 @@ export default {
   description:
     'Eschewing the balance of nature for pure destruction, the acller of storm has one purpose.',
   enhances: {
-    'power:blight':
-      'Now spawns an electric field that deals periodic damage in an area.',
     'power:bark-skin':
       'Now is self only, the duration is increased and also debuffs electric mitigation of enemies that attack you.',
+    'power:blight':
+      'Now spawns an electric field that deals periodic damage in an area.',
     'power:grasping-roots':
       'Now ensnared enemies take more elemental damage.'
   },

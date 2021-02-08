@@ -3,10 +3,10 @@ export default {
   description:
     'Using ice and heavy armor to shield themselces makes this an incredibly tough and defensive wielder of magic.',
   enhances: {
-    'power:volatile-ice-weave': 'Now inflicts a knockdown.',
     'power:freezing-blast': 'Now applies a crippling ice debuff.',
     'power:shatter-storm':
-      'Now has a chance to spawn frost armor on hit.'
+      'Now has a chance to spawn frost armor on hit.',
+    'power:volatile-ice-weave': 'Now inflicts a knockdown.'
   },
   grants: [
     'proficiency:mail',

@@ -3,11 +3,11 @@ export default {
   description:
     'Known for lurking in the shadows and leaving only to finish off a wounded target.',
   enhances: {
-    'power:peppershot-box': 'Now inflicts stun on 5 pips spent.',
+    'power:flinlock-shot':
+      'Now increases movement speed for a duration when used.',
     'power:keen-guard':
       'Now has a chance to slow enemies that hit you while active.',
-    'power:flinlock-shot':
-      'Now increases movement speed for a duration when used.'
+    'power:peppershot-box': 'Now inflicts stun on 5 pips spent.'
   },
   grants: [
     'mastery:pistol',

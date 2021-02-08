@@ -3,11 +3,11 @@ export default {
   description:
     'Sacrificing damage and healing potential this maven of battle excels at controlling enemies.',
   enhances: {
+    'power:flash-of-light':
+      'Now also Blinds enemies with 7m of target, up to 4 additional targets and has a reduced cooldown.',
     'power:holy-symbol': 'Now applies a Knockdown to enemies.',
     'power:illuminate':
-      'Basic attacks regenerate mana for 15 seconds and applies a Healing Bonus buff to the group.',
-    'power:flash-of-light':
-      'Now also Blinds enemies with 7m of target, up to 4 additional targets and has a reduced cooldown.'
+      'Basic attacks regenerate mana for 15 seconds and applies a Healing Bonus buff to the group.'
   },
   grants: [
     'proficiency:plate',

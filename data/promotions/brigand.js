@@ -3,9 +3,9 @@ export default {
   description:
     'A stealthy lurker of the shadows focused solely on melee weapons and eliminating their victims with lethal traps.',
   enhances: {
+    'power:concussive-trap': 'Now can be placed from stealth.',
     'power:sweep':
       'Now applies a barrier and increases your movement speed in combat.',
-    'power:concussive-trap': 'Now can be placed from stealth.',
     'power:twin-surge':
       'Now deals mroe damage against bleeding targets.'
   },
