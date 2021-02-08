@@ -7,8 +7,8 @@ export default {
     'creates a field, snaring any enemies in it every second for 15 seconds as long as they remain near the stake.',
   duration: 15,
   id: 'slow-stake',
-  name: 'Slow Stake',
   maxTargets: 5,
+  name: 'Slow Stake',
   radius: 10,
   target: 'self',
   version: '6.400'

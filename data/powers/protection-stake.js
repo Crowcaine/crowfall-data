@@ -7,8 +7,8 @@ export default {
     'creates a field granting 15% Personal Damage Modifier to you for 30 seconds as long as you remain near the Stake.',
   duration: 30,
   id: 'protection-stake',
-  name: 'Protection Stake',
   maxTargets: 5,
+  name: 'Protection Stake',
   radius: 10,
   target: 'self',
   version: '6.400'

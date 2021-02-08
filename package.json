@@ -33,6 +33,6 @@
   },
   "type": "module",
   "lint-staged": {
-    "*.js": ["eslint --cache --fix"]
+    "*.js": ["npm run pretty", "eslint --cache --fix"]
   }
 }

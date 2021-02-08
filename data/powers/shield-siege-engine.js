@@ -4,8 +4,8 @@ export default {
   description:
     'reduces damage taken by siege engines in the area by 90%.',
   id: 'shield-siege-engine',
+  maxTargets: 5,
   name: 'Shield Siege Engine',
   radius: 10,
-  maxTargets: 5,
   version: '6.400'
 };
