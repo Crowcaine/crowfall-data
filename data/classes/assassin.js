@@ -33,7 +33,7 @@ export default {
     i3: 'promotion:blackguard',
     j1: 'talent:bloodthirsty',
     j2: 'talent:decimate',
-    j3: 'talent:irresistable',
+    j3: 'talent:irresistible',
     j4: 'talent:blackjack-toss',
     j5: 'talent:resourceful-tactics',
     j6: 'talent:dagger-storm',
