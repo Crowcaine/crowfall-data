@@ -21,7 +21,7 @@ import log from '../logger.mjs';
     if (file !== expectedFile) {
       log(
         'error',
-        `id ${content.id} does not match file name ${expectedFile}`
+        `id ${content.id} does not match file name ${file}`
       );
     }
   }
