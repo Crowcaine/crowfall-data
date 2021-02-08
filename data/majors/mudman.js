@@ -3,7 +3,7 @@ export default {
   grants: [
     'stat:barrier:100',
     'stat:resistance-physical:300',
-    'power:muck-splatter',
+    'power:muck-spatter',
     'power:jelly-skin'
   ],
   id: 'mudman',

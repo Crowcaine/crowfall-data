@@ -2,7 +2,7 @@ export default {
   castTime: 'instant',
   cooldown: 3,
   cost: 1,
-  costType: 'Pips',
+  costType: 'pips',
   description:
     'gashes your enemy for 110 damage, scale with the amount of pips spent. When used again an exposed target, you gain 2 pips.',
   id: 'decimate',
