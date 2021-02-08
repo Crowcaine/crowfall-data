@@ -3,7 +3,7 @@ export default {
   grants: [
     'stat:resistance-elemental:300',
     'stat:support-power:100',
-    'power:soothing winds',
+    'power:soothing-winds',
     'power:cleanse'
   ],
   id: 'sun-worshiper',
