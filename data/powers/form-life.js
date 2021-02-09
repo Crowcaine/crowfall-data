@@ -1,5 +1,5 @@
 export default {
-  castTime: 'instant',
+  castType: 'instant',
   combo: {
     a1: 'form-life-ii'
   },

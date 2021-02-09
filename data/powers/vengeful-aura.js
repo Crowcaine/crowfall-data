@@ -1,5 +1,5 @@
 export default {
-  castTime: 'toggle',
+  castType: 'toggle',
   description:
     'fortifies group members and you with otherworldly strength increasing their Attack Power by 75 while you maintain the effect.',
   duration: 30,

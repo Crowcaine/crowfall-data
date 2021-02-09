@@ -1,5 +1,5 @@
 export default {
-  castTime: 'instant',
+  castType: 'instant',
   cooldown: 14,
   description:
     'applies the Exposed debuff for 30 seconds to reveal weakness you may capitalize on.',

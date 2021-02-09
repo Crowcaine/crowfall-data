@@ -1,5 +1,5 @@
 export default {
-  castTime: 'passive',
+  castType: 'passive',
   description:
     'causes you to gain a stacking 5% Poison Damage Bonus for 15 seconds when you apply a Poison Application buff to yourself, stacks to 5.',
   duration: 15,

@@ -1,5 +1,5 @@
 export default {
-  castTime: 'instant',
+  castType: 'instant',
   cooldown: 26,
   cost: 1,
   costType: 'pips',

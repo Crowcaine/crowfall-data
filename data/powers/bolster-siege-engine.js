@@ -1,5 +1,5 @@
 export default {
-  castTime: 'hold channeled',
+  castType: 'hold channeled',
   cooldown: 10,
   description:
     'empowers a targeted siege engine adding 100% damage bonus.',

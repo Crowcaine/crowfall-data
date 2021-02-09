@@ -1,5 +1,5 @@
 export default {
-  castTime: 'hold channeled',
+  castType: 'hold channeled',
   cooldown: 20,
   description: 'repairs a targeted siege engine.',
   id: 'repair-siege-engine',

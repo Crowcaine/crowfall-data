@@ -1,5 +1,5 @@
 export default {
-  castTime: 'passive',
+  castType: 'passive',
   description:
     'applies ice resistance debuff for 15 when you apply a frostbite to an enemy.',
   id: 'harsh-elements',

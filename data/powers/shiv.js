@@ -1,5 +1,5 @@
 export default {
-  castTime: 'instant',
+  castType: 'instant',
   combo: {
     a1: 'sap-strike',
     a2: 'septic-strike'

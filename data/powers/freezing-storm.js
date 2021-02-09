@@ -1,5 +1,5 @@
 export default {
-  castTime: 'ground aimed',
+  castType: 'ground aimed',
   cooldown: 15,
   cost: 80,
   costType: 'resource',

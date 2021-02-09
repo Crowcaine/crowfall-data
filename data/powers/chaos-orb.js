@@ -1,5 +1,5 @@
 export default {
-  castTime: 'charged',
+  castType: 'charged',
   cooldown: 9,
   cost: 144,
   costType: 'resource',

@@ -1,5 +1,5 @@
 export default {
-  castTime: 'passive',
+  castType: 'passive',
   description:
     'grants an additional pip to the assasin when you hit with Deadly Overhead of Blinkstep.',
   id: 'resourceful-tactics',

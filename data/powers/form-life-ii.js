@@ -1,5 +1,5 @@
 export default {
-  castTime: 'instant',
+  castType: 'instant',
   cooldown: 2,
   description:
     'manifests an orb at your targeted location that allies or you may use to heal 240 damage.',
