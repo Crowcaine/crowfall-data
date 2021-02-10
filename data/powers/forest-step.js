@@ -6,9 +6,7 @@ export default {
   cooldown: 24,
   cost: 150,
   costType: 'resource',
-  description: 'blinks you through the forest shadows directly to your target and strike for 220 damage.
-
-This power dismounts targets that are hit by it.',
+  description: 'blinks you through the forest shadows directly to your target and strike for 220 damage.\nThis power dismounts targets that are hit by it.',
   id: 'forest-step',
   name: 'Forest Step',
   range: 30,
