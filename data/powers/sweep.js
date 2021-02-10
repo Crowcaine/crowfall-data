@@ -1,7 +1,8 @@
 export default {
   castType: 'instant',
   combo: {
-    '2a': 'jab', '2b' : 'disengage-ranger'
+    '2a': 'jab',
+    '2b' : 'disengage-ranger'
   },
   cooldown: 23,
   cost: 228,
