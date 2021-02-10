@@ -1,8 +1,8 @@
 export default {
   class: 'frostweaver',
-  description: 'This talent grants the [power:freezing-reign] power.',
+  description: 'This talent grants the [power:shatter-storm] power.',
   grants: [
-    'power:freezing-reign',
+    'power:shatter-storm',
     'stat:stamina:15',
     'stat:max-mana:250',
     'stat:mana-regen-in-combat:9',
