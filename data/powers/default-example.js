@@ -12,6 +12,6 @@ export default {
   maxTargets: 5,
   name: 'Aegis of Salvation',
   range: 5,
-  target: 'cone', (cone, sphere, self)
+  target: 'cone',
   version: '6.400'
 };
