@@ -2,7 +2,8 @@ export default {
   castType: 'instant',
   cooldown: 68,
   costType: 'energy',
-  description: 'increases your perception by 25 and detects enemies in Stealth, while increasing your groups Attack Power by 50 and removing the Exposed state for those within 50m.',
+  description:
+    'increases your perception by 25 and detects enemies in Stealth, while increasing your groups Attack Power by 50 and removing the Exposed state for those within 50m.',
   duration: 30,
   id: 'alertness',
   maxTargets: 5,

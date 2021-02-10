@@ -6,7 +6,8 @@ export default {
   cooldown: 9,
   cost: 143,
   costType: 'energy',
-  description: 'slashes in front of you twice for 95 damage. Applies a Bleed effect.\nBleeding causes 67 Bleed damage every two seconds for 16 seconds.',
+  description:
+    'slashes in front of you twice for 95 damage. Applies a Bleed effect.\nBleeding causes 67 Bleed damage every two seconds for 16 seconds.',
   id: 'cross-slash',
   name: 'Cross Slash',
   range: 5,
