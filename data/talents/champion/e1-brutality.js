@@ -1,6 +1,7 @@
 export default {
   class: 'champion',
   grants: [
+    'stat:strength:40',
     'stat:dexterity:20',
     'stat:intellect:10',
     'stat:critical-strike:5',
