@@ -1,5 +1,5 @@
 export default {
-  castType: 'instant',    (instant, hold-channeled, passive, ground-aimed)
+  castType: 'instant', 
   combo: {
     '2a': 'aegis-of-salvation-ii'
   },
