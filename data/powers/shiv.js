@@ -1,8 +1,8 @@
 export default {
   castType: 'instant',
   combo: {
-    a1: 'sap-strike',
-    a2: 'septic-strike'
+    '2a': 'sap-strike',
+    '2b': 'septic-strike'
   },
   cooldown: 14,
   description:

@@ -1,7 +1,7 @@
 export default {
   castType: 'instant',
   combo: {
-    a1: 'form-life-ii'
+    '2a': 'form-life-ii'
   },
   cooldown: 4,
   cost: 96,

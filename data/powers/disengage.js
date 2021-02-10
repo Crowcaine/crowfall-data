@@ -1,7 +1,7 @@
 export default {
   castType: 'instant',
   combo: {
-    a1: 'engage'
+    '2a': 'engage'
   },
   cooldown: 11,
   description:
