@@ -1,12 +1,10 @@
 export default {
-  castType: 'instant',
-  cooldown: 47,
+  castType: 'passive',
   description:
-    'lines an enemy in faerie fire decreasing their [stat:anti-critical-strike:8] by 8% for 30 seconds. The target cannot stealth while affected.',
+    'has a chance of applying a debuff when you attack, decreasing the targets Final Physical Mitigation by 20% and preventing stealth for 30 seconds.',
   duration: 30,
   id: 'faerie-fire',
   name: 'Faerie Fire',
-  range: 20,
-  target: 'ray',
+  target: 'self',
   version: '6.400'
 };
