@@ -1,5 +1,8 @@
 export default {
   castType: 'instant',
+  combo: {
+    '2a': 'piercing-lance'
+  },
   cooldown: 9,
   cost: 114,
   costType: 'mana',
