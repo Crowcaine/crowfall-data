@@ -3,7 +3,7 @@ export default {
   grants: [
     'stat:strength:5',
     'stat:intellect:30',
-    'stat:spirit:1-',
+    'stat:spirit:10',
     'stat:critical-strike:3',
     'stat:health:125'
   ],
