@@ -1,6 +1,10 @@
 export default {
   description: '',
-  grants: ['proficiency:leather', 'proficiency:book'],
+  grants: [
+    'proficiency:leather',
+    'proficiency:book',
+    'power:call-flames'
+  ],
   id: 'confessor',
   name: 'Confessor',
   races: ['elken', 'high-elf', 'nethari'],
