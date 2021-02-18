@@ -6,7 +6,7 @@ export default {
     'stat:cooldown-long:30',
     'stat:stamina:15',
     'stat:max-energy:225',
-    'stat:movement-mounted:15'
+    'stat:movement-speed-mounted:15'
   ],
   id: 'into-the-fray',
   name: 'Into the Fray',

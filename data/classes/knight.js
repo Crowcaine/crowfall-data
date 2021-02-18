@@ -8,7 +8,8 @@ export default {
     'proficiency:long-sword',
     'proficiency:mace',
     'proficiency:medium-shield',
-    'proficiency:short-shield'
+    'proficiency:short-shield',
+    'power:chain-attack'
   ],
   id: 'knight',
   name: 'Knight',

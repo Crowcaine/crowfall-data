@@ -467,9 +467,9 @@ export default {
     percent: true,
     type: 'bonus'
   },
-  'movement-mounted': {
-    id: 'movement-mounted',
-    name: 'Mounted Movement',
+  'movement-speed': {
+    id: 'movement-speed',
+    name: 'Movement Speed',
     percent: true,
     type: 'bonus'
   },
@@ -482,6 +482,12 @@ export default {
   'movement-speed-damage': {
     id: 'movement-speed-damage',
     name: 'Movement Speed - Damage',
+    percent: true,
+    type: 'bonus'
+  },
+  'movement-speed-mounted': {
+    id: 'movement-speed-mounted',
+    name: 'Movement Speed - Mounted',
     percent: true,
     type: 'bonus'
   },
@@ -655,6 +661,16 @@ export default {
   stamina: {
     id: 'stamina',
     name: 'Stamina',
+    type: 'base'
+  },
+  'stamina-regen-in-combat': {
+    id: 'stamina-regen-in-combat',
+    name: 'Stamina Regen - In Combat',
+    type: 'base'
+  },
+  'stamina-regen-out-combat': {
+    id: 'stamina-regen-out-combat',
+    name: 'Stamina Regen - Out Combat',
     type: 'base'
   },
   stealth: {
