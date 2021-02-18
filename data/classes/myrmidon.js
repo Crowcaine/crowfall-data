@@ -22,7 +22,7 @@ export default {
     e1: 'talent:ferocity',
     e2: 'talent:cast-net',
     e3: 'talent:tough-hide',
-    f1: 'talent:opportunist-myrmidon',
+    f1: 'talent:opportunist',
     f2: 'talent:battle-scream',
     f3: 'talent:unstoppable',
     g1: 'talent:scent-of-blood',
