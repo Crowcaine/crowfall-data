@@ -8,9 +8,11 @@ const powerGrantsSet = new Set();
   const majorFiles = await glob('./data/majors/**/*.js');
   const minorFiles = await glob('./data/minors/**/*.js');
   const classFiles = await glob('./data/classes/**/*.js');
+  const racesFiles = await glob('./data/races/**/*.js');
 
   const allFilesWithGrants = [
     ...classFiles,
+    ...racesFiles,
     ...talentFiles,
     ...majorFiles,
     ...minorFiles
