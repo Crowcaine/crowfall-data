@@ -22,7 +22,7 @@ export default {
     b1: 'talent:divine-alacrity',
     b2: 'talent:prudence',
     c1: 'talent:righteous-damnation',
-    c2: 'talent:hands-of-god',
+    c2: 'talent:hand-of-the-gods',
     c3: 'talent:tend-wounds',
     d1: 'talent:vengeful-aura',
     d2: 'slot:minor-discipline',
