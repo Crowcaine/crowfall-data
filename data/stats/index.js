@@ -692,5 +692,11 @@ export default {
     id: 'support-power',
     name: 'Support Power',
     type: 'bonus'
+  },
+  'weapon-efficiency': {
+    id: 'weapon-efficiency',
+    name: 'Weapon Efficiency',
+    percent: true,
+    type: 'bonus'
   }
 };

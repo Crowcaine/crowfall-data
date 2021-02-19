@@ -3,7 +3,7 @@ export default {
   grants: [
     'stat:armor-penetration-crushing:3',
     'stat:damage-crushing:2',
-    'power:skull-cracker',
+    'power:skullcracker',
     'power:will-of-the-stoneborn'
   ],
   id: 'master-of-maces',
