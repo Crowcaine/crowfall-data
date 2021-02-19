@@ -9,6 +9,6 @@ export default {
   maxTargets: 5,
   name: 'Frigid Ground',
   radius: 10,
-  target: 'rectange',
+  target: 'rectangle',
   version: '6.400'
 };

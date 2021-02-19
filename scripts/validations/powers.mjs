@@ -2,6 +2,28 @@ import glob from 'glob-promise';
 import log from '../logger.mjs';
 
 const powerGrantsSet = new Set();
+const powerTypes = new Set([
+  'passive',
+  'instant',
+  'toggle',
+  'ground aimed',
+  'hold channeled',
+  'charged',
+  '15 seconds',
+  '2 seconds',
+  'channeled'
+]);
+const targetTypes = new Set([
+  'area',
+  'cone',
+  'group',
+  'ground',
+  'ray',
+  'rectangle',
+  'reticle',
+  'self',
+  'sphere'
+]);
 
 (async () => {
   const talentFiles = await glob('./data/talents/**/*.js');
@@ -56,6 +78,37 @@ const powerGrantsSet = new Set();
       log(
         'error',
         `id ${content.id} in ${file} does not match any ability in talents, majors or minors`
+      );
+    }
+
+    if (
+      content.castType === 'passive' &&
+      (content.costType || content.cost)
+    ) {
+      log(
+        'error',
+        `id ${content.id} in ${file} is a passive with a cost or costType`
+      );
+    }
+
+    if (content.castType === 'passive' && content.target !== 'self') {
+      log(
+        'error',
+        `id ${content.id} in ${file} is a passive with a target of ${content.target}`
+      );
+    }
+
+    if (!powerTypes.has(content.castType)) {
+      log(
+        'error',
+        `id ${content.id} in ${file} is a passive with an invalid cast type of ${content.castType}`
+      );
+    }
+
+    if (!targetTypes.has(content.target)) {
+      log(
+        'error',
+        `id ${content.id} in ${file} is a passive with an invalid target of ${content.target}`
       );
     }
 

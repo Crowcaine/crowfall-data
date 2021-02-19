@@ -1,5 +1,5 @@
 export default {
-  castType: 'ground-aimed',
+  castType: 'ground aimed',
   cooldown: 8,
   costType: 'arrows',
   description:

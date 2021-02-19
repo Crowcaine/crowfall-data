@@ -1,5 +1,5 @@
 export default {
-  castType: 'hold-channeled',
+  castType: 'hold channeled',
   cooldown: 9,
   costType: 'arrows',
   description:

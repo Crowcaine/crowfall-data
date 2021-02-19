@@ -7,5 +7,6 @@ export default {
   maxTargets: 5,
   name: 'Shield Siege Engine',
   radius: 10,
+  target: 'self',
   version: '6.400'
 };

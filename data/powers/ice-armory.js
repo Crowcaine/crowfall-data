@@ -9,5 +9,6 @@ export default {
   name: 'Ice Armory',
   radius: 2,
   range: 30,
+  target: 'reticle',
   version: '6.400'
 };
