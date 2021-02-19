@@ -3,7 +3,7 @@ export default {
   grants: [
     'stat:anti-critical-strike:3',
     'stat:health:500',
-    'power:rally-banner',
+    'power:rallying-banner',
     'power:resolution'
   ],
   id: 'standard-bearer',
