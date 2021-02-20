@@ -15,6 +15,7 @@ const powerTypes = new Set([
 ]);
 const targetTypes = new Set([
   'area',
+  'behind caster',
   'cone',
   'group',
   'ground',

@@ -9,7 +9,9 @@ export default {
     'stat:dexterity-cap:200 ',
     'stat:intellect-cap:200 ',
     'stat:spirit-cap:200 ',
-    'stat:strength-cap:200'
+    'stat:strength-cap:200',
+    'power:rear-kick',
+    'power:wild-charge'
   ],
   id: 'centaur',
   name: 'Centaur',
