@@ -593,8 +593,8 @@ export default {
     name: 'Resistance',
     type: 'bonus'
   },
-  'resistance-bleed': {
-    id: 'resistance-bleed',
+  'resistance-bleeding': {
+    id: 'resistance-bleeding',
     name: 'Resistance - Bleed',
     type: 'bonus'
   },

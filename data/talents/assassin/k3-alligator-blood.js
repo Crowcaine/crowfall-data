@@ -4,7 +4,7 @@ export default {
     'stat:critical-damage:5',
     'stat:anti-critical-strike:8',
     'stat:final-mitigation-cap:10',
-    'stat:resistance-bleed:3000',
+    'stat:resistance-bleeding:3000',
     'stat:damage-piercing:10',
     'stat:damage-piercing-cap:10',
     'stat:damage-crushing:10',

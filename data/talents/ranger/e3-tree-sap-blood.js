@@ -5,7 +5,7 @@ export default {
     'stat:dexterity:40',
     'stat:constitution:20',
     'stat:personal-damage-modifier:6',
-    'stat:resistance-bleed:1000',
+    'stat:resistance-bleeding:1000',
     'stat:health:350'
   ],
   id: 'tree-sap-blood',
