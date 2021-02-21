@@ -4,7 +4,7 @@ export default {
   grants: [
     'stat:movement-speed-damage:5',
     'stat:movement-speed-stealth:5',
-    'power:caltops',
+    'power:caltrops',
     'power:lay-low'
   ],
   id: 'agent-provocateur',
