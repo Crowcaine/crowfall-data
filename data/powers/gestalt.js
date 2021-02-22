@@ -1,5 +1,5 @@
 export default {
-  castType: '2 seconds',
+  castType: '2 secs',
   cooldown: 47,
   description:
     'activate Shadow Sight allowing you to detect enemies in stealth for 15 seconds.\nThis power has an extermely high Perception base.',

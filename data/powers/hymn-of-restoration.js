@@ -1,5 +1,5 @@
 export default {
-  castType: '2 seconds',
+  castType: '2 secs',
   cooldown: 1,
   description:
     "increases your group's [stat:health-regen-in-combat:24] by 24 and [stat:health-regen-out-combat:32] by 32 for 14 seconds. Refreshes every 6 seconds while toggled on.",

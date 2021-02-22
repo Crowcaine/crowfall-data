@@ -9,8 +9,8 @@ const powerTypes = new Set([
   'ground aimed',
   'hold channeled',
   'charged',
-  '15 seconds',
-  '2 seconds',
+  '15 secs',
+  '2 secs',
   'channeled'
 ]);
 const targetTypes = new Set([
@@ -19,7 +19,7 @@ const targetTypes = new Set([
   'cone',
   'group',
   'ground',
-  'point blank area',
+  'pbae',
   'ray',
   'rectangle',
   'reticle',

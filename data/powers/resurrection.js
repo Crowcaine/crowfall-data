@@ -1,5 +1,5 @@
 export default {
-  castType: '15 seconds',
+  castType: '15 secs',
   cooldown: 600,
   description:
     'targets a small area and revives one unconscious vessel.',

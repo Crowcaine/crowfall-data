@@ -1,5 +1,5 @@
 export default {
-  castType: '2 seconds',
+  castType: '2 secs',
   cooldown: 3,
   costType: 'resource',
   description:
@@ -9,6 +9,6 @@ export default {
   maxTargets: 5,
   name: 'Lament of Sadness',
   radius: 5,
-  target: 'point blank area',
+  target: 'pbae',
   version: '6.400'
 };

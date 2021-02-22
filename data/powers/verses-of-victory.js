@@ -1,5 +1,5 @@
 export default {
-  castType: '2 seconds',
+  castType: '2 secs',
   cooldown: 2,
   description:
     "increases your group's [stat:attack-power:75] by 75 and [stat:support-power:75] by 75 for 14 seconds. Refreshes every 6 seconds while toggled on.",

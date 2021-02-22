@@ -1,5 +1,5 @@
 export default {
-  castType: '2 seconds',
+  castType: '2 secs',
   cooldown: 1,
   description:
     "reduces the group's damage taken by x for 14 second. Refreshes every 6 seconds while toggle on.",

@@ -1,5 +1,5 @@
 export default {
-  castType: '2 seconds',
+  castType: '2 secs',
   cooldown: 1,
   costType: 'resource',
   description:
@@ -9,6 +9,6 @@ export default {
   maxTargets: 5,
   name: 'Requiem',
   radius: 5,
-  target: 'point blank area',
+  target: 'pbae',
   version: '6.400'
 };
