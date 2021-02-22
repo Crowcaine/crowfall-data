@@ -1,6 +1,6 @@
 export default {
   description: '',
-  grants: ['stat:damage-low-health:300', 'power:glamour-weapon'],
+  grants: ['stat:damage-low-health:300', 'power:glamour'],
   id: 'glamour-weapon',
   name: 'Glamour Weapon',
   requirements: [
