@@ -1,10 +1,10 @@
 export default {
   castType: 'instant',
   cooldown: 23,
-  cost: 57,
+  cost: 69,
   costType: 'resource',
   description:
-    'increases your [stat:lifesteal:10] by 10 for 10 seconds when a barrier is placed on you.',
+    "defends an area with a runic cymbol increasing allies's [stat:resistance-all:2000] by 2000 for 4 seconds.",
   duration: 4,
   id: 'sanctuary',
   maxTargets: 5,
