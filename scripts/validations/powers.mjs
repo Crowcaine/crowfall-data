@@ -19,6 +19,7 @@ const targetTypes = new Set([
   'cone',
   'group',
   'ground',
+  'point blank area',
   'ray',
   'rectangle',
   'reticle',
