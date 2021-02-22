@@ -2,7 +2,6 @@ export default {
   description: '',
   grants: [
     'stat:support-power:100',
-    'power:gods-reach',
     'proficiency:hammer',
     'mastery:hammer',
     'slot:ranged',

@@ -2,7 +2,7 @@ export default {
   description: '',
   grants: [
     'stat:resistance-piercing:300',
-    'power:throw-illusory-shield'
+    'power:throw-illusion-shield'
   ],
   id: 'illusory-shield',
   name: 'Illusory Shield',
