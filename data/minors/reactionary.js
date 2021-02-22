@@ -3,7 +3,7 @@ export default {
   grants: [
     'stat:critical-damage:5',
     'power:deadly-retaliation',
-    'power:furious-retaliation'
+    'power:furious-retaliate'
   ],
   id: 'reactionary',
   name: 'Reactionary',
