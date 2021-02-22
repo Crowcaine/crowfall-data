@@ -4,7 +4,7 @@ export default {
     'stat:armor-penetration-crushing:2',
     'stat:damage-low-health:5',
     'power:go-for-broke',
-    'power:snipe'
+    'power:tunnel'
   ],
   id: 'tunnel-king',
   name: 'Tunnel King',
