@@ -11,7 +11,6 @@ export default {
   grants: [
     'mastery:axe',
     'mastery:mace',
-    'stat:attack-power:150',
     'stat:attack-power:100',
     'stat:hard-control-intensity:21',
     'stat:movement-control-intensity:21',

@@ -351,7 +351,7 @@ export default {
   },
   'hard-control-intensity': {
     id: 'hard-control-intensity',
-    name: 'Attack Control Intensity',
+    name: 'Hard Control Intensity',
     percent: true,
     type: 'bonus'
   },
