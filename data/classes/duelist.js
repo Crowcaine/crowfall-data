@@ -3,7 +3,8 @@ export default {
   grants: [
     'slot:off-hand-pistol',
     'proficiency:rapier',
-    'proficiency:leather'
+    'proficiency:leather',
+    'power:saltpeter-rounds'
   ],
   id: 'duelist',
   name: 'Duelist',
