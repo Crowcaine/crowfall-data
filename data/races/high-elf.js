@@ -9,7 +9,12 @@ export default {
     'stat:dexterity-cap:200 ',
     'stat:intellect-cap:200 ',
     'stat:spirit-cap:200 ',
-    'stat:strength-cap:200'
+    'stat:strength-cap:200',
+    'power:humiliate',
+    'power:mental-fortitude',
+    'power:hauteur',
+    'power:vanity',
+    'power:acrobatics'
   ],
   id: 'high-elf',
   name: 'High-Elf',
