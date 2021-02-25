@@ -11,7 +11,11 @@ export default {
     'stat:spirit-cap:200 ',
     'stat:strength-cap:200',
     'power:rear-kick',
-    'power:wild-charge'
+    'power:wild-charge',
+    'power:legions-strength',
+    'power:trailmaster',
+    'power:sure-footed',
+    'power:hungry-as-a-horse'
   ],
   id: 'centaur',
   name: 'Centaur',
