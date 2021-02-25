@@ -11,7 +11,11 @@ export default {
     'stat:spirit-cap:200 ',
     'stat:strength-cap:200',
     'power:gestalt',
-    'power:head-butt'
+    'power:head-butt',
+    'power:gaeas-tears',
+    'power:tannin-techniques',
+    'power:trailmaster',
+    'power:follow-through'
   ],
   id: 'elken',
   name: 'Elken',
