@@ -108,7 +108,6 @@ export default {
   barrier: {
     id: 'barrier',
     name: 'Barrier Bonus',
-    percent: true,
     type: 'bonus'
   },
   'basic-attack-cost-reduction': {
