@@ -1,7 +1,7 @@
 export default {
   castType: 'passive',
   description:
-    'adds a physical mitigation debuff of 20% and stealth blocker to your concussive trap.',
+    'adds a physical mitigation debuff of 20% and stealth blocker to your Concussive Trap.',
   id: 'faerie-trap',
   name: 'Faerie Trap',
   target: 'self',

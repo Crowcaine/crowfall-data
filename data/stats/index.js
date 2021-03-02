@@ -305,6 +305,12 @@ export default {
     percent: true,
     type: 'cap'
   },
+  'damage-song': {
+    id: 'damage-song',
+    name: 'Damage - Song',
+    percent: true,
+    type: 'bonus'
+  },
   'damage-stealth': {
     id: 'damage-stealth',
     name: 'Damage - Stealth',
