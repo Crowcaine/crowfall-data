@@ -6,7 +6,7 @@ export default {
     'power:in-the-fray',
     'power:death-throws'
   ],
-  id: 'scapper',
+  id: 'scrapper',
   name: 'Scrapper',
   requirements: [
     'race:half-giant',

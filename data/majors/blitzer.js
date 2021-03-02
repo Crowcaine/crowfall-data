@@ -6,7 +6,7 @@ export default {
     'power:banner-of-storms',
     'power:haunt'
   ],
-  id: 'blizter',
+  id: 'blitzer',
   name: 'Blitzer',
   requirements: ['class:druid', 'domain:storm'],
   type: 'major',

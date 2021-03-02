@@ -4,7 +4,7 @@ export default {
   cost: 72,
   costType: 'resource',
   description:
-    'curses an enemy with disease and blackmantle, absorbing up to 500 points of healing.\nIf Shrivel hits an Exposed enemy while they attack or use an ability, they are knocked down and take additional damage.\nDisease caues 230 disease damage every two seconds for 10 seconds.',
+    'curses an enemy with disease and blackmantle, absorbing up to 500 points of healing.\nIf Shrivel hits an Exposed enemy while they attack or use an ability, they are knocked down and take additional damage.\nDisease causes 230 disease damage every two seconds for 10 seconds.',
   id: 'shrivel',
   name: 'Shrivel',
   range: 30,

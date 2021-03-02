@@ -8,7 +8,7 @@ export default {
   cost: 75,
   costType: 'essence',
   description:
-    'electrifies enemies with lightning fore 349 elecricity damage.',
+    'electrifies enemies with lightning fore 349 electricity damage.',
   id: 'lightning-burst',
   name: 'Lightning Burst',
   target: 'ray',

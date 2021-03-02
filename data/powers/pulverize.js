@@ -4,7 +4,7 @@ export default {
   cost: 60,
   costType: 'fury',
   description:
-    'rams you head first into your target for 356 damage.\nBerserk Crash is prevented completely while charging Pulverize.\nThis attack has a 100% critical strike modier when charged over 66%.',
+    'rams you head first into your target for 356 damage.\nBerserk Crash is prevented completely while charging Pulverize.\nThis attack has a 100% critical strike modifier when charged over 66%.',
   id: 'pulverize',
   name: 'Pulverize',
   range: 5,

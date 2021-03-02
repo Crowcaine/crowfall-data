@@ -4,7 +4,7 @@ export default {
   cost: 2,
   costType: 'resource',
   description:
-    'deals 105 damage to you rtarget. Damage scale up to 1183 damage with more than 2 poison active.',
+    'deals 105 damage to your target. Damage scale up to 1183 damage with more than 2 poison active.',
   id: 'diffusion',
   name: 'Diffusion',
   range: 5,

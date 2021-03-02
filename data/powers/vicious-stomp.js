@@ -8,7 +8,7 @@ export default {
   cost: 18,
   costType: 'resource',
   description:
-    'deals 160 damage and slowwing your target. This power automatically critically hits if you have a point of Dominance when used, this consumes the point of Dominance.',
+    'deals 160 damage and slowing your target. This power automatically critically hits if you have a point of Dominance when used, this consumes the point of Dominance.',
   duration: 15,
   id: 'vicious-stomp',
   name: 'Vicious Stomp',

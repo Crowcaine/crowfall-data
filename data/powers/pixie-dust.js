@@ -4,7 +4,7 @@ export default {
   cost: 84,
   costType: 'resource',
   description:
-    'blankets the targetted area with Pixie Dust, increasing [stat:personal-healing-modifier:25%] by 25% for 30 seconds',
+    'blankets the targeted area with Pixie Dust, increasing [stat:personal-healing-modifier:25%] by 25% for 30 seconds',
   duration: 30,
   id: 'pixie-dust',
   maxTargets: 5,

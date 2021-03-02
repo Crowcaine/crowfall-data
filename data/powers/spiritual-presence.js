@@ -4,7 +4,7 @@ export default {
   cost: 73,
   costType: 'mana',
   description:
-    'causes the cleric to emanate their spiritual presense around them for 10 seconds, healing allies for 179 healing. Enemies in the radius have Exhaustion and Damnation debuffs applied.\nDamnation causes 100 holy damage every 2 seconds for 12 seconds.',
+    'causes the cleric to emanate their spiritual presence around them for 10 seconds, healing allies for 179 healing. Enemies in the radius have Exhaustion and Damnation debuffs applied.\nDamnation causes 100 holy damage every 2 seconds for 12 seconds.',
   duration: 10,
   id: 'spiritual-presence',
   maxTargets: 5,

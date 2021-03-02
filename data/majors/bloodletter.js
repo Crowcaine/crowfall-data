@@ -4,7 +4,7 @@ export default {
     'stat:damage-high-health:5',
     'stat:health:500',
     'power:purgative',
-    'power:exanguinate'
+    'power:exsanguinate'
   ],
   id: 'bloodletter',
   name: 'Bloodletter',

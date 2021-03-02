@@ -4,7 +4,7 @@ export default {
   cost: 96,
   costType: 'resource',
   description:
-    'increases your perception by 10 and surrounds you with a chilling aura of palpable fear that automatically reveals stealthed enemies for 15 seconds.\nEnemies who remain nearby for too long are supressed and then afflicted with frostbite.\nFrostbite causes 163 ice damage seven times over 30 seconds.',
+    'increases your perception by 10 and surrounds you with a chilling aura of palpable fear that automatically reveals stealthed enemies for 15 seconds.\nEnemies who remain nearby for too long are suppressed and then afflicted with frostbite.\nFrostbite causes 163 ice damage seven times over 30 seconds.',
   duration: 15,
   id: 'aura-of-terror',
   maxTargets: 5,

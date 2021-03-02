@@ -4,7 +4,7 @@ export default {
   cost: 57,
   costType: 'resource',
   description:
-    "unleashes Arkon's Fury on a target dealing 238 damage and applying burning daamge over time to them.\nBurning causes 113 fire damage every two seconds for 16 seconds.",
+    "unleashes Arkon's Fury on a target dealing 238 damage and applying burning damage over time to them.\nBurning causes 113 fire damage every two seconds for 16 seconds.",
   duration: 8,
   id: 'arkons-fury',
   name: "Arkon's Fury",

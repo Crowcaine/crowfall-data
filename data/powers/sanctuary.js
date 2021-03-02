@@ -4,7 +4,7 @@ export default {
   cost: 69,
   costType: 'resource',
   description:
-    "defends an area with a runic cymbol increasing allies's [stat:resistance-all:2000] by 2000 for 4 seconds.",
+    "defends an area with a runic symbol increasing allies' [stat:resistance-all:2000] by 2000 for 4 seconds.",
   duration: 4,
   id: 'sanctuary',
   maxTargets: 5,
