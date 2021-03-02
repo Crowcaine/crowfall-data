@@ -10,7 +10,11 @@ export default {
     'stat:intellect-cap:200 ',
     'stat:spirit-cap:200 ',
     'stat:strength-cap:200',
-    'power:bandits-armor'
+    'power:bandits-armor',
+    'power:past-lives',
+    'power:trailblazer',
+    'power:lay-of-the-land',
+    'power:wildkins-retort'
   ],
   id: 'half-elf',
   name: 'Half-Elf',

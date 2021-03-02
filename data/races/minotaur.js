@@ -10,6 +10,10 @@ export default {
     'stat:intellect-cap:200 ',
     'stat:spirit-cap:200 ',
     'stat:strength-cap:200',
+    'power:gigantism',
+    'power:unbreakable',
+    'power:thick-skin',
+    'power:waste-not-want-not',
     'power:bloodthirst',
     'power:bull-rush'
   ],

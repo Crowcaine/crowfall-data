@@ -10,7 +10,11 @@ export default {
     'stat:intellect-cap:200 ',
     'stat:spirit-cap:200 ',
     'stat:strength-cap:200',
-    'power:camouflage'
+    'power:camouflage',
+    'power:shaper-of-wood',
+    'power:reflection-of-nature',
+    'power:nature-resistance',
+    'power:trailblazer'
   ],
   id: 'wood-elf',
   name: 'Wood-Elf',

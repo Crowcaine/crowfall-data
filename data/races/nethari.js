@@ -9,7 +9,11 @@ export default {
     'stat:dexterity-cap:200 ',
     'stat:intellect-cap:200 ',
     'stat:spirit-cap:200 ',
-    'stat:strength-cap:200'
+    'stat:strength-cap:200',
+    'power:sun-kissed-skin',
+    'power:walk-without-rhythm',
+    'power:subcuticular-suturing',
+    'power:desert-winds'
   ],
   id: 'nethari',
   name: 'Nethari',

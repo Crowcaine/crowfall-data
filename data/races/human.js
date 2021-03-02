@@ -10,7 +10,11 @@ export default {
     'stat:intellect-cap:200 ',
     'stat:spirit-cap:200 ',
     'stat:strength-cap:200',
-    'power:candle-that-burns'
+    'power:candle-that-burns',
+    'power:pain-tolerance',
+    'power:heros-blood',
+    'power:gemcutter',
+    'power:past-lives'
   ],
   id: 'human',
   name: 'Human',

@@ -1,8 +1,8 @@
 export default {
   description: '',
-  grants: ['stat:power-damage-trap:5', 'power:exposive-traps'],
+  grants: ['stat:power-damage-trap:5', 'power:explosive-traps'],
   id: 'explosive-trap',
-  name: 'Exposive Trap',
+  name: 'Explosive Trap',
   requirements: ['class:ranger'],
   type: 'minor',
   version: '6.400'

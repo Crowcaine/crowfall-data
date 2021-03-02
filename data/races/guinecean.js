@@ -9,7 +9,12 @@ export default {
     'stat:dexterity-cap:200 ',
     'stat:intellect-cap:200 ',
     'stat:spirit-cap:200 ',
-    'stat:strength-cap:200'
+    'stat:strength-cap:200',
+    'power:caravan-master',
+    'power:epicurean',
+    'power:burrow',
+    'power:superior-weapons',
+    'power:double-jump'
   ],
   id: 'guinecean',
   name: 'Guinecean',

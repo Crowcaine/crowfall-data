@@ -11,7 +11,11 @@ export default {
     'stat:spirit-cap:200 ',
     'stat:strength-cap:200',
     'power:backhand',
-    'power:blood-of-the-giant'
+    'power:blood-of-the-giant',
+    'power:maken-me-mad',
+    'power:gigantism',
+    'power:sticks-and-stones',
+    'power:brawny'
   ],
   id: 'half-giant',
   name: 'Half-Giant',

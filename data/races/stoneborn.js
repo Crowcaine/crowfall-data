@@ -9,7 +9,12 @@ export default {
     'stat:dexterity-cap:200 ',
     'stat:intellect-cap:200 ',
     'stat:spirit-cap:200 ',
-    'stat:strength-cap:200'
+    'stat:strength-cap:200',
+    'power:stone-skin',
+    'power:high-forge-apprentice',
+    'power:i-get-knocked-down',
+    'power:blood-of-the-mountain',
+    'power:coagulation'
   ],
   id: 'stoneborn',
   name: 'Stoneborn',

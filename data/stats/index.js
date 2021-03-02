@@ -378,6 +378,12 @@ export default {
     percent: true,
     type: 'cap'
   },
+  'healing-incoming': {
+    id: 'healing-incoming',
+    name: 'Incoming Healing',
+    percent: true,
+    type: 'bonus'
+  },
   'healing-orb': {
     id: 'healing-orb',
     name: 'Healing - Orb',

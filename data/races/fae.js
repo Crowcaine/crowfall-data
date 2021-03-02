@@ -10,7 +10,11 @@ export default {
     'stat:intellect-cap:200 ',
     'stat:spirit-cap:200 ',
     'stat:strength-cap:200',
-    'power:faerie-fire-fae'
+    'power:faerie-fire-fae',
+    'power:double-jump',
+    'power:improbable-antidote',
+    'power:glide',
+    'power:toxic-tolerance'
   ],
   id: 'fae',
   name: 'Fae',
