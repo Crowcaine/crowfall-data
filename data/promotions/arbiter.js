@@ -1,13 +1,13 @@
 export default {
   class: 'cleric',
   description:
-    'Sacrificing damage and healing potential this maven of battle excels at controlling enemies.',
+    'Sacrificing damage and healing potential this maven of battle excels at controlling enemies',
   enhances: {
     'power:flash-of-light':
-      'Now also Blinds enemies with 7m of target, up to 4 additional targets and has a reduced cooldown.',
-    'power:holy-symbol': 'Now applies a Knockdown to enemies.',
+      'afflicts blindness on the target and up to 4 others within 7m and has a reduced cooldown',
+    'power:holy-symbol': 'applies a Knockdown to enemies.',
     'power:illuminate':
-      'Basic attacks regenerate mana for 15 seconds and applies a Healing Bonus buff to the group.'
+      'applies a healing bonus buff to the group and basic attacks regenerate mana for 15 seconds'
   },
   grants: [
     'proficiency:plate',
@@ -24,5 +24,5 @@ export default {
   name: 'Arbiter',
   tags: ['melee', 'control'],
   type: 'promotion',
-  version: '6.400'
+  version: '6.500'
 };

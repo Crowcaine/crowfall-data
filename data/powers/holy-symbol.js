@@ -4,7 +4,7 @@ export default {
   cost: 206,
   costType: 'mana',
   description:
-    'summons a celestial force at the targeted position healing gup to five allies in the area for 115 healing every three seconds for 15 seconds.',
+    'summons a celestial force at the targeted position healing up to five allies in the area for 115 healing every three seconds for 15 seconds.',
   duration: 15,
   id: 'holy-symbol',
   maxTargets: 5,
@@ -12,5 +12,5 @@ export default {
   radius: 8,
   range: 35,
   target: 'area',
-  version: '6.400'
+  version: '6.500'
 };

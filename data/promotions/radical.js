@@ -3,10 +3,11 @@ export default {
   description:
     'Unpopular with members of their order from sacrificing healing for more potent throwing hammers.',
   enhances: {
-    'power:flash-of-light': 'Transforms into [power:searing-light].',
-    'power:holy-symbol': 'Now no longer heals, but damages enemies.',
+    'power:flash-of-light': 'transforms into [power:searing-light].',
+    'power:holy-symbol':
+      'no longer heals, but damages enemies instead.',
     'power:illuminate':
-      'Now increases Critical Chance with each hit until you score three Critial hits.'
+      'increases Critical Chance with each hit until you score three critial hits.'
   },
   grants: [
     'proficiency:throwing-hammer',
@@ -14,7 +15,7 @@ export default {
     'mastery:mace',
     'mastery:buckler',
     'mastery:medium-shield',
-    'stat:attack-power:200',
+    'stat:attack-power:150',
     'stat:max-mana:300',
     'power:searing-light'
   ],
@@ -22,5 +23,5 @@ export default {
   name: 'Radical',
   tags: ['ranged'],
   type: 'promotion',
-  version: '6.400'
+  version: '6.500'
 };
