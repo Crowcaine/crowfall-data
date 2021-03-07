@@ -16,7 +16,7 @@ export default {
     c1: 'talent:vicious-stomp',
     c2: 'talent:throw-hurlbat',
     c3: 'talent:demoralizing-shout',
-    d1: 'talent:aegis-of-salvation',
+    d1: 'talent:aegis-of-destruction',
     d2: 'slot:minor-discipline',
     d3: 'talent:insanity',
     e1: 'talent:brutality',
