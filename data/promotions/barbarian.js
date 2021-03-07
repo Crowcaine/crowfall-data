@@ -3,10 +3,10 @@ export default {
   description:
     'Controlling enemies will cause this brute to become even more powerful.',
   enhances: {
-    'power:leap': 'Now applies a Knockdown.',
+    'power:leap': 'applies a knockdown',
     'power:neck-breaker':
-      'Now has cost reduced to 300 and applies Knockdown',
-    'power:whirling-pain': 'Now applies Slow then Suppress.'
+      'has its cost reduced to 300 and applies knockdown',
+    'power:whirling-pain': 'applies slow then suppress'
   },
   grants: [
     'mastery:great-axe',
@@ -19,5 +19,5 @@ export default {
   name: 'Barbarian',
   tags: ['melee', 'control'],
   type: 'promotion',
-  version: '6.400'
+  version: '6.500'
 };

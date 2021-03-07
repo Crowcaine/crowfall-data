@@ -1,13 +1,13 @@
 export default {
   class: 'champion',
   description:
-    'This well rounded pugilist excels at both dealing and mitigating damage.',
+    'This well rounded pugilist excels at both dealing and mitigating damage',
   enhances: {
     'power:leap':
-      'Now heals you when used below 50% health, once every 90 seconds.',
+      'heals you when used below 50% health but only once every 90 seconds',
     'power:neck-breaker':
-      'Now increases your Max Health by 1875 and heals you for 2350 Hitpoints, and applies a Root to targets.',
-    'power:whirling-pain': 'Now adds a Barrier when used.'
+      'increases your [stat:health:1875] and heals you for 2350 hitpoints',
+    'power:whirling-pain': 'adds a Barrier when used.'
   },
   grants: [
     'proficiency:plate',
@@ -19,5 +19,5 @@ export default {
   name: 'Pit Fighter',
   tags: ['melee', 'defense'],
   type: 'promotion',
-  version: '6.400'
+  version: '6.500'
 };

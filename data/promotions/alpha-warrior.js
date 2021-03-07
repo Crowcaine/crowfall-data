@@ -3,10 +3,11 @@ export default {
   description:
     'This terror fuels increased critical strikes with dominance gained from their powers.',
   enhances: {
-    'power:leap': 'Now adds a point of Dominance.',
+    'power:leap': 'adds a point of Dominance and slows your target.',
     'power:neck-breaker':
-      'Now has its cost reduced to 250 and consumes Dominance to automatically land a Critical.',
-    'power:whirling-pain': "Now reduces enemy's Anti-Critical Strike."
+      'has its cost reduced to 350 and consumes Dominance to critically strike.',
+    'power:whirling-pain':
+      "increases it's max targes to 7 and reduces reduces enemy's Anti-Critical Strike."
   },
   grants: [
     'mastery:great-axe',
@@ -18,5 +19,5 @@ export default {
   name: 'Alpha Warrior',
   tags: ['melee'],
   type: 'promotion',
-  version: '6.400'
+  version: '6.500'
 };

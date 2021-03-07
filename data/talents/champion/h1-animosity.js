@@ -3,7 +3,7 @@ export default {
   description: 'This talent grants the [power:leap] power.',
   grants: [
     'power:leap',
-    'stat:rage-regen-in-combat:1.5',
+    'stat:rage-regen-in-combat:0.15',
     'stat:rage-regen-out-combat:0.075',
     'stat:max-rage:15',
     'stat:stamina:15'
