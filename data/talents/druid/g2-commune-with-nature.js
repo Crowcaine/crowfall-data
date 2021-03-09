@@ -5,5 +5,5 @@ export default {
   grants: ['power:commune-with-nature'],
   id: 'commune-with-nature',
   name: 'Commune with Nature',
-  version: '6.400'
+  version: '6.500'
 };

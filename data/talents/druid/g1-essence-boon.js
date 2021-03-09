@@ -5,5 +5,5 @@ export default {
   grants: ['power:essence-boon'],
   id: 'essence-boon',
   name: 'Essence Boon',
-  version: '6.400'
+  version: '6.500'
 };

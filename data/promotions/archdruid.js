@@ -4,10 +4,10 @@ export default {
     'Balance upon the precipice of Life and Death magic, this master of nature can heal a group or set up devastating explosions with their orbs.',
   enhances: {
     'power:bark-skin':
-      'Now increases the thorns damage by 20 and causes a small aoe when your barksin barriers are destroyed.',
+      'causes damage in an area when your Barkskin barriers are destroyed and increases thorns damage by 20.',
     'power:blight':
-      'Now converts heal orbs into exploding orbs that deal damage to nearby enemies when they explode.',
-    'power:grasping-roots': 'Now applies blackmantle when used.'
+      'converts heal orbs into exploding orbs that deal damage to nearby enemies',
+    'power:grasping-roots': 'applies blackmantle'
   },
   grants: [
     'tray:life',
@@ -24,5 +24,5 @@ export default {
   name: 'Archdruid',
   tags: ['ranged', 'healing'],
   type: 'promotion',
-  version: '6.400'
+  version: '6.500'
 };

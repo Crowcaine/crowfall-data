@@ -4,5 +4,5 @@ export default {
   grants: ['power:bark-skin'],
   id: 'bark-skin',
   name: 'Bark Skin',
-  version: '6.400'
+  version: '6.500'
 };

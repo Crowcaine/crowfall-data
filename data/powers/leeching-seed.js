@@ -10,5 +10,5 @@ export default {
   name: 'Leeching Seed',
   range: 8,
   target: 'ray',
-  version: '6.400'
+  version: '6.500'
 };

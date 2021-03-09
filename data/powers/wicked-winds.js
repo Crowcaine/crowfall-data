@@ -9,5 +9,5 @@ export default {
   id: 'wicked-winds',
   name: 'Wicked Winds',
   target: 'reticle',
-  version: '6.400'
+  version: '6.500'
 };

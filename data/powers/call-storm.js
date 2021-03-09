@@ -9,5 +9,5 @@ export default {
   name: 'Call Storm',
   range: 35,
   target: 'ray',
-  version: '6.400'
+  version: '6.500'
 };

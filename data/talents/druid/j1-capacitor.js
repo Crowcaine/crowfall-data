@@ -5,5 +5,5 @@ export default {
   grants: ['power:capacitor'],
   id: 'capacitor',
   name: 'Capacitor',
-  version: '6.400'
+  version: '6.500'
 };

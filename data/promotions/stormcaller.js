@@ -4,11 +4,11 @@ export default {
     'Eschewing the balance of nature for pure destruction, the acller of storm has one purpose.',
   enhances: {
     'power:bark-skin':
-      'Now is self only, the duration is increased and also debuffs electric mitigation of enemies that attack you.',
+      'becomes self only and reduces the electric mitigation of enemies attacking you',
     'power:blight':
-      'Now spawns an electric field that deals periodic damage in an area.',
+      'creates an electric field that deals periodic damage in an area',
     'power:grasping-roots':
-      'Now ensnared enemies take more elemental damage.'
+      'increasaes elemental damage taken by ensnared enemies'
   },
   grants: [
     'proficiency:buckler',
@@ -20,5 +20,5 @@ export default {
   name: 'Stormcaller',
   tags: ['ranged'],
   type: 'promotion',
-  version: '6.400'
+  version: '6.500'
 };

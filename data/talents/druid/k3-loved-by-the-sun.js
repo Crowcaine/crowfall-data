@@ -11,5 +11,5 @@ export default {
   ],
   id: 'loved-by-the-sun',
   name: 'Loved by the Sun',
-  version: '6.400'
+  version: '6.500'
 };

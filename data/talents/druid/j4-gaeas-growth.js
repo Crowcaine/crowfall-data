@@ -4,5 +4,5 @@ export default {
   grants: ['power:gaeas-growth'],
   id: 'gaeas-growth',
   name: "Gaea's Growth",
-  version: '6.400'
+  version: '6.500'
 };

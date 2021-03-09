@@ -5,5 +5,5 @@ export default {
   grants: ['power:ironwood-body'],
   id: 'ironwood-body',
   name: 'Ironwood Body',
-  version: '6.400'
+  version: '6.500'
 };

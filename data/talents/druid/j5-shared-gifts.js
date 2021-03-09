@@ -5,5 +5,5 @@ export default {
   grants: ['power:shared-gifts'],
   id: 'shared-gifts',
   name: 'Shared Gifts',
-  version: '6.400'
+  version: '6.500'
 };

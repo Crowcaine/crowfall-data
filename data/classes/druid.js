@@ -10,7 +10,7 @@ export default {
     b2: 'talent:remnant-of-gaea',
     c1: 'talent:call-storm',
     c2: 'talent:bark-skin',
-    c3: 'talent:soothing-winds',
+    c3: 'talent:will-o-wisps',
     d1: 'talent:natures-grace',
     d2: 'slot:minor-discipline',
     d3: 'talent:leeching-seed',
@@ -45,5 +45,5 @@ export default {
     l8: 'domain:storm',
     l9: 'domain:light'
   },
-  version: '6.400'
+  version: '6.500'
 };

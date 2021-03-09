@@ -4,7 +4,7 @@ export default {
   cost: 63,
   costType: 'essence',
   description:
-    'deploys a field causing 72 damage to enemies in the area.\nEnemies caught in the field have their nature and electricity defenses reduces by 20.',
+    'deploys a field causing 72 damage to enemies in the area.\nEnemies caught in the field have their nature and electricity defenses reduces by 20',
   duration: 16,
   id: 'blight',
   maxTargets: 5,
@@ -12,5 +12,5 @@ export default {
   radius: 10,
   range: 35,
   target: 'area',
-  version: '6.400'
+  version: '6.500'
 };

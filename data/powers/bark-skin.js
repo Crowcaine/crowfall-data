@@ -11,5 +11,5 @@ export default {
   name: 'Bark Skin',
   radius: 50,
   target: 'group',
-  version: '6.400'
+  version: '6.500'
 };

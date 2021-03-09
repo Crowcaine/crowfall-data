@@ -4,5 +4,5 @@ export default {
   grants: ['power:overgrowth'],
   id: 'overgrowth',
   name: 'Overgrowth',
-  version: '6.400'
+  version: '6.500'
 };

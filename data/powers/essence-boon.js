@@ -5,5 +5,5 @@ export default {
   id: 'essence-boon',
   name: 'Essence Boon',
   target: 'self',
-  version: '6.400'
+  version: '6.500'
 };
