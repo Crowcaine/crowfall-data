@@ -5,7 +5,7 @@ export default {
   enhances: {
     'power:flash-of-light':
       'afflicts blindness on the target and up to 4 others within 7m and has a reduced cooldown',
-    'power:holy-symbol': 'applies a Knockdown to enemies.',
+    'power:holy-symbol': 'applies a knockdown to enemies',
     'power:illuminate':
       'applies a healing bonus buff to the group and basic attacks regenerate mana for 15 seconds'
   },

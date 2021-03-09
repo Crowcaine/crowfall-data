@@ -4,5 +4,5 @@ export default {
   grants: ['power:holy-aura'],
   id: 'holy-aura',
   name: 'Holy Aura',
-  version: '6.400'
+  version: '6.500'
 };

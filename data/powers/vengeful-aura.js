@@ -2,9 +2,9 @@ export default {
   castType: 'toggle',
   cooldown: 1,
   description:
-    'fortifies group members and you with otherworldly strength increasing their Attack Power by 75 while you maintain the effect.',
+    'fortifies group members and you with otherworldly strength increasing their Attack Power by 75 while you maintain the effect',
   id: 'vengeful-aura',
   name: 'Vengeful Aura',
   target: 'group',
-  version: '6.400'
+  version: '6.500'
 };

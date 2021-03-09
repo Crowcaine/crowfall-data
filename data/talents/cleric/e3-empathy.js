@@ -11,5 +11,5 @@ export default {
   ],
   id: 'empathy',
   name: 'Empathy',
-  version: '6.400'
+  version: '6.500'
 };

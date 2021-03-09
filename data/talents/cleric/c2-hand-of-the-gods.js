@@ -5,5 +5,5 @@ export default {
   grants: ['power:hand-of-the-gods'],
   id: 'hand-of-the-gods',
   name: 'Hand of the Gods',
-  version: '6.400'
+  version: '6.500'
 };

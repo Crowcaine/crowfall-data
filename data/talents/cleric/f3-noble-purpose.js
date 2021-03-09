@@ -5,5 +5,5 @@ export default {
   grants: ['power:noble-purpose'],
   id: 'noble-purpose',
   name: 'Noble Purpose',
-  version: '6.400'
+  version: '6.500'
 };

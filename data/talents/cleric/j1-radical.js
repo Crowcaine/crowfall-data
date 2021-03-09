@@ -5,5 +5,5 @@ export default {
   grants: ['power:radical'],
   id: 'radical',
   name: 'Radical',
-  version: '6.400'
+  version: '6.500'
 };

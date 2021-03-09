@@ -8,7 +8,7 @@ export default {
     'power:holy-symbol':
       'increases Critical Heal Chance and Critical Heal Amount for you and allies',
     'power:illuminate':
-      'becomes a more powerful healing over time ability.'
+      'becomes a more powerful healing over time ability'
   },
   grants: [
     'proficiency:plate',

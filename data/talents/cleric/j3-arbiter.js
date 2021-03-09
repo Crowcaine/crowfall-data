@@ -5,5 +5,5 @@ export default {
   grants: ['power:arbiter'],
   id: 'arbiter',
   name: 'Arbiter',
-  version: '6.400'
+  version: '6.500'
 };

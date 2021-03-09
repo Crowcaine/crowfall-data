@@ -5,5 +5,5 @@ export default {
   grants: ['power:flash-of-light', 'power:holy-symbol'],
   id: 'anoited',
   name: 'Anoited',
-  version: '6.400'
+  version: '6.500'
 };

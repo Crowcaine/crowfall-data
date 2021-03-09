@@ -5,5 +5,5 @@ export default {
   grants: ['power:spiritual-presence'],
   id: 'spiritual-presence',
   name: 'Spiritual Presence',
-  version: '6.400'
+  version: '6.500'
 };

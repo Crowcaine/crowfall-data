@@ -5,5 +5,5 @@ export default {
   grants: ['power:hammer-of-the-gods'],
   id: 'hammer-of-the-gods',
   name: 'Hammer of the Gods',
-  version: '6.400'
+  version: '6.500'
 };

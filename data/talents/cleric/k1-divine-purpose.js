@@ -9,5 +9,5 @@ export default {
   ],
   id: 'divine-purpose',
   name: 'Divine Purpose',
-  version: '6.400'
+  version: '6.500'
 };

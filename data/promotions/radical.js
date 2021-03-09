@@ -3,11 +3,11 @@ export default {
   description:
     'Unpopular with members of their order from sacrificing healing for more potent throwing hammers.',
   enhances: {
-    'power:flash-of-light': 'transforms into [power:searing-light].',
+    'power:flash-of-light': 'transforms into [power:searing-light]',
     'power:holy-symbol':
-      'no longer heals, but damages enemies instead.',
+      'no longer heals, but damages enemies instead',
     'power:illuminate':
-      'increases Critical Chance with each hit until you score three critial hits.'
+      'increases critical chance with each hit until you score three critial hits'
   },
   grants: [
     'proficiency:throwing-hammer',

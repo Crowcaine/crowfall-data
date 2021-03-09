@@ -5,5 +5,5 @@ export default {
   grants: ['power:righteous-damnation'],
   id: 'righteous-damnation',
   name: 'Righteous Damnation',
-  version: '6.400'
+  version: '6.500'
 };
