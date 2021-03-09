@@ -5,5 +5,5 @@ export default {
   grants: ['power:into-the-shadows'],
   id: 'into-the-shadows',
   name: 'Into the Shadows',
-  version: '6.400'
+  version: '6.500'
 };

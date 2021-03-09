@@ -4,5 +4,5 @@ export default {
   grants: ['power:snipe'],
   id: 'snipe',
   name: 'Snipe',
-  version: '6.400'
+  version: '6.500'
 };

@@ -5,5 +5,5 @@ export default {
   id: 'sweet-victory',
   name: 'Sweet Victory',
   target: 'self',
-  version: '6.400'
+  version: '6.500'
 };

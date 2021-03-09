@@ -13,7 +13,7 @@ export default {
     a1: 'talent:swashbuckler',
     b1: 'talent:tenacity',
     b2: 'talent:guile',
-    c1: 'talent:rapid-fire',
+    c1: 'talent:rapid-shots',
     c2: 'talent:flintlock-shot',
     c3: 'talent:cheap-shots',
     d1: 'talent:snipe',
@@ -50,5 +50,5 @@ export default {
     l8: 'domain:shadow',
     l9: 'domain:wind'
   },
-  version: '6.400'
+  version: '6.500'
 };

@@ -4,5 +4,5 @@ export default {
   grants: ['power:ambush'],
   id: 'ambush',
   name: 'Ambush',
-  version: '6.400'
+  version: '6.500'
 };

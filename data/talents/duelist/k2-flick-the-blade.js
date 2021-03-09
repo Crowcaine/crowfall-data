@@ -11,5 +11,5 @@ export default {
   ],
   id: 'flick-the-blade',
   name: 'Flick the Blade',
-  version: '6.400'
+  version: '6.500'
 };

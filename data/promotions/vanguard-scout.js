@@ -4,15 +4,14 @@ export default {
     'Known for lurking in the shadows and leaving only to finish off a wounded target.',
   enhances: {
     'power:flinlock-shot':
-      'Now increases movement speed for a duration when used.',
+      'increases movement speed for a duration when activated',
     'power:keen-guard':
-      'Now has a chance to slow enemies that hit you while active.',
-    'power:peppershot-box': 'Now inflicts stun on 5 pips spent.'
+      'has a chance to slow enemies that hit you while active',
+    'power:peppershot-box': 'inflicts stun on 5 pips spent'
   },
   grants: [
     'mastery:pistol',
     'mastery:rapier',
-    'stat:health:750',
     'stat:attack-power:100',
     'stat:health:750',
     'stat:stealth:15',
@@ -22,5 +21,5 @@ export default {
   name: 'Vanguard Scout',
   tags: ['melee'],
   type: 'promotion',
-  version: '6.400'
+  version: '6.500'
 };

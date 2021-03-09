@@ -4,5 +4,5 @@ export default {
   grants: ['power:slayer'],
   id: 'slayer',
   name: 'Slayer',
-  version: '6.400'
+  version: '6.500'
 };

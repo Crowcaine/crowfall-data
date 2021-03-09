@@ -5,5 +5,5 @@ export default {
   grants: ['power:feral-instincts'],
   id: 'feral-instincts',
   name: 'Feral Instincts',
-  version: '6.400'
+  version: '6.500'
 };

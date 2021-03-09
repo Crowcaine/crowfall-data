@@ -9,5 +9,5 @@ export default {
   ],
   id: 'guile',
   name: 'Guile',
-  version: '6.400'
+  version: '6.500'
 };

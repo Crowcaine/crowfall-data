@@ -9,5 +9,5 @@ export default {
   ],
   id: 'dead-eye',
   name: 'Dead Eye',
-  version: '6.400'
+  version: '6.500'
 };

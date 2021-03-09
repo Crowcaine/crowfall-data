@@ -4,5 +4,5 @@ export default {
   grants: ['power:dirge'],
   id: 'dirge',
   name: 'Dirge',
-  version: '6.400'
+  version: '6.500'
 };

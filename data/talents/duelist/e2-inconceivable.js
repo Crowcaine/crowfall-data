@@ -4,5 +4,5 @@ export default {
   grants: ['power:inconceivable'],
   id: 'inconceivable',
   name: 'Inconceivable!',
-  version: '6.400'
+  version: '6.500'
 };

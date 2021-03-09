@@ -10,5 +10,5 @@ export default {
   ],
   id: 'spy-master',
   name: 'Spy Master',
-  version: '6.400'
+  version: '6.500'
 };

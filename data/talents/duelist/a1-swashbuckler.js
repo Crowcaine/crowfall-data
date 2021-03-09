@@ -5,5 +5,5 @@ export default {
   grants: ['power:pepperbox-shot', 'power:impale'],
   id: 'swashbuckler',
   name: 'Swashbuckler',
-  version: '6.400'
+  version: '6.500'
 };

@@ -5,5 +5,5 @@ export default {
   grants: ['power:buckshot'],
   id: 'buckshot',
   name: 'Buckshot',
-  version: '6.400'
+  version: '6.500'
 };

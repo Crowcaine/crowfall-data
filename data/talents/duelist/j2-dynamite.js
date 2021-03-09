@@ -4,5 +4,5 @@ export default {
   grants: ['power:dynamite'],
   id: 'dynamite',
   name: 'Dynamite',
-  version: '6.400'
+  version: '6.500'
 };

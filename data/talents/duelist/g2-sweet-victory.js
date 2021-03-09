@@ -5,5 +5,5 @@ export default {
   grants: ['power:sweet-victory'],
   id: 'sweet-victory',
   name: 'Sweet Victory',
-  version: '6.400'
+  version: '6.500'
 };
