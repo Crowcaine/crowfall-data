@@ -4,5 +4,5 @@ export default {
   grants: ['power:recon'],
   id: 'recon',
   name: 'Recon',
-  version: '6.400'
+  version: '6.500'
 };

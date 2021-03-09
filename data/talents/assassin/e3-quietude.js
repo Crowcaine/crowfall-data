@@ -10,5 +10,5 @@ export default {
   ],
   id: 'quietude',
   name: 'Quietude',
-  version: '6.400'
+  version: '6.500'
 };

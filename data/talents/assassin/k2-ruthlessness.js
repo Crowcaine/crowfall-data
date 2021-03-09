@@ -11,5 +11,5 @@ export default {
   ],
   id: 'ruthlessness',
   name: 'Ruthlessness',
-  version: '6.400'
+  version: '6.500'
 };

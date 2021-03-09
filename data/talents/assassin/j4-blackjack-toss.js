@@ -4,5 +4,5 @@ export default {
   grants: ['power:blackjack-toss'],
   id: 'blackjack-toss',
   name: 'Blackjack Toss',
-  version: '6.400'
+  version: '6.500'
 };

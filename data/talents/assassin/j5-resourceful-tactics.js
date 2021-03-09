@@ -5,5 +5,5 @@ export default {
   grants: ['power:resourceful-tactics'],
   id: 'resourceful-tactics',
   name: 'Resourceful Tactics',
-  version: '6.400'
+  version: '6.500'
 };

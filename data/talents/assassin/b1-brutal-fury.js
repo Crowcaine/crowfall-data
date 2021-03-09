@@ -10,5 +10,5 @@ export default {
   ],
   id: 'brutal-fury',
   name: 'Brutal Fury',
-  version: '6.400'
+  version: '6.500'
 };

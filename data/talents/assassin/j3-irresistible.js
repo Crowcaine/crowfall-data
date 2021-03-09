@@ -5,5 +5,5 @@ export default {
   grants: ['power:irresistible'],
   id: 'irresistible',
   name: 'Irresistible',
-  version: '6.400'
+  version: '6.500'
 };

@@ -5,5 +5,5 @@ export default {
   grants: ['power:bloodthirsty'],
   id: 'bloodthirsty',
   name: 'Bloodthirsy',
-  version: '6.400'
+  version: '6.500'
 };

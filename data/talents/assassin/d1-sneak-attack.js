@@ -4,5 +4,5 @@ export default {
   grants: ['power:sneak-attack'],
   id: 'sneak-attack',
   name: 'Ambush',
-  version: '6.400'
+  version: '6.500'
 };

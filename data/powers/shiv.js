@@ -6,10 +6,11 @@ export default {
   },
   cooldown: 14,
   description:
-    'jabs for 137 damage. Applies Instant Poison to you attacks for 25 seconds if you have a toxin equipped.',
+    'jabs for 137 damage.\n\nGenerates 1 Pip\n\nApplies Instant Poison to you attacks for 25 seconds if you have a toxin equipped.',
   duration: 25,
   id: 'shiv',
   name: 'Shiv',
   range: 5,
-  target: 'reticle'
+  target: 'reticle',
+  version: '6.500'
 };

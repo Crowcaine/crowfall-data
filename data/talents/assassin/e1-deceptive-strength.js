@@ -10,5 +10,5 @@ export default {
   ],
   id: 'deceptive-strength',
   name: 'Deceptive Strength',
-  version: '6.400'
+  version: '6.500'
 };

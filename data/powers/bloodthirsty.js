@@ -5,5 +5,6 @@ export default {
   duration: 15,
   id: 'bloodthirsty',
   name: 'Bloodthirsty',
-  target: 'self'
+  target: 'self',
+  version: '6.500'
 };

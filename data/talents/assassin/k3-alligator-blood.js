@@ -14,5 +14,5 @@ export default {
   ],
   id: 'alligator-blood',
   name: 'Aligator Blood',
-  version: '6.400'
+  version: '6.500'
 };
