@@ -5,5 +5,5 @@ export default {
   grants: ['power:barbarian'],
   id: 'barbarian',
   name: 'Barbarian',
-  version: '6.400'
+  version: '6.500'
 };

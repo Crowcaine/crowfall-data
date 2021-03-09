@@ -5,5 +5,5 @@ export default {
   grants: ['power:ultimate-warrior'],
   id: 'ultimate-warrior',
   name: 'Ultimate Warrior',
-  version: '6.400'
+  version: '6.500'
 };

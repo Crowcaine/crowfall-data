@@ -11,5 +11,5 @@ export default {
   ],
   id: 'malice',
   name: 'Malice',
-  version: '6.400'
+  version: '6.500'
 };

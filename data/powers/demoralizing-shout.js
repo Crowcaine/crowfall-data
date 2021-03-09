@@ -11,5 +11,5 @@ export default {
   name: 'Demoralizing Shout',
   radius: 8,
   target: 'sphere',
-  version: '6.400'
+  version: '6.500'
 };

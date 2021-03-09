@@ -29,6 +29,7 @@ const targetTypes = new Set([
 
 (async () => {
   const talentFiles = await glob('./data/talents/**/*.js');
+  const promotionFiles = await glob('./data/promotions/**/*.js');
   const majorFiles = await glob('./data/majors/**/*.js');
   const minorFiles = await glob('./data/minors/**/*.js');
   const classFiles = await glob('./data/classes/**/*.js');
@@ -39,7 +40,8 @@ const targetTypes = new Set([
     ...racesFiles,
     ...talentFiles,
     ...majorFiles,
-    ...minorFiles
+    ...minorFiles,
+    ...promotionFiles
   ];
 
   // find all power grants in talents, majors and minors

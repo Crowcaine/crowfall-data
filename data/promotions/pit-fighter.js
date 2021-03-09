@@ -7,7 +7,7 @@ export default {
       'heals you when used below 50% health but only once every 90 seconds',
     'power:neck-breaker':
       'increases your [stat:health:1875] and heals you for 2350 hitpoints',
-    'power:whirling-pain': 'adds a Barrier when used.'
+    'power:whirling-pain': 'adds a Barrier when used'
   },
   grants: [
     'proficiency:plate',

@@ -10,5 +10,5 @@ export default {
   ],
   id: 'fortification',
   name: 'Fortification',
-  version: '6.400'
+  version: '6.500'
 };

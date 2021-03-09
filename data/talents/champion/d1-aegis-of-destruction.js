@@ -5,5 +5,5 @@ export default {
   grants: ['power:aegis-of-destruction'],
   id: 'aegis-of-destruction',
   name: 'Aegis Of Salvation',
-  version: '6.400'
+  version: '6.500'
 };

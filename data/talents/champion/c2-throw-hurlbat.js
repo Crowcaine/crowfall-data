@@ -4,5 +4,5 @@ export default {
   grants: ['power:throw-hurlbat'],
   id: 'throw-hurlbat',
   name: 'Throw Hurlbat',
-  version: '6.400'
+  version: '6.500'
 };

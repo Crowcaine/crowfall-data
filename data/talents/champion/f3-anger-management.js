@@ -5,5 +5,5 @@ export default {
   grants: ['power:anger-management'],
   id: 'anger-management',
   name: 'Anger Management',
-  version: '6.400'
+  version: '6.500'
 };

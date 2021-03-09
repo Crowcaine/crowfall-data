@@ -5,5 +5,5 @@ export default {
   grants: ['power:blight', 'power:ritual-sacrifice'],
   id: 'magic-dance',
   name: 'Magic Dance',
-  version: '6.400'
+  version: '6.500'
 };

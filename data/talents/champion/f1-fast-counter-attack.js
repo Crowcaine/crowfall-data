@@ -5,5 +5,5 @@ export default {
   grants: ['power:fast-counter-attack'],
   id: 'fast-counter-attack',
   name: 'Fast Counter Attack',
-  version: '6.400'
+  version: '6.500'
 };

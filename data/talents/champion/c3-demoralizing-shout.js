@@ -5,5 +5,5 @@ export default {
   grants: ['power:demoralizing-shout'],
   id: 'demoralizing-shout',
   name: 'Demoralizing Shout',
-  version: '6.400'
+  version: '6.500'
 };

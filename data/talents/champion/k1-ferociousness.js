@@ -11,5 +11,5 @@ export default {
   ],
   id: 'ferociousness',
   name: 'Ferociousness',
-  version: '6.400'
+  version: '6.500'
 };

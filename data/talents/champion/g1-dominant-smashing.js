@@ -5,5 +5,5 @@ export default {
   grants: ['power:dominator'],
   id: 'dominant-smashing',
   name: 'Dominant Smashing',
-  version: '6.400'
+  version: '6.500'
 };

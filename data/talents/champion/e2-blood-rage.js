@@ -4,5 +4,5 @@ export default {
   grants: ['power:blood-rage'],
   id: 'blood-rage',
   name: 'Blood Rage',
-  version: '6.400'
+  version: '6.500'
 };

@@ -5,5 +5,5 @@ export default {
   id: 'dominator',
   name: 'Dominator',
   target: 'self',
-  version: '6.400'
+  version: '6.500'
 };

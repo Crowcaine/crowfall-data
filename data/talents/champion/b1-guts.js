@@ -9,5 +9,5 @@ export default {
   ],
   id: 'guts',
   name: 'Guts',
-  version: '6.400'
+  version: '6.500'
 };

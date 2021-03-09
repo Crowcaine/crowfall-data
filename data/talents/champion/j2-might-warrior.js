@@ -4,5 +4,5 @@ export default {
   grants: ['power:mighty-warrior'],
   id: 'might-warrior',
   name: 'Might Warrior',
-  version: '6.400'
+  version: '6.500'
 };

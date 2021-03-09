@@ -5,5 +5,5 @@ export default {
   grants: ['power:spinning-backfist'],
   id: 'spinning-backfist',
   name: 'Spinning Backfist',
-  version: '6.400'
+  version: '6.500'
 };

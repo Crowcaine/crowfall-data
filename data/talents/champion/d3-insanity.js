@@ -4,5 +4,5 @@ export default {
   grants: ['power:insanity'],
   id: 'insanity',
   name: 'Insanity',
-  version: '6.400'
+  version: '6.500'
 };

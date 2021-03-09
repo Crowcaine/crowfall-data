@@ -7,5 +7,5 @@ export default {
   id: 'blood-rage',
   name: 'Blood Rage',
   target: 'self',
-  version: '6.400'
+  version: '6.500'
 };
