@@ -5,5 +5,5 @@ export default {
   grants: ['power:conduction'],
   id: 'conduction',
   name: 'Conduction',
-  version: '6.400'
+  version: '6.500'
 };

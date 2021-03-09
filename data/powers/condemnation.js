@@ -6,5 +6,5 @@ export default {
   id: 'condemnation',
   name: 'Condemnation',
   target: 'rectangle',
-  version: '6.400'
+  version: '6.500'
 };

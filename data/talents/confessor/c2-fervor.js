@@ -4,5 +4,5 @@ export default {
   grants: ['power:fervor'],
   id: 'fervor',
   name: 'Fervor',
-  version: '6.400'
+  version: '6.500'
 };

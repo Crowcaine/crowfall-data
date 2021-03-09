@@ -3,12 +3,11 @@ export default {
   description:
     'As fire can punish the wicked, it can also heal the faithful. While this wrshiper wields both forms of the flame, they rely on their healing to keep the faithful fighting.',
   enhances: {
-    'power-hellfire-aura':
-      'Now heals allies within the radius. [power:fire-tornadoes] no longer consumes [power:hellfire-aura].',
+    'power-hellfire-aura': 'heals allies within the radius',
     'power:fervor':
-      'Now has a reduced cooldown and adds a group heal to those within 30m.',
+      'gains a group heal with a 30m range and has reduced cooldown',
     'power:fire-tornadoes':
-      'Now tornadoes also heal friendly targets they hit.'
+      'heals friendly targets and no longer consumes [power:hellfire-aura]'
   },
   grants: [
     'proficiency:mail',
@@ -20,5 +19,5 @@ export default {
   name: 'Inquisitor',
   tags: ['healing'],
   type: 'promotion',
-  version: '6.400'
+  version: '6.500'
 };

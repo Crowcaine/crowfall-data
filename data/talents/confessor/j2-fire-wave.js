@@ -4,5 +4,5 @@ export default {
   grants: ['power:fire-wave'],
   id: 'fire-wave',
   name: 'Fire Ware',
-  version: '6.400'
+  version: '6.500'
 };

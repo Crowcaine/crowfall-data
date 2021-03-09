@@ -5,5 +5,5 @@ export default {
   grants: ['power:righteousness'],
   id: 'righteousness',
   name: 'Righteousness',
-  version: '6.400'
+  version: '6.500'
 };

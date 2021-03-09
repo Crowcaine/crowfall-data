@@ -5,5 +5,5 @@ export default {
   grants: ['power:burning-hot'],
   id: 'burning-hot',
   name: 'Burning Hot',
-  version: '6.400'
+  version: '6.500'
 };

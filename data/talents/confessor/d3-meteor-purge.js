@@ -4,5 +4,5 @@ export default {
   grants: ['power:meteor-purge'],
   id: 'meteor-purge',
   name: 'Meteor Purge',
-  version: '6.400'
+  version: '6.500'
 };

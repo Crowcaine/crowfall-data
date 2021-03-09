@@ -8,5 +8,5 @@ export default {
   ],
   id: 'sanctified',
   name: 'Sanctified',
-  version: '6.400'
+  version: '6.500'
 };

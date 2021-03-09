@@ -4,5 +4,5 @@ export default {
   grants: ['power:magma-ball'],
   id: 'magma-ball',
   name: 'Magma Ball',
-  version: '6.400'
+  version: '6.500'
 };

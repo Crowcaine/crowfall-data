@@ -4,10 +4,10 @@ export default {
     'Known for wild gestures and speaking in tongues, this devotee of fire only desires to set the unworthy ablaze before the strain of casting spells causes them to burn out.',
   enhances: {
     'power-hellfire-aura':
-      'Now with increased radius and grants a small amount of mana per enemy hit.',
+      'grants mana on enemy hit and has a larger radius',
     'power:fervor':
-      'Now adds damage bonus to basic attacks for 12 seconds.',
-    'power:fire-tornadoes': 'Now tornadoes hit 4 times per enemy hit.'
+      'adds damage bonus to basic attacks for 12 seconds',
+    'power:fire-tornadoes': 'hit enemies up to 4 times'
   },
   grants: [
     'mastery:book',
@@ -18,5 +18,5 @@ export default {
   name: 'Fanatic',
   tags: ['ranged'],
   type: 'promotion',
-  version: '6.400'
+  version: '6.500'
 };

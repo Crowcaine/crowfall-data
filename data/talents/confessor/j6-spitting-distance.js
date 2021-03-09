@@ -5,5 +5,5 @@ export default {
   grants: ['power:spitting-distance'],
   id: 'spitting-distance',
   name: 'Spitting Distance',
-  version: '6.400'
+  version: '6.500'
 };

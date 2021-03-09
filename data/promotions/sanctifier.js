@@ -4,10 +4,11 @@ export default {
     "Their only desire is to witness the despair in nonbelievers's eyes, so this follwer of Arkon has cast aside the benefits of range to become incredibly defensive.  Confessor powers have their range reduced to 8m and their damage increased by 25%. Fire Tornadoes and Hellfire Blast have their range reduced to 20m.",
   enhances: {
     'power-hellfire-aura':
-      'Now has increased damage and hits up 7 targets. [power:fire-tornadoes] no longer consumes [hellfire-aura].',
+      'has increased damage and hits up 7 targets',
     'power:fervor':
-      'Now has a reduced cooldown, grants CC Immunity and increases slashing resist, crushing resist, piercing resist, personal damage modifier, personal healing modifier and no longer reduces mitigations while channeling. This also damages enemies near you, applying sin to them..',
-    'power:fire-tornadoes': 'Now tornadoes apply a knowndown.'
+      'grants cc immunity, personal damage modifier and personal healing modifier. Nearby enemies are damage and have sin applied to them. Finally mitigations are no longer reduced but slashing, crushing and piercing resistances are increased',
+    'power:fire-tornadoes':
+      'apply a knockdown and no longer consume [hellfire-aura]'
   },
   grants: [
     'proficiency:mail',
@@ -20,5 +21,5 @@ export default {
   name: 'Sanctifier',
   tags: ['melee', 'defense'],
   type: 'promotion',
-  version: '6.400'
+  version: '6.500'
 };

@@ -5,5 +5,5 @@ export default {
   grants: ['power:scalding'],
   id: 'scalding',
   name: 'Scalding',
-  version: '6.400'
+  version: '6.500'
 };

@@ -5,5 +5,5 @@ export default {
   grants: ['power:feel-the-burn'],
   id: 'feel-the-burn',
   name: 'Feel the Burn',
-  version: '6.400'
+  version: '6.500'
 };

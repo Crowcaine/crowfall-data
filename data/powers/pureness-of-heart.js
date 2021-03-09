@@ -6,5 +6,5 @@ export default {
   id: 'pureness-of-heart',
   name: 'Pureness of Heart',
   target: 'self',
-  version: '6.400'
+  version: '6.500'
 };

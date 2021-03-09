@@ -7,9 +7,9 @@ export default {
     'stat:ranged-distance:12',
     'stat:armor-penetration-elemental:9',
     'stat:damage-low-health:15',
-    'stat:max-mana:15'
+    'stat:max-mana:150'
   ],
   id: 'rapture',
   name: 'Rapture',
-  version: '6.400'
+  version: '6.500'
 };
