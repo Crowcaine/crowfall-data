@@ -10,5 +10,5 @@ export default {
   ],
   id: 'blood-thirst',
   name: 'Blood Thirst',
-  version: '6.400'
+  version: '6.500'
 };

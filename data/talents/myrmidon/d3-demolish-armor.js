@@ -4,5 +4,5 @@ export default {
   grants: ['power:demolish-armor'],
   id: 'demolish-armor',
   name: 'Demolish Armor',
-  version: '6.400'
+  version: '6.500'
 };

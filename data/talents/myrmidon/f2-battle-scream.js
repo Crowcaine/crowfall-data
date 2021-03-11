@@ -4,5 +4,5 @@ export default {
   grants: ['power:battle-scream'],
   id: 'battle-scream',
   name: 'Battle Scream',
-  version: '6.400'
+  version: '6.500'
 };

@@ -10,5 +10,5 @@ export default {
   ],
   id: 'solid-muscle',
   name: 'Solid Muscle',
-  version: '6.400'
+  version: '6.500'
 };

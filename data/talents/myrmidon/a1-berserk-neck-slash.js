@@ -5,5 +5,5 @@ export default {
   grants: ['power:berserk', 'power:neck-slash'],
   id: 'berserk-neck-slash',
   name: 'Berserk/Neck Slash',
-  version: '6.400'
+  version: '6.500'
 };

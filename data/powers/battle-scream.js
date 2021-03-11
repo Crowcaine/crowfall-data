@@ -4,12 +4,11 @@ export default {
   cost: 24,
   costType: 'fury',
   description:
-    'unleashes a scream, dealing for 123 damage to enemies in the area and suppressing them.',
-  duration: 10,
+    'unleashes a scream, dealing for 123 damage to enemies in the area and suppressing them',
   id: 'battle-scream',
   maxTargets: 5,
   name: 'Battle Scream',
   range: 5,
   target: 'area',
-  version: '6.400'
+  version: '6.500'
 };

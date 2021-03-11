@@ -4,9 +4,10 @@ export default {
     'Usually known for recklessness, this thoughtful warrior knows the key to winning a fight is to hamper and control your opponents.',
   enhances: {
     'power:berserk':
-      'Now escapes active crow control and grants crowd control immunity',
-    'power:neck-slash': 'Now applies suppression.',
-    'power:whirlwind': 'Now immune to crowd control while channeling.'
+      'frees you from active crowd and grants crowd control immunity',
+    'power:neck-slash': 'inflicts suppression.',
+    'power:whirlwind':
+      'confers immunity to crowd control while you channel'
   },
   grants: [
     'mastery:axe',
@@ -20,5 +21,5 @@ export default {
   name: 'Conqueror',
   tags: ['melee', 'control'],
   type: 'promotion',
-  version: '6.400'
+  version: '6.500'
 };

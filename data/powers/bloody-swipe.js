@@ -6,10 +6,10 @@ export default {
   cooldown: 1,
   cost: 19,
   costType: 'fury',
-  description: 'strikes twice for 69 damage.',
+  description: 'strikes twice for 69 damage',
   id: 'bloody-swipe',
   name: 'Bloody Swipe',
   range: 5,
   target: 'cone',
-  version: '6.400'
+  version: '6.500'
 };

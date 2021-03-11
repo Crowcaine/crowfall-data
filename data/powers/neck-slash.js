@@ -4,7 +4,7 @@ export default {
   cost: 1,
   costType: 'pips',
   description:
-    'executes a bonus attack for 205 damage and becomes enabled after using Berserk.\nThis attack can be instantly flash-cast.',
+    'executes a bonus attack for 205 damage and becomes enabled after using Berserk.\n\nThis attack can be instantly flash-cast.',
   id: 'neck-slash',
   name: 'Neck Slash',
   range: 5,

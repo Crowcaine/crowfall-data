@@ -11,5 +11,5 @@ export default {
   ],
   id: 'audacity',
   name: 'Audacity',
-  version: '6.400'
+  version: '6.500'
 };

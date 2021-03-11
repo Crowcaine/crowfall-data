@@ -5,5 +5,5 @@ export default {
   grants: ['power:opportunist'],
   id: 'opportunist',
   name: 'Opportunist',
-  version: '6.400'
+  version: '6.500'
 };

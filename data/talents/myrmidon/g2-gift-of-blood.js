@@ -5,5 +5,5 @@ export default {
   grants: ['power:gift-of-blood'],
   id: 'gift-of-blood',
   name: 'Gift of Blood',
-  version: '6.400'
+  version: '6.500'
 };

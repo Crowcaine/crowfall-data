@@ -5,5 +5,5 @@ export default {
   grants: ['power:scent-of-blood'],
   id: 'scent-of-blood',
   name: 'Scent of Blood',
-  version: '6.400'
+  version: '6.500'
 };

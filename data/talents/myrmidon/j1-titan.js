@@ -4,5 +4,5 @@ export default {
   grants: ['power:titan'],
   id: 'titan',
   name: 'Titan',
-  version: '6.400'
+  version: '6.500'
 };

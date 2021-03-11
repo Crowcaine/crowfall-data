@@ -50,5 +50,5 @@ export default {
     l8: 'domain:war',
     l9: 'domain:battle'
   },
-  version: '6.400'
+  version: '6.500'
 };

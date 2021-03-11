@@ -4,5 +4,5 @@ export default {
   grants: ['power:cast-net'],
   id: 'cast-net',
   name: 'Cast Net',
-  version: '6.400'
+  version: '6.500'
 };

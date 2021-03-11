@@ -8,5 +8,5 @@ export default {
   ],
   id: 'pitiless',
   name: 'Pitiless',
-  version: '6.400'
+  version: '6.500'
 };

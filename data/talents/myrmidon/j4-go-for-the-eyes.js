@@ -5,5 +5,5 @@ export default {
   grants: ['power:go-for-the-eyes'],
   id: 'go-for-the-eyes',
   name: 'Go for the Eyes',
-  version: '6.400'
+  version: '6.500'
 };

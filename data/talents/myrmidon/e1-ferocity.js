@@ -10,5 +10,5 @@ export default {
   ],
   id: 'ferocity',
   name: 'Ferocity',
-  version: '6.400'
+  version: '6.500'
 };

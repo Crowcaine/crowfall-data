@@ -5,5 +5,5 @@ export default {
   grants: ['power:indomitable'],
   id: 'indomitable',
   name: 'Indomitable',
-  version: '6.400'
+  version: '6.500'
 };

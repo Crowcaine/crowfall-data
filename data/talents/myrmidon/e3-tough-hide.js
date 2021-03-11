@@ -11,5 +11,5 @@ export default {
   ],
   id: 'tough-hide',
   name: 'tough-hide',
-  version: '6.400'
+  version: '6.500'
 };

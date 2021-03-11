@@ -1,10 +1,10 @@
 export default {
   castType: 'passive',
   description:
-    'grants a 10% [stat:personal-damage-modifier:10] for 10 seconds when you are hit with a ranged attack.\nThis cannot occur more than once every 20 seconds.',
+    'grants a 10% [stat:personal-damage-modifier:10] for 10 seconds when you are hit with a ranged attack.\n\nThis cannot occur more than once every 20 seconds',
   duration: 10,
   id: 'unstoppable',
   name: 'Unstoppable',
   target: 'self',
-  version: '6.400'
+  version: '6.500'
 };

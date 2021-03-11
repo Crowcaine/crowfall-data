@@ -5,5 +5,5 @@ export default {
   grants: ['power:conqueror'],
   id: 'conqueror',
   name: 'Conqueror',
-  version: '6.400'
+  version: '6.500'
 };

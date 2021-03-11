@@ -5,5 +5,5 @@ export default {
   grants: ['power:unstoppable'],
   id: 'unstoppable',
   name: 'Unstoppable',
-  version: '6.400'
+  version: '6.500'
 };
