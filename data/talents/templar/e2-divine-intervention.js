@@ -5,5 +5,5 @@ export default {
   grants: ['power:divine-intervention'],
   id: 'divine-intervention',
   name: 'Divine Intervention',
-  version: '6.400'
+  version: '6.500'
 };

@@ -9,5 +9,5 @@ export default {
   ],
   id: 'warrior-of-vengeance',
   name: 'Warrior of Vengeance',
-  version: '6.400'
+  version: '6.500'
 };

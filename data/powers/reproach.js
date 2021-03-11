@@ -7,11 +7,11 @@ export default {
   },
   cost: 1,
   costType: 'righteousness',
-  description: 'slashes multiple enemies, dealing 74 damage.',
+  description: 'slashes multiple enemies, dealing 74 damage',
   id: 'reproach',
   maxTargets: 5,
   name: 'Reproach',
   radius: 5,
   target: 'cone',
-  version: '6.400'
+  version: '6.500'
 };

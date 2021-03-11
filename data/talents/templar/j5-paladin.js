@@ -5,5 +5,5 @@ export default {
   grants: ['power:paladin'],
   id: 'paladin',
   name: 'Paladin',
-  version: '6.400'
+  version: '6.500'
 };

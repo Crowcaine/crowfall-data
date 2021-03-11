@@ -5,5 +5,5 @@ export default {
   grants: ['power:inner-fire'],
   id: 'inner-fire',
   name: 'Inner Fire',
-  version: '6.400'
+  version: '6.500'
 };

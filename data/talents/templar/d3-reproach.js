@@ -4,5 +4,5 @@ export default {
   grants: ['power:reproach'],
   id: 'reproach',
   name: 'Reproach',
-  version: '6.400'
+  version: '6.500'
 };

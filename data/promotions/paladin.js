@@ -4,11 +4,10 @@ export default {
     'This well-armored holy warrior excels at healing their allies.',
   enhances: {
     'power:devotion':
-      'Now scales with support power and cleanses all damage over time effects, granting a short immunity to those removed.',
+      'scales with support power, cleanses and prevents all damage over time effects for a short time',
     'power:divine-light':
-      'No longer drains your righteousness to heal.',
-    'power:holy-warrior':
-      'Now has reduced cooldown and heals lowest health in group.'
+      'no longer drains your Righteousness to heal but inflicts no damage',
+    'power:holy-warrior': 'heals the group member with lowest health'
   },
   grants: [
     'mastery:great-sword',
@@ -21,5 +20,5 @@ export default {
   name: 'Paladin',
   tags: ['healing'],
   type: 'promotion',
-  version: '6.400'
+  version: '6.500'
 };

@@ -4,5 +4,5 @@ export default {
   grants: ['power:congregation'],
   id: 'congregation',
   name: 'Congregation',
-  version: '6.400'
+  version: '6.500'
 };

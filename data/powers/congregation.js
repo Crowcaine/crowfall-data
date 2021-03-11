@@ -7,5 +7,5 @@ export default {
   name: 'Congregation',
   radius: 20,
   target: 'cone',
-  version: '6.400'
+  version: '6.500'
 };

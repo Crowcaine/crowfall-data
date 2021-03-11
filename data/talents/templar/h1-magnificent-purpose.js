@@ -4,5 +4,5 @@ export default {
   grants: ['power:censure', 'stat:stamina:15'],
   id: 'magnificent-purpose',
   name: 'Magnificent Purpose',
-  version: '6.400'
+  version: '6.500'
 };

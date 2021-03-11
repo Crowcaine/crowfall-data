@@ -10,5 +10,5 @@ export default {
   ],
   id: 'executioner',
   name: 'Executioner',
-  version: '6.400'
+  version: '6.500'
 };

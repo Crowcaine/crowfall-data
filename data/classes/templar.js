@@ -38,7 +38,7 @@ export default {
     j6: 'talent:healing-burst',
     k1: 'talent:warrior-of-vengeance',
     k2: 'talent:moral-perogative',
-    k3: 'talent:virtual-light',
+    k3: 'talent:virtuous-light',
     l1: 'domain:battle',
     l2: 'domain:fire',
     l3: 'domain:wind',
@@ -49,5 +49,5 @@ export default {
     l8: 'domain:protection',
     l9: 'domain:justice'
   },
-  version: '6.400'
+  version: '6.500'
 };

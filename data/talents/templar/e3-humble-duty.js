@@ -11,5 +11,5 @@ export default {
   ],
   id: 'humble-duty',
   name: 'Humble Duty',
-  version: '6.400'
+  version: '6.500'
 };

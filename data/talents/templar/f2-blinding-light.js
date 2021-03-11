@@ -4,5 +4,5 @@ export default {
   grants: ['power:blinding-light'],
   id: 'blinding-light',
   name: 'Blinding Light',
-  version: '6.400'
+  version: '6.500'
 };

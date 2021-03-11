@@ -10,5 +10,5 @@ export default {
   ],
   id: 'moral-perogative',
   name: 'Moral Perogative',
-  version: '6.400'
+  version: '6.500'
 };

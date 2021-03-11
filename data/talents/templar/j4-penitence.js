@@ -4,5 +4,5 @@ export default {
   grants: ['power:penitence'],
   id: 'penitence',
   name: 'Penitence',
-  version: '6.400'
+  version: '6.500'
 };

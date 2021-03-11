@@ -4,5 +4,5 @@ export default {
   grants: ['power:devotion'],
   id: 'devotion',
   name: 'Devotion',
-  version: '6.400'
+  version: '6.500'
 };

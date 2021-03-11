@@ -4,11 +4,10 @@ export default {
     'Heavily armorde and control focused, do not get near this defender of the fire.',
   enhances: {
     'power:devotion':
-      'Now cleanses crowd control effects on the group when cast.',
-    'power:divine-light':
-      'Now also inflicts knowckdown when deployed.',
+      'cleanses crowd control effects on the group when cast',
+    'power:divine-light': 'inflicts knockdown when deployed',
     'power:holy-warrior':
-      'Increased health buff, longer duration and now adds a slow to melee attacks.'
+      'has an increased health buff, duration and adds slow to melee attacks'
   },
   grants: [
     'mastery:great-sword',

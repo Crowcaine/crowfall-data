@@ -5,5 +5,5 @@ export default {
   grants: ['power:holy-warrior', 'power:righteous-stand'],
   id: 'holy-warrior-righteous-stand',
   name: 'Holy Warrior/Righteous Stand',
-  version: '6.400'
+  version: '6.500'
 };

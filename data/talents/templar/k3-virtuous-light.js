@@ -10,7 +10,7 @@ export default {
     'stat:damage-slashing-cap:5',
     'stat:final-mitigation-cap:25'
   ],
-  id: 'virtual-light',
-  name: 'Virtual Light',
-  version: '6.400'
+  id: 'virtuous-light',
+  name: 'Virtuous Light',
+  version: '6.500'
 };
