@@ -5,7 +5,8 @@ export default {
     'promotion:archdruid',
     'promotion:earthkeeper',
     'promotion:icecaller',
-    'promotion:secutor'
+    'promotion:secutor',
+    'promotion:warden'
   ],
   version: '6.400'
 };

@@ -4,5 +4,5 @@ export default {
   grants: ['power:sweep'],
   id: 'sweep',
   name: 'Sweep',
-  version: '6.400'
+  version: '6.500'
 };

@@ -3,7 +3,7 @@ export default {
   cooldown: 9,
   costType: 'arrow',
   description:
-    'shoots a flare arrow lighting the targeted area and revealing any Stealth users entering that area. Stealth users revealed in this way are Exposed, take 285 Fire Damage and begin Burning.\nBurning causes 86 Fire damage every two seconds for 16 seconds.',
+    'shoots a flare arrow lighting the targeted area and revealing any Stealth users entering that area. Stealth users revealed in this way are Exposed, take 217 Fire Damage and begin Burning.\n\nBurning causes 66 Fire damage every two seconds for 16 seconds.',
   duration: 30,
   id: 'flare-arrow',
   maxTargets: 5,
@@ -11,5 +11,5 @@ export default {
   radius: 10,
   range: 35,
   target: 'area',
-  version: '6.400'
+  version: '6.500'
 };

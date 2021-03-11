@@ -47,10 +47,10 @@ export default {
     l3: 'domain:frost',
     l4: 'domain:plague',
     l5: 'domain:dark',
-    l6: 'domain:wind',
+    l6: 'domain:nature',
     l7: 'domain:shadow',
     l8: 'domain:dark',
     l9: 'domain:plague'
   },
-  version: '6.400'
+  version: '6.500'
 };

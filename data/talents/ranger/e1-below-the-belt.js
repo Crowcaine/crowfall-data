@@ -10,5 +10,5 @@ export default {
   ],
   id: 'below-the-belt',
   name: 'Below the Belt',
-  version: '6.400'
+  version: '6.500'
 };

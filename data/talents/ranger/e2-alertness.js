@@ -5,5 +5,5 @@ export default {
   grants: ['power:alertness', 'power:flare-arrow'],
   id: 'alertness',
   name: 'Alertness',
-  version: '6.400'
+  version: '6.500'
 };

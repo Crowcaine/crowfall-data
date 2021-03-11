@@ -5,5 +5,5 @@ export default {
   grants: ['power:ankle-shot'],
   id: 'ankle-shot',
   name: 'Ankle Shot',
-  version: '6.400'
+  version: '6.500'
 };

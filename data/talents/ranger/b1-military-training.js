@@ -5,10 +5,10 @@ export default {
     'stat:dexterity:30',
     'stat:intellect:5',
     'stat:basic-attack-damage:6',
-    'stat:critical-strike:6',
+    'stat:critical-strike:3',
     'stat:health:200'
   ],
   id: 'military-training',
   name: 'Military Training',
-  version: '6.400'
+  version: '6.500'
 };

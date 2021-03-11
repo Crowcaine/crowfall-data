@@ -5,5 +5,5 @@ export default {
   grants: ['power:steel-traps'],
   id: 'steel-traps',
   name: 'Steel Traps',
-  version: '6.400'
+  version: '6.500'
 };

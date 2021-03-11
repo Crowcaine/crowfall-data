@@ -10,5 +10,5 @@ export default {
   ],
   id: 'gift-of-the-forest',
   name: 'Gift of the Forest',
-  version: '6.400'
+  version: '6.500'
 };

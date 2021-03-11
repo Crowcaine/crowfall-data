@@ -4,11 +4,11 @@ export default {
     'A master of bows who can shoot whilst on the move and excels at bringing down enemies from afar.',
   enhances: {
     'power:concussive-trap':
-      "Now reduces target's personal damage modifier.",
+      "reduces target's personal damage modifier",
     'power:disengage':
-      'Now grants a power damage bonus: ranged buff when used.',
+      'grants a power damage bonus: ranged buff when used',
     'power:rapid-fire':
-      'Now shoots up to 10 arrows. Gain a critical strike buff for each non-critical hit.'
+      'shoots up to 10 arrows and stacks a critical strike buff for each non-critical hit'
   },
   grants: [
     'mastery:recurve-bow',
@@ -25,5 +25,5 @@ export default {
   name: 'Archer',
   tags: ['ranged'],
   type: 'promotion',
-  version: '6.400'
+  version: '6.500'
 };

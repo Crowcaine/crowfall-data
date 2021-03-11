@@ -4,5 +4,5 @@ export default {
   grants: ['power:forest-step'],
   id: 'forest-step',
   name: 'Forest Step',
-  version: '6.400'
+  version: '6.500'
 };

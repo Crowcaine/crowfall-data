@@ -5,5 +5,5 @@ export default {
   grants: ['power:faerie-fire'],
   id: 'faerie-fire',
   name: 'Faerie Fire',
-  version: '6.400'
+  version: '6.500'
 };

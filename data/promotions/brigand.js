@@ -3,11 +3,10 @@ export default {
   description:
     'A stealthy lurker of the shadows focused solely on melee weapons and eliminating their victims with lethal traps.',
   enhances: {
-    'power:concussive-trap': 'Now can be placed from stealth.',
+    'power:concussive-trap': 'can be placed from stealth',
     'power:sweep':
-      'Now applies a barrier and increases your movement speed in combat.',
-    'power:twin-surge':
-      'Now deals mroe damage against bleeding targets.'
+      'applies a barrier and increases your [stat:movement-speed-in-combat] when activated',
+    'power:twin-surge': 'deals more damage against bleeding targets'
   },
   grants: [
     'mastery:recurve-bow',
@@ -22,5 +21,5 @@ export default {
   name: 'Brigand',
   tags: ['melee'],
   type: 'promotion',
-  version: '6.400'
+  version: '6.500'
 };

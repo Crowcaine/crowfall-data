@@ -8,8 +8,7 @@ export default {
     'promotion:titan',
     'promotion:vandal',
     'promotion:vanguard-scout',
-    'promotion:vindicator',
-    'promotion:warden'
+    'promotion:vindicator'
   ],
   version: '6.400'
 };

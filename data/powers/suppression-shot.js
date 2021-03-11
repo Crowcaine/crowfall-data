@@ -3,7 +3,7 @@ export default {
   cooldown: 30,
   costType: 'arrow',
   description:
-    'shoots at a ground location dealing 150 damage. Applies a Suppression effect to all hit.',
+    "shoots at a ground location dealing 114 damage. Applies a suppression effect to all hit.\n\nThis power's maximum range cannot be modified",
   id: 'suppression-shot',
   maxTargets: 5,
   name: 'Suppression Shot',

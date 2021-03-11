@@ -5,5 +5,5 @@ export default {
   grants: ['power:trick-shots'],
   id: 'trick-shots',
   name: 'Trick Shots',
-  version: '6.400'
+  version: '6.500'
 };

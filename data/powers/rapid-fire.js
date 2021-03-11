@@ -6,7 +6,7 @@ export default {
     'shoots up to eight arrows dealing 78 damage per arrow while you hold down the power key.',
   id: 'rapid-fire',
   name: 'Rapid Fire',
-  range: 20,
+  range: 15,
   target: 'reticle',
-  version: '6.400'
+  version: '6.500'
 };

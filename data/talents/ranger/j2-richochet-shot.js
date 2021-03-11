@@ -4,5 +4,5 @@ export default {
   grants: ['power:ricochet-shot'],
   id: 'richochet-shot',
   name: 'Richochet Shot',
-  version: '6.400'
+  version: '6.500'
 };

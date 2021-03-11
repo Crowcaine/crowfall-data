@@ -5,5 +5,5 @@ export default {
   grants: ['power:from-the-shadows'],
   id: 'from-the-shadows',
   name: 'From the Shadows',
-  version: '6.400'
+  version: '6.500'
 };

@@ -5,5 +5,5 @@ export default {
   grants: ['power:survivalist'],
   id: 'survivalist',
   name: 'Survivalist',
-  version: '6.400'
+  version: '6.500'
 };

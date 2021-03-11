@@ -13,5 +13,5 @@ export default {
   ],
   id: 'sure-aim',
   name: 'Sure Aim',
-  version: '6.400'
+  version: '6.500'
 };

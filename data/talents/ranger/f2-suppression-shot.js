@@ -5,5 +5,5 @@ export default {
   grants: ['power:suppression-shot'],
   id: 'suppression-shot',
   name: 'Suppression Shot',
-  version: '6.400'
+  version: '6.500'
 };

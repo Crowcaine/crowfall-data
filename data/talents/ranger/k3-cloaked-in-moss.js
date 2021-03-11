@@ -11,5 +11,5 @@ export default {
   ],
   id: 'cloaked-in-moss',
   name: 'Cloaked-in Moss',
-  version: '6.400'
+  version: '6.500'
 };
