@@ -10,5 +10,5 @@ export default {
   ],
   id: 'bulwark',
   name: 'Bulwark',
-  version: '6.400'
+  version: '6.500'
 };

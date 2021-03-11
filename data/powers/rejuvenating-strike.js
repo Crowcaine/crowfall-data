@@ -4,11 +4,11 @@ export default {
   cost: 224,
   costType: 'energy',
   description:
-    'strikes the enemy for 229 damage and grants you a 20 lifesteal buff for 12 seconds.',
+    'strikes the enemy for 229 damage and grants you a 20 lifesteal buff for 12 seconds',
   duration: 12,
   id: 'rejuvenating-strike',
   name: 'Rejuvenating Strike',
   range: 5,
   target: 'reticle',
-  version: '6.400'
+  version: '6.500'
 };

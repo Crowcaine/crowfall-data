@@ -10,5 +10,5 @@ export default {
   name: 'Shockwave',
   radius: 7,
   target: 'cone',
-  version: '6.400'
+  version: '6.500'
 };

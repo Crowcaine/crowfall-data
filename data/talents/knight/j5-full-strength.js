@@ -5,5 +5,5 @@ export default {
   grants: ['power:full-strength'],
   id: 'full-strength',
   name: 'Full Strength',
-  version: '6.400'
+  version: '6.500'
 };

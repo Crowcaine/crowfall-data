@@ -9,10 +9,10 @@ export default {
   cooldown: 9,
   cost: 131,
   costType: 'energy',
-  description: 'attacks twice for 51 damage each strike.',
+  description: 'attacks twice for 51 damage each strike',
   id: 'onslaught',
   name: 'Onslaught',
   range: 5,
   target: 'reticle',
-  version: '6.400'
+  version: '6.500'
 };

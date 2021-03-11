@@ -5,5 +5,5 @@ export default {
   grants: ['power:paralyzing-shout'],
   id: 'paralyzing-shout',
   name: 'Paralyzing Shout',
-  version: '6.400'
+  version: '6.500'
 };

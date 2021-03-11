@@ -8,10 +8,10 @@ export default {
   cost: 150,
   costType: 'energy',
   description:
-    'strikes the enemy for 190 damage, deals increased damage to targets below 35% health.',
+    'strikes the enemy for 190 damage, deals increased damage to targets below 35% health',
   id: 'valorous-strike',
   name: 'Valorous Strike',
   range: 5,
   target: 'reticle',
-  version: '6.400'
+  version: '6.500'
 };

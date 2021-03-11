@@ -11,5 +11,5 @@ export default {
   name: 'Shield Slam',
   radius: 3,
   target: 'cone',
-  version: '6.400'
+  version: '6.500'
 };

@@ -4,11 +4,11 @@ export default {
   cost: 150,
   costType: 'energy',
   description:
-    'slashes two times around you for 87 damage, applying a bleed to all hit.\nBleeding cause 79 bleed damage every two second for 16 seconds.',
+    'slashes two times around you for 87 damage, applying a bleed to all hit.\n\nBleeding cause 79 bleed damage every two second for 16 seconds.',
   id: 'obliterate',
   maxTargets: 5,
   name: 'Obliterate',
   radius: 6,
   target: 'sphere',
-  version: '6.400'
+  version: '6.500'
 };

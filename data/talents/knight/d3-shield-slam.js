@@ -4,5 +4,5 @@ export default {
   grants: ['power:shield-slam'],
   id: 'shield-slam',
   name: 'Shield Slam',
-  version: '6.400'
+  version: '6.500'
 };

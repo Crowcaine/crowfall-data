@@ -4,5 +4,5 @@ export default {
   grants: ['power:pursuit'],
   id: 'pursuit',
   name: 'Pursuit',
-  version: '6.400'
+  version: '6.500'
 };

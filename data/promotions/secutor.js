@@ -4,10 +4,10 @@ export default {
     'A stalwart defender who is master of fighting with all forms of shields',
   enhances: {
     'power:chain-attack':
-      'Now resets the cooldown on [power:redirected-strikes] after a successful hit.',
+      'resets the cooldown on [power:redirected-strikes] after a successful hit',
     'power:oath-of-will':
-      'Now reduces the cost of maintaining block by 75% and causes you to no longer lose additional stamina when blocking big hits for 12 seconds.',
-    'power:pursuit': 'Now adds a barrier.'
+      'reduces the cost of maintaining block by 75% and causes you to no longer lose additional stamina when blocking big hits for 12 seconds',
+    'power:pursuit': 'adds a barrier when activated'
   },
   grants: [
     'mastery:axe',
@@ -25,5 +25,5 @@ export default {
   name: 'Secutor',
   tags: ['melee', 'defense'],
   type: 'promotion',
-  version: '6.400'
+  version: '6.500'
 };

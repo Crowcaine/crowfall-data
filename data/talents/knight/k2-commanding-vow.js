@@ -12,5 +12,5 @@ export default {
   ],
   id: 'commanding-vow',
   name: 'Commanding Vow',
-  version: '6.400'
+  version: '6.500'
 };

@@ -4,5 +4,5 @@ export default {
   grants: ['power:noble-blood'],
   id: 'noble-blood',
   name: 'Noble Blood',
-  version: '6.400'
+  version: '6.500'
 };

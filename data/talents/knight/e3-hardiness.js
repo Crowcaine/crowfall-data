@@ -10,5 +10,5 @@ export default {
   ],
   id: 'hardiness',
   name: 'hardiness',
-  version: '6.400'
+  version: '6.500'
 };

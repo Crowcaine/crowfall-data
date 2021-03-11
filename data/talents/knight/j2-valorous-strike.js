@@ -5,5 +5,5 @@ export default {
   grants: ['power:valorous-strike'],
   id: 'valorous-strike',
   name: 'Valorous Strike',
-  version: '6.400'
+  version: '6.500'
 };

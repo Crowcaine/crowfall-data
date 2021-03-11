@@ -4,5 +4,5 @@ export default {
   grants: ['power:shield-bash'],
   id: 'shield-bash',
   name: 'Shield Bash',
-  version: '6.400'
+  version: '6.500'
 };

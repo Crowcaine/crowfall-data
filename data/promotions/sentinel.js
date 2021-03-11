@@ -3,10 +3,10 @@ export default {
   description:
     'A master tactician who controls opponents in the battlefield and has dedicated their life to mastering the mace.',
   enhances: {
-    'power:chain-attack': 'Now applies a root.',
-    'power:noble-blood': 'Now applies a supress.',
+    'power:chain-attack': 'applies a root',
+    'power:noble-blood': 'applies a supress',
     'power:pursuit':
-      'Now stuns the nest target hit by a shield attack within the nest 8 seconds.'
+      'stuns the next target hit by a shield attack within the nest 8 seconds'
   },
   grants: [
     'mastery:axe',
@@ -24,5 +24,5 @@ export default {
   name: 'Sentinel',
   tags: ['melee', 'control'],
   type: 'promotion',
-  version: '6.400'
+  version: '6.500'
 };

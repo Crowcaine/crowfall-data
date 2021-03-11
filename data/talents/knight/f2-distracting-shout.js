@@ -5,5 +5,5 @@ export default {
   grants: ['power:distracting-shout'],
   id: 'distracting-shout',
   name: 'Distracting Shout',
-  version: '6.400'
+  version: '6.500'
 };

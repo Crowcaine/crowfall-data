@@ -4,10 +4,10 @@ export default {
     'Forgoing heavier armor for superior damage, this master of blades has perfected the art of swordplay.',
   enhances: {
     'power:oath-of-will':
-      'Now grants a 25% critical strike increase for 15s or until you crit 3 times.',
+      'grants a 25% critical strike increase for 15s or until you crit three times',
     'power:obliterate':
-      'Now has a 100% critical strike chance for the bleed applied to it.',
-    'power:pursuit': 'Now has a reduced cooldown.'
+      'inflicts bleed with a 100% chance to critically strike',
+    'power:pursuit': 'has a reduced cooldown'
   },
   grants: [
     'mastery:axe',
@@ -23,5 +23,5 @@ export default {
   name: 'Swordsman',
   tags: ['melee'],
   type: 'promotion',
-  version: '6.400'
+  version: '6.500'
 };
