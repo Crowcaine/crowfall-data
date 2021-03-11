@@ -10,5 +10,5 @@ export default {
   ],
   id: 'frozen-solid',
   name: 'Frozen Solid',
-  version: '6.400'
+  version: '6.500'
 };

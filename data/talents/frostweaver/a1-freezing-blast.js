@@ -4,5 +4,5 @@ export default {
   grants: ['power:freezing-blast'],
   id: 'freezing-blast',
   name: 'Freezing Blast',
-  version: '6.400'
+  version: '6.500'
 };

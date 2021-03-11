@@ -4,5 +4,5 @@ export default {
   grants: ['power:crystal-lance'],
   id: 'crystal-lance',
   name: 'Crystal Lance',
-  version: '6.400'
+  version: '6.500'
 };

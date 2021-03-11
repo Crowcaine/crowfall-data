@@ -4,10 +4,10 @@ export default {
     'Some want to see the world burn, this master of magic wants to the freeze the world. And then explode it.',
   enhances: {
     'power:crystal-lance':
-      'Now reduces the cooldown and causes execute damage to targets under 45% health.',
-    'power:shatter-storm': 'Now spawns volatile ice on hit.',
+      'causes execution scale damage to targets under 45% health and has reduced cooldown',
+    'power:shatter-storm': 'spawns Volatile Ice on hit.',
     'power:volatile-ice-weave':
-      'Now halves the time it takes to explode and reduces the enemys anti-critical strike.'
+      "explodes twice as fast reduces the enemy's anti-critical strike."
   },
   grants: [
     'mastery:frostcaster',
@@ -19,5 +19,5 @@ export default {
   name: 'Archmage',
   tags: ['ranged'],
   type: 'promotion',
-  version: '6.400'
+  version: '6.500'
 };

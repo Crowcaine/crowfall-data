@@ -5,5 +5,5 @@ export default {
   grants: ['power:icecaller'],
   id: 'icecaller',
   name: 'Icecaller',
-  version: '6.400'
+  version: '6.500'
 };

@@ -1,7 +1,7 @@
 export default {
   class: 'frostweaver',
   description:
-    'This talent grants the [power:free-weaving], [power:stable-focus], [power:frigid-focus], [power:volatile-focus], [power:refreshing-focus], [power:cooling-focus] powers.',
+    'This talent grants the [power:free-weaving], [power:stable-focus], [power:frigid-focus], [power:volatile-focus], [power:refreshing-focus], [power:cooling-focus] powers',
   grants: [
     'power:free-weaving',
     'power:stable-focus',
@@ -13,5 +13,5 @@ export default {
   ],
   id: 'free-weaving-all-foci',
   name: 'Free Weaving/All Foci',
-  version: '6.400'
+  version: '6.500'
 };

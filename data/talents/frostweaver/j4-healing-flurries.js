@@ -5,5 +5,5 @@ export default {
   grants: ['power:healing-flurries'],
   id: 'healing-flurries',
   name: 'Healing Flurries',
-  version: '6.400'
+  version: '6.500'
 };

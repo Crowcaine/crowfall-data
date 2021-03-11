@@ -11,5 +11,5 @@ export default {
   radius: 15,
   resource: 'mana',
   target: 'rectangle',
-  version: '6.400'
+  version: '6.500'
 };

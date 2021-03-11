@@ -11,5 +11,5 @@ export default {
   ],
   id: 'stinging-strikes',
   name: 'Stinging Strikes',
-  version: '6.400'
+  version: '6.500'
 };

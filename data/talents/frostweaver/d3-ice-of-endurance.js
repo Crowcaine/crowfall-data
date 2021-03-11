@@ -5,5 +5,5 @@ export default {
   grants: ['power:ice-of-endurance'],
   id: 'ice-of-endurance',
   name: 'Ice of Endurance',
-  version: '6.400'
+  version: '6.500'
 };

@@ -4,5 +4,5 @@ export default {
   grants: ['power:icy-veins'],
   id: 'ice-block',
   name: 'Ice Block',
-  version: '6.400'
+  version: '6.500'
 };

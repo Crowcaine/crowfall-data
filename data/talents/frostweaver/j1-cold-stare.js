@@ -5,5 +5,5 @@ export default {
   grants: ['power:cold-stare'],
   id: 'cold-stare',
   name: 'Cold Stare',
-  version: '6.400'
+  version: '6.500'
 };

@@ -10,5 +10,5 @@ export default {
   ],
   id: 'solidify',
   name: 'Solidify',
-  version: '6.400'
+  version: '6.500'
 };

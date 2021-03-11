@@ -8,5 +8,5 @@ export default {
   ],
   id: 'piercing-cold',
   name: 'Piercing Cold',
-  version: '6.400'
+  version: '6.500'
 };

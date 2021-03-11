@@ -5,5 +5,5 @@ export default {
   id: 'icecaller',
   name: 'Icecaller',
   target: 'self',
-  version: '6.400'
+  version: '6.500'
 };

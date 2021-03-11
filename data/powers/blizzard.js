@@ -4,5 +4,5 @@ export default {
   id: 'blizzard',
   name: 'Blizzard',
   target: 'self',
-  version: '6.400'
+  version: '6.500'
 };

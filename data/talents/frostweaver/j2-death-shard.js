@@ -4,5 +4,5 @@ export default {
   grants: ['power:death-shard'],
   id: 'death-shard',
   name: 'Death Shard',
-  version: '6.400'
+  version: '6.500'
 };

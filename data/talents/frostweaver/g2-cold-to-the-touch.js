@@ -5,5 +5,5 @@ export default {
   grants: ['power:cold-to-the-touch'],
   id: 'cold-to-the-touch',
   name: 'Cold to the Touch',
-  version: '6.400'
+  version: '6.500'
 };
