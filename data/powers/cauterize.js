@@ -4,7 +4,7 @@ export default {
   cost: 96,
   costType: 'resource',
   description:
-    'removes all bleeds, electrocution, burning, corruption and blackmantle from your group members and gives a short immunity to those removed. Increases your [stat:resistances-organic:1500] for 16 seconds.',
+    'removes all bleeds, electrocution, burning, corruption and blackmantle from your group members and gives a short immunity to those removed. Increases your [stat:resistance-organic:1500] for 16 seconds.',
   duration: 16,
   id: 'cauterize',
   maxTargets: 5,

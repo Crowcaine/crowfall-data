@@ -4,7 +4,7 @@ export default {
   cost: 224,
   costType: 'energy',
   description:
-    'strikes the enemy for 229 damage and grants you a 20 lifesteal buff for 12 seconds',
+    'strikes the enemy for 229 damage and grants you a 20 [stat:lifesteal:20] buff for 12 seconds',
   duration: 12,
   id: 'rejuvenating-strike',
   name: 'Rejuvenating Strike',

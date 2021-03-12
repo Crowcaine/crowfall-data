@@ -18,61 +18,61 @@ export default {
   },
   'armor-penetration-crushing': {
     id: 'armor-penetration-crushing',
-    name: 'Armor Penetration - Crushing',
+    name: 'Armor Penetration: Crushing',
     percent: true,
     type: 'bonus'
   },
   'armor-penetration-electricity': {
     id: 'armor-penetration-electricity',
-    name: 'Armor Penetration - Electricity',
+    name: 'Armor Penetration: Electricity',
     percent: true,
     type: 'bonus'
   },
   'armor-penetration-elemental': {
     id: 'armor-penetration-elemental',
-    name: 'Armor Penetration - Elemental',
+    name: 'Armor Penetration: Elemental',
     percent: true,
     type: 'bonus'
   },
   'armor-penetration-fire': {
     id: 'armor-penetration-fire',
-    name: 'Armor Penetration - Fire',
+    name: 'Armor Penetration: Fire',
     percent: true,
     type: 'bonus'
   },
   'armor-penetration-ice': {
     id: 'armor-penetration-ice',
-    name: 'Armor Penetration - Ice',
+    name: 'Armor Penetration: Ice',
     percent: true,
     type: 'bonus'
   },
   'armor-penetration-nature': {
     id: 'armor-penetration-nature',
-    name: 'Armor Penetration - Nature',
+    name: 'Armor Penetration: Nature',
     percent: true,
     type: 'bonus'
   },
   'armor-penetration-physical': {
     id: 'armor-penetration-physical',
-    name: 'Armor Penetration - Physical',
+    name: 'Armor Penetration: Physical',
     percent: true,
     type: 'bonus'
   },
   'armor-penetration-piercing': {
     id: 'armor-penetration-piercing',
-    name: 'Armor Penetration - Piercing',
+    name: 'Armor Penetration: Piercing',
     percent: true,
     type: 'bonus'
   },
   'armor-penetration-poison': {
     id: 'armor-penetration-poison',
-    name: 'Armor Penetration - Poison',
+    name: 'Armor Penetration: Poison',
     percent: true,
     type: 'bonus'
   },
   'armor-penetration-slashing': {
     id: 'armor-penetration-slashing',
-    name: 'Armor Penetration - Slashing',
+    name: 'Armor Penetration: Slashing',
     percent: true,
     type: 'bonus'
   },
@@ -112,19 +112,19 @@ export default {
   },
   'basic-attack-cost-reduction': {
     id: 'basic-attack-cost-reduction',
-    name: 'Basic Attack - Cost Reduction',
+    name: 'Basic Attack: Cost Reduction',
     percent: true,
     type: 'bonus'
   },
   'basic-attack-damage': {
     id: 'basic-attack-damage',
-    name: 'Basic Attack - Damage',
+    name: 'Basic Attack: Damage',
     percent: true,
     type: 'bonus'
   },
   'blocking-big-hit-cost-reduction': {
     id: 'blocking-big-hit-cost-reduction',
-    name: 'Blocking - Big Hit Cost Reduction',
+    name: 'Blocking: Big Hit Cost Reduction',
     type: 'bonus'
   },
   constitution: {
@@ -151,25 +151,25 @@ export default {
   },
   'critical-damage': {
     id: 'critical-damage',
-    name: 'Critical - Damage',
+    name: 'Critical: Damage',
     percent: true,
     type: 'bonus'
   },
   'critical-healing-amount': {
     id: 'critical-healing-amount',
-    name: 'Critical - Healing Amount',
+    name: 'Critical: Healing Amount',
     percent: true,
     type: 'bonus'
   },
   'critical-healing-chance': {
     id: 'critical-healing-chance',
-    name: 'Critical - Healing Chance',
+    name: 'Critical: Healing Chance',
     percent: true,
     type: 'bonus'
   },
   'critical-strike': {
     id: 'critical-strike',
-    name: 'Critical - Strike',
+    name: 'Critical: Strike',
     percent: true,
     type: 'bonus'
   },
@@ -179,147 +179,159 @@ export default {
     percent: true,
     type: 'bonus'
   },
+  'damage-bleeding': {
+    id: 'damage-bleeding',
+    name: 'Damage: Bleeding',
+    percent: true,
+    type: 'bonus'
+  },
+  'damage-cap': {
+    id: 'damage-cap',
+    name: 'Damage Cap',
+    percent: true,
+    type: 'bonus'
+  },
   'damage-crushing': {
     id: 'damage-crushing',
-    name: 'Damage - Crushing',
+    name: 'Damage: Crushing',
     percent: true,
     type: 'bonus'
   },
   'damage-crushing-cap': {
     id: 'damage-crushing-cap',
-    name: 'Damage - Crushing Cap',
+    name: 'Damage: Crushing Cap',
     percent: true,
     type: 'cap'
   },
   'damage-electricity': {
     id: 'damage-electricity',
-    name: 'Damage - Electricity',
+    name: 'Damage: Electricity',
     percent: true,
     type: 'bonus'
   },
   'damage-electricity-cap': {
     id: 'damage-electricity-cap',
-    name: 'Damage - Electricity Cap',
+    name: 'Damage: Electricity Cap',
     percent: true,
     type: 'cap'
   },
   'damage-fire': {
     id: 'damage-fire',
-    name: 'Damage - Fire',
+    name: 'Damage: Fire',
     percent: true,
     type: 'bonus'
   },
   'damage-fire-cap': {
     id: 'damage-fire-cap',
-    name: 'Damage - Fire Cap',
+    name: 'Damage: Fire Cap',
     percent: true,
     type: 'cap'
   },
   'damage-high-health': {
     id: 'damage-high-health',
-    name: 'Damage - Enemy High Health',
+    name: 'Damage: Enemy High Health',
     percent: true,
     type: 'bonus'
   },
   'damage-holy': {
     id: 'damage-holy',
-    name: 'Holy Damage',
+    name: 'Damage: Holy',
     percent: true,
     type: 'bonus'
   },
   'damage-holy-cap': {
     id: 'damage-holy-cap',
-    name: 'Holy Damage Cap',
+    name: 'Damage: Holy Cap',
     percent: true,
     type: 'cap'
   },
   'damage-ice': {
     id: 'damage-ice',
-    name: 'Ice Damage',
+    name: 'Damage: Ice',
     percent: true,
     type: 'bonus'
   },
   'damage-ice-cap': {
     id: 'damage-ice-cap',
-    name: 'Ice Damage Cap',
+    name: 'Damage: Ice Cap',
     percent: true,
     type: 'cap'
   },
   'damage-low-health': {
     id: 'damage-low-health',
-    name: 'Damage - Enemy Low Health',
+    name: 'Damage: Enemy Low Health',
     percent: true,
     type: 'bonus'
   },
   'damage-nature': {
     id: 'damage-nature',
-    name: 'Damage - Nature',
+    name: 'Damage: Nature',
     percent: true,
     type: 'bonus'
   },
   'damage-nature-cap': {
     id: 'damage-nature-cap',
-    name: 'Damage - Nature Cap',
+    name: 'Damage: Nature Cap',
     percent: true,
     type: 'cap'
   },
   'damage-piercing': {
     id: 'damage-piercing',
-    name: 'Damage - Piercing',
+    name: 'Damage: Piercing',
     percent: true,
     type: 'bonus'
   },
   'damage-piercing-cap': {
     id: 'damage-piercing-cap',
-    name: 'Damage - Piercing Cap',
+    name: 'Damage: Piercing Cap',
     percent: true,
     type: 'cap'
   },
   'damage-poison': {
     id: 'damage-poison',
-    name: 'Damage - Poison',
+    name: 'Damage: Poison',
     percent: true,
     type: 'bonus'
   },
   'damage-poison-cap': {
     id: 'damage-poison-cap',
-    name: 'Damage - Poison Cap',
+    name: 'Damage: Poison Cap',
     percent: true,
     type: 'cap'
   },
   'damage-reduction': {
     id: 'damage-reduction',
-    name: 'Damage - Reduction',
+    name: 'Damage: Reduction',
     percent: true,
     type: 'bonus'
   },
   'damage-slashing': {
     id: 'damage-slashing',
-    name: 'Damage - Slashing',
+    name: 'Damage: Slashing',
     percent: true,
     type: 'bonus'
   },
   'damage-slashing-cap': {
     id: 'damage-slashing-cap',
-    name: 'Damage - Slashing Cap',
+    name: 'Damage: Slashing Cap',
     percent: true,
     type: 'cap'
   },
   'damage-song': {
     id: 'damage-song',
-    name: 'Damage - Song',
+    name: 'Damage: Song',
     percent: true,
     type: 'bonus'
   },
   'damage-stealth': {
     id: 'damage-stealth',
-    name: 'Damage - Stealth',
+    name: 'Damage: Stealth',
     percent: true,
     type: 'bonus'
   },
   'damage-weapon': {
     id: 'damage-weapon',
-    name: 'Weapon Damage',
+    name: 'Damage: Weapon',
     type: 'bonus'
   },
   dexterity: {
@@ -331,6 +343,11 @@ export default {
     id: 'dexterity-cap',
     name: 'Dexterity Cap',
     type: 'cap'
+  },
+  'far-sight': {
+    id: 'far-sight',
+    name: 'Far-Sight',
+    type: 'bonus'
   },
   'final-mitigation': {
     id: 'final-mitigation',
@@ -386,13 +403,13 @@ export default {
   },
   'healing-orb': {
     id: 'healing-orb',
-    name: 'Healing - Orb',
+    name: 'Healing: Orb',
     percent: true,
     type: 'bonus'
   },
   'healing-self': {
     id: 'healing-self',
-    name: 'Healing - Self',
+    name: 'Healing: Self',
     percent: true,
     type: 'bonus'
   },
@@ -431,6 +448,11 @@ export default {
     name: 'Intellect Cap',
     type: 'cap'
   },
+  lifesteal: {
+    id: 'lifesteal',
+    name: 'Lifesteal',
+    type: 'bonus'
+  },
   mana: {
     id: 'mana',
     name: 'Mana',
@@ -443,7 +465,7 @@ export default {
   },
   'mana-regen-out-combat': {
     id: 'mana-regen-out-combat',
-    name: 'Mana Regen - Out Combat ',
+    name: 'Mana Regen: Out Combat ',
     type: 'bonus'
   },
   'max-energy': {
@@ -486,25 +508,25 @@ export default {
   },
   'movement-speed-combat': {
     id: 'movement-speed-combat',
-    name: 'Movement Speed - In Combat',
+    name: 'Movement Speed: In Combat',
     percent: true,
     type: 'bonus'
   },
   'movement-speed-damage': {
     id: 'movement-speed-damage',
-    name: 'Movement Speed - Damage',
+    name: 'Movement Speed: Damage',
     percent: true,
     type: 'bonus'
   },
   'movement-speed-mounted': {
     id: 'movement-speed-mounted',
-    name: 'Movement Speed - Mounted',
+    name: 'Movement Speed: Mounted',
     percent: true,
     type: 'bonus'
   },
   'movement-speed-stealth': {
     id: 'movement-speed-stealth',
-    name: 'Movement Speed - Stealth',
+    name: 'Movement Speed: Stealth',
     percent: true,
     type: 'bonus'
   },
@@ -539,25 +561,25 @@ export default {
   },
   'power-damage-behind': {
     id: 'power-damage-behind',
-    name: 'Power Damage - Behind',
+    name: 'Power Damage: Behind',
     percent: true,
     type: 'bonus'
   },
   'power-damage-melee': {
     id: 'power-damage-melee',
-    name: 'Power Damage - Melee',
+    name: 'Power Damage: Melee',
     percent: true,
     type: 'bonus'
   },
   'power-damage-ranged': {
     id: 'power-damage-ranged',
-    name: 'Power Damage - Ranged',
+    name: 'Power Damage: Ranged',
     percent: true,
     type: 'bonus'
   },
   'power-damage-trap': {
     id: 'power-damage-trap',
-    name: 'Power Damage - Trap',
+    name: 'Power Damage: Trap',
     percent: true,
     type: 'bonus'
   },
@@ -581,12 +603,12 @@ export default {
   },
   'rage-regen-in-combat': {
     id: 'rage-regen-in-combat',
-    name: 'Rage - In Combat',
+    name: 'Rage: In Combat',
     type: 'bonus'
   },
   'rage-regen-out-combat': {
     id: 'rage-regen-out-combat',
-    name: 'Rage - Out Combat',
+    name: 'Rage: Out Combat',
     type: 'bonus'
   },
   'ranged-distance': {
@@ -606,57 +628,62 @@ export default {
   },
   'resistance-bleeding': {
     id: 'resistance-bleeding',
-    name: 'Resistance - Bleed',
+    name: 'Resistance: Bleed',
     type: 'bonus'
   },
   'resistance-crushing': {
     id: 'resistance-crushing',
-    name: 'Resistance - Crushing',
+    name: 'Resistance: Crushing',
     type: 'bonus'
   },
   'resistance-electricity': {
     id: 'resistance-electricity',
-    name: 'Resistance - Electricity',
+    name: 'Resistance: Electricity',
     type: 'bonus'
   },
   'resistance-elemental': {
     id: 'resistance-elemental',
-    name: 'Resistance - Elemental',
+    name: 'Resistance: Elemental',
     type: 'bonus'
   },
   'resistance-fire': {
     id: 'resistance-fire',
-    name: 'Resistance - Fire',
+    name: 'Resistance: Fire',
     type: 'bonus'
   },
   'resistance-ice': {
     id: 'resistance-ice',
-    name: 'Resistance - Fire',
+    name: 'Resistance: Fire',
+    type: 'bonus'
+  },
+  'resistance-nature': {
+    id: 'resistance-nature',
+    name: 'Resistance: Nature',
     type: 'bonus'
   },
   'resistance-organic': {
     id: 'resistance-organic',
-    name: 'Resistance - Organic',
+    name: 'Resistance: Organic',
     type: 'bonus'
   },
   'resistance-physical': {
     id: 'resistance-physical',
-    name: 'Resistance - Physical',
+    name: 'Resistance: Physical',
     type: 'bonus'
   },
   'resistance-piercing': {
     id: 'resistance-piercing',
-    name: 'Resistance - Piercing',
+    name: 'Resistance: Piercing',
     type: 'bonus'
   },
   'resistance-slashing': {
     id: 'resistance-slashing',
-    name: 'Resistance - Slashing',
+    name: 'Resistance: Slashing',
     type: 'bonus'
   },
   'song-duration': {
     id: 'song-duration',
-    name: 'Song - Duration',
+    name: 'Song: Duration',
     type: 'bonus'
   },
   spirit: {
@@ -676,12 +703,12 @@ export default {
   },
   'stamina-regen-in-combat': {
     id: 'stamina-regen-in-combat',
-    name: 'Stamina Regen - In Combat',
+    name: 'Stamina Regen: In Combat',
     type: 'base'
   },
   'stamina-regen-out-combat': {
     id: 'stamina-regen-out-combat',
-    name: 'Stamina Regen - Out Combat',
+    name: 'Stamina Regen: Out Combat',
     type: 'base'
   },
   stealth: {

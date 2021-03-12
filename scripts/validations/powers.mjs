@@ -66,6 +66,7 @@ const targetTypes = new Set([
   }
 
   log('info', 'checking powers data');
+  const stats = (await import(`../../data/stats/index.js`)).default;
   for (let file of files) {
     let content;
 
@@ -122,5 +123,18 @@ const targetTypes = new Set([
         `id ${content.id} does not match file name ${file}`
       );
     }
+
+    const description = content.description
+      .split(/\[(stat:.*?:.*?)\]/g)
+      .map((snip) => {
+        const [, stat, value] = /stat:(.*):(.*)/.exec(snip) || [];
+
+        if (stat && !stats[stat]) {
+          log(
+            'error',
+            `stat ${stat} for ${content.id} does not existing stats`
+          );
+        }
+      });
   }
 })();
