@@ -1,7 +1,7 @@
 export default {
   class: 'confessor',
   description:
-    'This talent grants the [power:meteor-purge] passive power.',
+    'This talent grants the [power:conduction] passive power.',
   grants: ['power:conduction'],
   id: 'conduction',
   name: 'Conduction',
