@@ -3,6 +3,7 @@ export default {
   grants: [
     'stat:critical-damage:5',
     'stat:ranged-distance:5',
+    'power:multi-shot',
     'power:sparring'
   ],
   id: 'dead-eye',
