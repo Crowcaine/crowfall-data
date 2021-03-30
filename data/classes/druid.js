@@ -42,7 +42,7 @@ export default {
     l5: 'domain:storm',
     l6: 'domain:nature',
     l7: 'domain:nature',
-    l8: 'domain:storm',
+    l8: 'domain:protection',
     l9: 'domain:light'
   },
   version: '6.500'

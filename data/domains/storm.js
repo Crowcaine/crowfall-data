@@ -4,7 +4,6 @@ export default {
   requirements: [
     'promotion:archdruid',
     'promotion:archmage',
-    'promotion:earthkeeper',
     'promotion:inquisitor',
     'promotion:radical',
     'promotion:stormcaller'

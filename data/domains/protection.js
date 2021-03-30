@@ -4,6 +4,7 @@ export default {
   requirements: [
     'promotion:archmage',
     'promotion:crusader',
+    'promotion:earthkeeper',
     'promotion:fury',
     'promotion:paladin',
     'promotion:sanctifier',
