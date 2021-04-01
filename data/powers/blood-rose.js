@@ -5,5 +5,5 @@ export default {
   id: 'blood-rose',
   name: 'Blood Rose',
   target: 'self',
-  version: '6.400'
+  version: '6.500'
 };
