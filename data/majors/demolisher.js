@@ -1,14 +1,14 @@
 export default {
   description: '',
   grants: [
-    'stat:armor-penetration-crushing:3',
+    'stat:armor-penetration-crushing:2',
     'stat:damage-crushing:2',
     'power:cracked-armor',
     'power:shield-breaker'
   ],
   id: 'demolisher',
   name: 'Demolisher',
-  requirements: ['domain:battle'],
+  requirements: ['domain:battle', 'domain:war'],
   type: 'major',
-  version: '6.400'
+  version: '6.500'
 };

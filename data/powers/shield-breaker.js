@@ -4,11 +4,11 @@ export default {
   cost: 9,
   costType: 'resource',
   description:
-    'crushes an enemy who is actively using block or parry causing a knockdown and dealing 145 damage.',
+    'crushes an enemy who is actively using block or parry causing a knockdown and dealing 145 damage. A black of parry broken in this way cannot be used again for 4 seconds',
   duration: 30,
   id: 'shield-breaker',
   name: 'Shield Breaker',
   range: 15,
   target: 'reticle',
-  version: '6.400'
+  version: '6.500'
 };
