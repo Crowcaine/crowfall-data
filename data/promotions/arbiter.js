@@ -3,26 +3,25 @@ export default {
   description:
     'Sacrificing damage and healing potential this maven of battle excels at controlling enemies',
   enhances: {
-    'power:flash-of-light':
-      'afflicts blindness on the target and up to 4 others within 7m and has a reduced cooldown',
     'power:holy-symbol': 'applies a knockdown to enemies',
     'power:illuminate':
-      'applies a healing bonus buff to the group and basic attacks regenerate mana for 15 seconds'
+      'applies a 5% [stat:personal-healing-modifier] buff to the group and your basic attacks regenerate mana for 15 seconds',
+    'power:tend-wounds':
+      'has the duration of the heal over time increased to 16 seconds and applies a [stat:personal-healing-modifier] buff to you and your target for 10 seconds'
   },
   grants: [
     'proficiency:plate',
     'mastery:mace',
     'mastery:buckler',
     'mastery:medium-shield',
-    'stat:support-power:200',
+    'stat:health:250',
+    'stat:support-power:250',
     'stat:max-mana:300',
-    'stat:hard-control-intensity:15',
-    'stat:attack-control-intensity:15',
-    'stat:movement-control-intensity:15'
+    'stat:control-defense:10'
   ],
   id: 'arbiter',
   name: 'Arbiter',
-  tags: ['melee', 'control'],
+  tags: ['healing'],
   type: 'promotion',
   version: '6.500'
 };

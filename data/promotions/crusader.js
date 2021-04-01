@@ -6,12 +6,11 @@ export default {
     'power:flash-of-light':
       'heals allies adjacent to the enemy target',
     'power:holy-symbol':
-      'increases Critical Heal Chance and Critical Heal Amount for you and allies',
+      'increases [stat:critical-healing-chance] and [stat:critical-healing-amount] for you and allies',
     'power:illuminate':
       'becomes a more powerful healing over time ability'
   },
   grants: [
-    'proficiency:plate',
     'mastery:mace',
     'mastery:buckler',
     'mastery:medium-shield',

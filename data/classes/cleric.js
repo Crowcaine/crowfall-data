@@ -51,7 +51,7 @@ export default {
     l1: 'domain:fire',
     l2: 'domain:light',
     l3: 'domain:storm',
-    l4: 'domain:frost',
+    l4: 'domain:nature',
     l5: 'domain:light',
     l6: 'domain:wind',
     l7: 'domain:justice',

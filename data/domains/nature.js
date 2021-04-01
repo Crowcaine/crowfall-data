@@ -2,6 +2,7 @@ export default {
   id: 'nature',
   name: 'Nature',
   requirements: [
+    'promotion:arbiter',
     'promotion:archdruid',
     'promotion:earthkeeper',
     'promotion:icecaller',
