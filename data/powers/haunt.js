@@ -1,6 +1,6 @@
 export default {
   castType: 'instant',
-  cooldown: 50,
+  cooldown: 36,
   cost: 2,
   costType: 'resource',
   description:
@@ -11,5 +11,5 @@ export default {
   name: 'Haunt',
   radius: 5,
   target: 'cone',
-  version: '6.400'
+  version: '6.500'
 };
