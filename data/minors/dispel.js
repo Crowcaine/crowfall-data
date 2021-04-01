@@ -3,7 +3,7 @@ export default {
   grants: ['stat:attack-power:50', 'power:dispel'],
   id: 'dispel',
   name: 'Dispel',
-  requirements: ['domain:protection'],
+  requirements: ['domain:justice', 'domain:protection'],
   type: 'minor',
-  version: '6.400'
+  version: '6.500'
 };
