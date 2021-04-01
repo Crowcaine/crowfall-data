@@ -9,5 +9,5 @@ export default {
   id: 'blood-pact',
   name: 'Blood Pact',
   target: 'self',
-  version: '6.400'
+  version: '6.500'
 };
