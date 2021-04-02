@@ -8,7 +8,7 @@ export default {
   ],
   id: 'pack-leader',
   name: 'Pack Leader',
-  requirements: ['race:high-elf', 'domain:light', 'domain:nature'],
+  requirements: ['race:half-elf', 'domain:light', 'domain:nature'],
   type: 'major',
-  version: '6.400'
+  version: '6.500'
 };
