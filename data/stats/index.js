@@ -653,7 +653,7 @@ export default {
   },
   'resistance-ice': {
     id: 'resistance-ice',
-    name: 'Resistance: Fire',
+    name: 'Resistance: Ice',
     type: 'bonus'
   },
   'resistance-nature': {
