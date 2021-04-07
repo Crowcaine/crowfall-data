@@ -1,7 +1,7 @@
 export default {
   castType: 'passive',
   description:
-    'causes a bleed to be applied to your target when you apply a stun or knockdown.\n\nBleeding causes 73 bleed damage every two second for 16 seconds',
+    'applies an exhaustion with your stealth attacks and with all of your attacks for 5 seconds when you exit stealth.\n\nExhaustion causes 15 stamina damage every two seconds for 8 seconds.',
   id: 'buckshot',
   name: 'Buckshot',
   target: 'self',
