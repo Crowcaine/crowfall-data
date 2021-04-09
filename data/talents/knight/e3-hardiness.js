@@ -9,6 +9,6 @@ export default {
     'stat:health:250'
   ],
   id: 'hardiness',
-  name: 'hardiness',
+  name: 'Hardiness',
   version: '6.500'
 };
