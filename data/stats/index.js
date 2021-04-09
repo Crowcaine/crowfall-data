@@ -699,7 +699,7 @@ export default {
   stamina: {
     id: 'stamina',
     name: 'Stamina',
-    type: 'base'
+    type: 'bonus'
   },
   'stamina-regen-in-combat': {
     id: 'stamina-regen-in-combat',
