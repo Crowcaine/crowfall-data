@@ -1,6 +1,6 @@
 export default {
   description: '',
-  grants: ['stat:critical-strike:2', 'power:glass-canon'],
+  grants: ['stat:critical-strike:2', 'power:glass-cannon'],
   id: 'glass-cannon',
   name: 'Glass Cannon',
   requirements: [
@@ -10,5 +10,5 @@ export default {
     'domain:storm'
   ],
   type: 'minor',
-  version: '6.400'
+  version: '6.500'
 };
