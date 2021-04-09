@@ -1,6 +1,7 @@
 export default {
   description: '',
   grants: [
+    'stat:health:4550',
     'proficiency:leather',
     'proficiency:axe',
     'proficiency:bow',

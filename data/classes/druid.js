@@ -1,6 +1,10 @@
 export default {
   description: '',
-  grants: ['proficiency:leather', 'proficiency:mystical-sickle'],
+  grants: [
+    'stat:health:4550',
+    'proficiency:leather',
+    'proficiency:mystical-sickle'
+  ],
   id: 'druid',
   name: 'Druid',
   races: ['fae', 'half-elf', 'wood-elf'],

@@ -1,6 +1,10 @@
 export default {
   description: '',
-  grants: ['proficiency:leather', 'proficiency:frostcaster'],
+  grants: [
+    'stat:health:4550',
+    'proficiency:leather',
+    'proficiency:frostcaster'
+  ],
   id: 'frostweaver',
   name: 'Frostweaver',
   races: ['fae', 'high-elf', 'wood-elf'],

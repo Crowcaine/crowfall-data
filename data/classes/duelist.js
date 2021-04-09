@@ -1,6 +1,7 @@
 export default {
   description: '',
   grants: [
+    'stat:health:5300',
     'slot:off-hand-pistol',
     'proficiency:rapier',
     'proficiency:leather',
