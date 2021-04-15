@@ -9,7 +9,19 @@ export default {
   ],
   id: 'siege-engineer',
   name: 'Siege Engineer',
-  requirements: ['all'],
+  requirements: [
+    'class:assassin',
+    'class:champion',
+    'class:cleric',
+    'class:confessor',
+    'class:druid',
+    'class:duelist',
+    'class:frostweaver',
+    'class:knight',
+    'class:myrmidon',
+    'class:ranger',
+    'class:templar'
+  ],
   type: 'major',
   version: '6.400'
 };

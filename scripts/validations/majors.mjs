@@ -1,6 +1,6 @@
-import { domains, races, classes } from './enums.mjs';
 import glob from 'glob-promise';
 import log from '../logger.mjs';
+import { classes, domains, races } from './enums.mjs';
 
 (async () => {
   log('info', 'checking major data');
@@ -28,7 +28,7 @@ import log from '../logger.mjs';
     content.requirements.forEach((grant) => {
       let [type, name] = grant.split(':');
 
-      if (['domain', 'race', 'class', 'all'].indexOf(type) === -1) {
+      if (['domain', 'race', 'class'].indexOf(type) === -1) {
         log('error', `invalid type ${type} in ${file}`);
       }
 
