@@ -175,7 +175,7 @@ export default {
   },
   damage: {
     id: 'damage',
-    name: 'Damage',
+    name: 'Damage Bonus',
     percent: true,
     type: 'bonus'
   },
@@ -385,7 +385,7 @@ export default {
   },
   healing: {
     id: 'healing',
-    name: 'Healing',
+    name: 'Healing Bonus',
     percent: true,
     type: 'bonus'
   },
