@@ -1,15 +1,15 @@
 export default {
   castType: 'instant',
   cooldown: 24,
-  cost: 171,
-  costType: 'energy',
+  cost: 29,
+  costType: 'resource',
   description:
-    'strikes with your shield for 107 damage and lower their [stat:personal-damage-modifier:10] by 10% for 30 seconds.',
+    'charge forward with your shield for 114 damage, knocking your target back and lowering their [stat:personal-damage-modifier:10] by 10% for 30 seconds.',
   duration: 30,
   id: 'shield-slam',
   maxTargets: 5,
   name: 'Shield Slam',
   radius: 3,
   target: 'cone',
-  version: '6.500'
+  version: '6.530'
 };
