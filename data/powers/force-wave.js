@@ -4,11 +4,12 @@ export default {
   cost: 96,
   costType: 'resource',
   description:
-    'pushes enemies away from you inflicting 306 damage and leaves their movement slowed.',
+    'pushes enemies away from you dealing 306 damage, slows them, and applies and elemental break for 15 seconds.',
+  duration: 15,
   id: 'force-wave',
   maxTargets: 5,
   name: 'Force Wave',
-  radius: 5,
+  radius: 8,
   target: 'area',
-  version: '6.400'
+  version: '6.530'
 };

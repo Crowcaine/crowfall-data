@@ -14,5 +14,5 @@ export default {
     'domain:protection'
   ],
   type: 'major',
-  version: '6.400'
+  version: '6.530'
 };
