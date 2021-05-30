@@ -1,15 +1,15 @@
 export default {
   castType: 'instant',
-  cooldown: 45,
-  cost: 84,
+  cooldown: 36,
+  cost: 34,
   costType: 'resource',
   description:
     'blankets the targeted area with Pixie Dust, increasing [stat:personal-healing-modifier:25%] by 25% for 30 seconds',
   duration: 30,
   id: 'pixie-dust',
-  maxTargets: 5,
+  maxTargets: 10,
   name: 'Pixie Dust',
-  radius: 5,
+  radius: 8,
   target: 'area',
-  version: '6.400'
+  version: '6.530'
 };

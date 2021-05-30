@@ -10,5 +10,5 @@ export default {
   name: 'Forest Creature',
   requirements: ['race:wood-elf', 'race:elken', 'domain:nature'],
   type: 'major',
-  version: '6.400'
+  version: '6.530'
 };

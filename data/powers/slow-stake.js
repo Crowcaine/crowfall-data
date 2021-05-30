@@ -11,5 +11,5 @@ export default {
   name: 'Slow Stake',
   radius: 10,
   target: 'self',
-  version: '6.400'
+  version: '6.530'
 };
