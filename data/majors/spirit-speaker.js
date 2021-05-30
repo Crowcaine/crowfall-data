@@ -1,7 +1,7 @@
 export default {
   description: '',
   grants: [
-    'stat:armor-penetration-nature:3',
+    'stat:armor-penetration-nature:2',
     'stat:damage-nature:2',
     'power:gaeas-wail',
     'power:ghost-army'
@@ -10,5 +10,5 @@ export default {
   name: 'Spirit Speaker',
   requirements: ['class:druid'],
   type: 'major',
-  version: '6.400'
+  version: '6.530'
 };
