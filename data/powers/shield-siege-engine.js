@@ -8,5 +8,5 @@ export default {
   name: 'Shield Siege Engine',
   radius: 10,
   target: 'self',
-  version: '6.400'
+  version: '6.530'
 };
