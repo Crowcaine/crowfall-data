@@ -10,5 +10,5 @@ export default {
   name: "Nature's Guardian",
   requirements: ['class:druid'],
   type: 'major',
-  version: '6.500'
+  version: '6.530'
 };
