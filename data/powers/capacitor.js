@@ -6,5 +6,5 @@ export default {
   id: 'capacitor',
   name: 'Capacitor',
   target: 'self',
-  version: '6.500'
+  version: '6.530'
 };

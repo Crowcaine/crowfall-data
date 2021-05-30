@@ -4,5 +4,5 @@ export default {
   grants: ['power:healing-rain'],
   id: 'healing-rain',
   name: 'Healing Rain',
-  version: '6.500'
+  version: '6.530'
 };

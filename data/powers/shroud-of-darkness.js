@@ -12,5 +12,5 @@ export default {
   id: 'shroud-of-darkness',
   name: 'Shroud of Darkness',
   target: 'self',
-  version: '6.500'
+  version: '6.530'
 };

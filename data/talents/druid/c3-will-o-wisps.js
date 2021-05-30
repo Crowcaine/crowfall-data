@@ -4,5 +4,5 @@ export default {
   grants: ['power:will-o-wisps'],
   id: 'will-o-wisps',
   name: "Will O' Wisps",
-  version: '6.500'
+  version: '6.530'
 };

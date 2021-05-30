@@ -49,5 +49,5 @@ export default {
     l8: 'domain:protection',
     l9: 'domain:light'
   },
-  version: '6.500'
+  version: '6.530'
 };

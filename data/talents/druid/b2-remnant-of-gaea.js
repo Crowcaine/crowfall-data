@@ -9,5 +9,5 @@ export default {
   ],
   id: 'remnant-of-gaea',
   name: 'Remnant of Gaea',
-  version: '6.500'
+  version: '6.530'
 };

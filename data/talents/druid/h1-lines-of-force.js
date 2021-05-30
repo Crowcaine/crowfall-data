@@ -8,5 +8,5 @@ export default {
   ],
   id: 'lines-of-force',
   name: 'Lines of Force',
-  version: '6.500'
+  version: '6.530'
 };

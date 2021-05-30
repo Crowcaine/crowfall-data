@@ -12,5 +12,5 @@ export default {
   ],
   id: 'heart-of-the-wild',
   name: 'Heart of the Wild',
-  version: '6.500'
+  version: '6.530'
 };

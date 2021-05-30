@@ -6,5 +6,5 @@ export default {
   name: 'Commune With Nature',
   radius: 30,
   target: 'self',
-  version: '6.500'
+  version: '6.530'
 };

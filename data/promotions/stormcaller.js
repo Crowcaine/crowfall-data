@@ -20,5 +20,5 @@ export default {
   name: 'Stormcaller',
   tags: ['ranged'],
   type: 'promotion',
-  version: '6.500'
+  version: '6.530'
 };

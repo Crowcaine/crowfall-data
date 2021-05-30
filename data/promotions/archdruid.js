@@ -16,7 +16,7 @@ export default {
     'mastery:mystical-staff',
     'power:essence-scram',
     'stat:attack-power:100',
-    'stat:support-power:100',
+    'stat:support-power:200',
     'stat:health:1500',
     'stat:basic-attack-damage:10'
   ],
@@ -24,5 +24,5 @@ export default {
   name: 'Archdruid',
   tags: ['ranged', 'healing'],
   type: 'promotion',
-  version: '6.500'
+  version: '6.530'
 };

@@ -5,5 +5,5 @@ export default {
   id: 'electrogenesis',
   name: 'Electrogenesis',
   target: 'self',
-  version: '6.500'
+  version: '6.530'
 };

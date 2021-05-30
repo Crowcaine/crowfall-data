@@ -4,5 +4,5 @@ export default {
   grants: ['power:natures-grace'],
   id: 'natures-grace',
   name: "Nature's Grace",
-  version: '6.500'
+  version: '6.530'
 };

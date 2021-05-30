@@ -7,7 +7,9 @@ export default {
     'consumes your Shroud of Darkness to launch a swirling maelstrom to fling enemies around and causing 247 nature damage.',
   duration: 15,
   id: 'wicked-winds',
+  maxTargets: 5,
   name: 'Wicked Winds',
+  radius: 4,
   target: 'reticle',
-  version: '6.500'
+  version: '6.530'
 };

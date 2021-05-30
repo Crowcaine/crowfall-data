@@ -4,7 +4,7 @@ export default {
     'With a single-minded focus of healing and resource regeneration, the chosen of Gaea are welcome by all.',
   enhances: {
     'power:bark-skin':
-      'heals you when cast, plus heals if the barrier is broken',
+      'heals you when cast and heals again if the barrier is broken',
     'power:blight':
       'heals any friendlies in an area with a chance to spawn healing orbs for each ally healed',
     'power:grasping-roots': 'spawns healing orbs for every enemy hit'
@@ -22,5 +22,5 @@ export default {
   name: 'Earthkeeper',
   tags: ['healing'],
   type: 'promotion',
-  version: '6.500'
+  version: '6.530'
 };

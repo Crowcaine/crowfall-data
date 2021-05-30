@@ -6,5 +6,5 @@ export default {
   id: 'ironwood-body',
   name: 'Ironwood Body',
   target: 'self',
-  version: '6.500'
+  version: '6.530'
 };

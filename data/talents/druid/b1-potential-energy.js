@@ -9,5 +9,5 @@ export default {
   ],
   id: 'potential-energy',
   name: 'Potential Energy',
-  version: '6.500'
+  version: '6.530'
 };

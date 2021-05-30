@@ -8,7 +8,7 @@ export default {
   duration: 14,
   id: 'leeching-seed',
   name: 'Leeching Seed',
-  range: 8,
+  range: 16,
   target: 'ray',
-  version: '6.500'
+  version: '6.530'
 };

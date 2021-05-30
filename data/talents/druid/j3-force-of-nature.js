@@ -5,5 +5,5 @@ export default {
   grants: ['power:force-of-nature'],
   id: 'force-of-nature',
   name: 'Force of Nature',
-  version: '6.500'
+  version: '6.530'
 };

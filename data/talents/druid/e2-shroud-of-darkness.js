@@ -5,5 +5,5 @@ export default {
   grants: ['power:shroud-of-darkness'],
   id: 'shroud-of-darkness',
   name: 'Shroud of Darkness',
-  version: '6.500'
+  version: '6.530'
 };

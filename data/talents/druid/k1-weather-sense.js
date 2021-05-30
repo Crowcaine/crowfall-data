@@ -8,5 +8,5 @@ export default {
   ],
   id: 'weather-sense',
   name: 'Weather Sense',
-  version: '6.500'
+  version: '6.530'
 };

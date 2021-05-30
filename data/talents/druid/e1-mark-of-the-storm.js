@@ -10,5 +10,5 @@ export default {
   ],
   id: 'mark-of-the-storm',
   name: 'Mark of the Storm',
-  version: '6.500'
+  version: '6.530'
 };

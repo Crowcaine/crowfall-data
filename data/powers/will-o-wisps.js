@@ -1,6 +1,6 @@
 export default {
   castType: 'instant',
-  cooldown: 25,
+  cooldown: 12,
   cost: 70,
   costType: 'essence',
   description:
@@ -10,5 +10,5 @@ export default {
   name: "Will O' Wisps",
   radius: 8,
   target: 'area',
-  version: '6.500'
+  version: '6.530'
 };
