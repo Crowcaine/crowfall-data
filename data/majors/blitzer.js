@@ -10,5 +10,5 @@ export default {
   name: 'Blitzer',
   requirements: ['class:druid', 'domain:storm'],
   type: 'major',
-  version: '6.500'
+  version: '6.530'
 };
