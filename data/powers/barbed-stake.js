@@ -1,6 +1,6 @@
 export default {
   castType: 'instant',
-  cooldown: 47,
+  cooldown: 45,
   cost: 2,
   costType: 'resource',
   description:
@@ -11,5 +11,5 @@ export default {
   name: 'Barbed Stake',
   radius: 10,
   target: 'self',
-  version: '6.400'
+  version: '6.530'
 };
