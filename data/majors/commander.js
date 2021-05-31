@@ -14,5 +14,5 @@ export default {
     'domain:music'
   ],
   type: 'major',
-  version: '6.400'
+  version: '6.530'
 };
