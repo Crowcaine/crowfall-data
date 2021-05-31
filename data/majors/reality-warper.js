@@ -10,5 +10,5 @@ export default {
   name: 'Reality Warper',
   requirements: ['domain:frost', 'domain:death'],
   type: 'major',
-  version: '6.400'
+  version: '6.530'
 };
