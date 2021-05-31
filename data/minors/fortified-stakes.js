@@ -5,5 +5,5 @@ export default {
   name: 'Fortified Stakes',
   requirements: ['domain:nature', 'domain:dark'],
   type: 'minor',
-  version: '6.400'
+  version: '6.530'
 };
