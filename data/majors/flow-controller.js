@@ -10,5 +10,5 @@ export default {
   name: 'Flow Controller',
   requirements: ['domain:storm', 'domain:protection'],
   type: 'major',
-  version: '6.400'
+  version: '6.530'
 };
