@@ -9,5 +9,5 @@ export default {
   name: 'Tendon Slice',
   range: 5,
   target: 'cone',
-  version: '6.500'
+  version: '6.530'
 };

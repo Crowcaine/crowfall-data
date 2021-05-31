@@ -10,5 +10,5 @@ export default {
   name: 'Lightfoot',
   requirements: ['domain:dark'],
   type: 'major',
-  version: '6.400'
+  version: '6.530'
 };
