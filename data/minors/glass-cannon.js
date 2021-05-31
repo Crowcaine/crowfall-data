@@ -10,5 +10,5 @@ export default {
     'domain:storm'
   ],
   type: 'minor',
-  version: '6.500'
+  version: '6.530'
 };
