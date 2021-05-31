@@ -1,9 +1,9 @@
 export default {
   castType: 'passive',
   description:
-    'adds a bleed to all your traps.\n\nBleeding causes X bleed damage every two seconds for X seconds.',
+    'adds a bleed to all your traps.\n\nBleeding causes 84 bleed damage every two seconds for 16 seconds.',
   id: 'serrated-trap',
   name: 'Serrated Trap',
   target: 'self',
-  version: '6.400'
+  version: '6.530'
 };
