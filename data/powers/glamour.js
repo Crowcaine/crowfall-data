@@ -9,5 +9,5 @@ export default {
   id: 'glamour',
   name: 'Glamour',
   target: 'self',
-  version: '6.400'
+  version: '6.530'
 };

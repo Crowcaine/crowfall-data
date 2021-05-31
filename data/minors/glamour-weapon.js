@@ -9,5 +9,5 @@ export default {
     'domain:music'
   ],
   type: 'minor',
-  version: '6.500'
+  version: '6.530'
 };
