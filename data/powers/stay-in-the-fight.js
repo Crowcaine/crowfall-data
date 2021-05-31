@@ -5,5 +5,5 @@ export default {
   id: 'stay-in-the-fight',
   name: 'Stay in the Fight',
   target: 'self',
-  version: '6.400'
+  version: '6.530'
 };
