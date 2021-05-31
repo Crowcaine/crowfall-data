@@ -4,7 +4,7 @@ export default {
   cost: 39,
   costType: 'resource',
   description:
-    'create a fountain of life at the targeted location which chain heals nearby allies when one enters and periodically while near or in the fountain for 51. This lasts for 15 seconds or 40 heal triggers',
+    'create a fountain of life at the targeted location which chain heals nearby allies when one enters and periodically while near or in the fountain for 98. This lasts for 15 seconds or 40 heal triggers',
   duration: 15,
   id: 'fountain-of-life',
   name: 'Fountain of Life',

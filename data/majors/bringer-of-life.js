@@ -10,5 +10,5 @@ export default {
   name: 'Bringer of Life',
   requirements: ['domain:nature', 'domain:music'],
   type: 'major',
-  version: '6.500'
+  version: '6.530'
 };
