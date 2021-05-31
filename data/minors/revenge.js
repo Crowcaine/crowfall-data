@@ -5,5 +5,5 @@ export default {
   name: 'Revenge',
   requirements: ['domain:light', 'domain:frost'],
   type: 'minor',
-  version: '6.400'
+  version: '6.530'
 };
