@@ -5,5 +5,5 @@ export default {
   id: 'spite',
   name: 'Spite',
   target: 'self',
-  version: '6.400'
+  version: '6.530'
 };

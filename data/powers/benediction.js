@@ -1,6 +1,6 @@
 export default {
   castType: 'instant',
-  cooldown: 45,
+  cooldown: 36,
   cost: 72,
   costType: 'resource',
   description:
@@ -11,5 +11,5 @@ export default {
   name: 'Benediction',
   radius: 50,
   target: 'group',
-  version: '6.400'
+  version: '6.530'
 };
