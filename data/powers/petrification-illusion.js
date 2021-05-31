@@ -9,5 +9,5 @@ export default {
   id: 'petrification-illusion',
   name: 'Petrification Illusion',
   target: 'self',
-  version: '6.400'
+  version: '6.530'
 };
