@@ -10,5 +10,5 @@ export default {
   name: 'Field Surgeon',
   requirements: ['domain:light'],
   type: 'major',
-  version: '6.500'
+  version: '6.530'
 };
