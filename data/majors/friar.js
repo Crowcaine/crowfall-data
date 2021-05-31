@@ -15,5 +15,5 @@ export default {
     'domain:justice'
   ],
   type: 'major',
-  version: '6.400'
+  version: '6.530'
 };

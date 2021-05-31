@@ -4,11 +4,11 @@ export default {
   cost: 132,
   costType: 'resource',
   description:
-    'heals a targeted ally for 428 health and also healing a nearby ally.\nThe chain healing bonus jumps statistic adds additional targets by healing is reduced by 30% per target, up to a maximum of a 60% reduction.',
+    'heals a targeted ally for 428 health and then chains to an additional nearby allie that is 30% less effective.\n\nThe chain healing bonus jumps statistic adds additional targets. Additional targets past the 2nd taget are 60% less effective.',
   id: 'chain-heal',
   name: 'Chain Heal',
   radius: 10,
   range: 35,
   target: 'ray',
-  version: '6.400'
+  version: '6.530'
 };
