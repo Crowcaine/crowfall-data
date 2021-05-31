@@ -10,5 +10,5 @@ export default {
   name: 'Twister of Fate',
   requirements: ['race:fae', 'domain:protection', 'domain:battle'],
   type: 'major',
-  version: '6.400'
+  version: '6.530'
 };

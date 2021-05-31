@@ -9,5 +9,5 @@ export default {
   id: 'blade-turning',
   name: 'Blade Turning',
   target: 'self',
-  version: '6.400'
+  version: '6.530'
 };
