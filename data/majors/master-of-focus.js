@@ -6,11 +6,11 @@ export default {
     'stat:damage-fire:2',
     'stat:damage-ice:2',
     'power:chaos-orb',
-    'power:mana-shield'
+    'power:resource-shield'
   ],
   id: 'master-of-focus',
   name: 'Master of Focus',
   requirements: ['domain:fire', 'domain:frost'],
   type: 'major',
-  version: '6.400'
+  version: '6.530'
 };
