@@ -6,5 +6,5 @@ export default {
   id: 'take-root',
   name: 'Take Root',
   target: 'self',
-  version: '6.400'
+  version: '6.530'
 };
