@@ -5,5 +5,5 @@ export default {
   name: 'Supreme Element',
   requirements: ['class:druid', 'domain:wind'],
   type: 'minor',
-  version: '6.400'
+  version: '6.530'
 };
