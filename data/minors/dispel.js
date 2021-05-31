@@ -5,5 +5,5 @@ export default {
   name: 'Dispel',
   requirements: ['domain:justice', 'domain:protection'],
   type: 'minor',
-  version: '6.500'
+  version: '6.530'
 };
