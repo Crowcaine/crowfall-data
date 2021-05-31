@@ -9,7 +9,7 @@ export default {
   id: 'blast-of-leaves',
   maxTargets: 5,
   name: 'Blast of Leaves',
-  radius: 50,
+  range: 7,
   target: 'rectangle',
-  version: '6.400'
+  version: '6.530'
 };
