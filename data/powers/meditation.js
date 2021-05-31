@@ -7,5 +7,5 @@ export default {
   id: 'meditation',
   name: 'Meditation',
   target: 'self',
-  version: '6.400'
+  version: '6.530'
 };
