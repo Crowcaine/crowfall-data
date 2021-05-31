@@ -5,5 +5,5 @@ export default {
   name: 'Faerie Flames',
   requirements: ['domain:nature', 'domain:dark'],
   type: 'minor',
-  version: '6.400'
+  version: '6.530'
 };
