@@ -1,10 +1,10 @@
 export default {
   castType: 'instant',
-  cooldown: 45,
+  cooldown: 20,
   cost: 126,
   costType: 'resource',
   description:
-    'shrinks the targeted area down to size reducing Damage Bonus by 20 for 30 seconds.\nThis debuff stacks up to 3 times.',
+    'reduces [stat:damage:20] by 20 in the targeted area for 30 seconds.\n\nThis debuff stacks up to 3 times.',
   duration: 30,
   id: 'wee-one',
   maxTargets: 5,
@@ -12,5 +12,5 @@ export default {
   radius: 5,
   range: 35,
   target: 'area',
-  version: '6.400'
+  version: '6.530'
 };

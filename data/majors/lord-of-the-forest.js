@@ -10,5 +10,5 @@ export default {
   name: 'Lord of the Forest',
   requirements: ['class:duelist', 'domain:dark', 'domain:nature'],
   type: 'major',
-  version: '6.400'
+  version: '6.530'
 };
