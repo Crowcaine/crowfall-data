@@ -5,5 +5,5 @@ export default {
   name: 'Moon Elf Heritage',
   requirements: ['race:half-elf', 'race:wood-elf'],
   type: 'minor',
-  version: '6.400'
+  version: '6.530'
 };

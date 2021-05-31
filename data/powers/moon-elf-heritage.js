@@ -5,5 +5,5 @@ export default {
   id: 'moon-elf-heritage',
   name: 'Moon Elf Heritage',
   target: 'self',
-  version: '6.400'
+  version: '6.530'
 };
