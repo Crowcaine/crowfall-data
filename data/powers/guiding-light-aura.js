@@ -8,5 +8,5 @@ export default {
   name: 'Guiding Light Aura',
   radius: 50,
   target: 'group',
-  version: '6.400'
+  version: '6.530'
 };

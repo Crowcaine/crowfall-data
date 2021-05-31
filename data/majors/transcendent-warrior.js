@@ -10,5 +10,5 @@ export default {
   name: 'Transcendent Warrior',
   requirements: ['domain:light', 'domain:fire', 'domain:justice'],
   type: 'major',
-  version: '6.400'
+  version: '6.530'
 };
