@@ -8,5 +8,5 @@ export default {
   id: 'suns-of-worvan',
   name: 'Suns of Worvan',
   target: 'self',
-  version: '6.400'
+  version: '6.530'
 };

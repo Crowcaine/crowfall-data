@@ -11,5 +11,5 @@ export default {
   name: 'Battle Chant',
   radius: 3,
   target: 'self',
-  version: '6.400'
+  version: '6.530'
 };
