@@ -5,5 +5,5 @@ export default {
   id: 'faerie-trap',
   name: 'Faerie Trap',
   target: 'self',
-  version: '6.400'
+  version: '6.530'
 };
