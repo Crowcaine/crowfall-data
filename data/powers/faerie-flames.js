@@ -8,7 +8,7 @@ export default {
   duration: 30,
   id: 'faerie-flames',
   name: 'Faerie Flames',
-  range: 43,
+  range: 35,
   target: 'reticle',
   version: '6.530'
 };

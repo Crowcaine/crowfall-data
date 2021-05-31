@@ -9,7 +9,7 @@ export default {
   id: 'aurora-emitter',
   maxTargets: 5,
   name: 'Aurora Emitter',
-  range: 43,
+  range: 35,
   target: 'sphere',
   version: '6.530'
 };

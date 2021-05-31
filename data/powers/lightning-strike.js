@@ -8,7 +8,7 @@ export default {
   id: 'lightning-strike',
   maxTargets: 5,
   name: 'Lightning Strike',
-  range: 43,
+  range: 35,
   target: 'ray',
   version: '6.530'
 };
