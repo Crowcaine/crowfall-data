@@ -8,8 +8,8 @@ export default {
     'class:templar',
     'domain:light',
     'domain:nature',
-    'domain:nature'
+    'domain:music'
   ],
   type: 'minor',
-  version: '6.400'
+  version: '6.530'
 };
