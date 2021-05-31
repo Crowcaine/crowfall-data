@@ -3,7 +3,7 @@ export default {
   combo: {
     '2a': 'poisoned-blade-ii'
   },
-  cooldown: 14,
+  cooldown: 9,
   cost: 2,
   costType: 'resource',
   description: 'attacks for 367 damage.',
@@ -12,5 +12,5 @@ export default {
   name: 'Poisoned Blade',
   range: 5,
   target: 'cone',
-  version: '6.400'
+  version: '6.530'
 };

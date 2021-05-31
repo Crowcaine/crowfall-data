@@ -5,5 +5,5 @@ export default {
   id: 'poisoned-weapons',
   name: 'Poisoned Weapons',
   target: 'self',
-  version: '6.400'
+  version: '6.530'
 };
