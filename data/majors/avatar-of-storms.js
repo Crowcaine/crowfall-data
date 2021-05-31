@@ -10,5 +10,5 @@ export default {
   name: 'Avatar of Storms',
   requirements: ['domain:storm'],
   type: 'major',
-  version: '6.400'
+  version: '6.530'
 };

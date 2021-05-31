@@ -8,5 +8,5 @@ export default {
   id: 'storm-avatar',
   name: 'Storm Avatar',
   target: 'self',
-  version: '6.400'
+  version: '6.530'
 };
