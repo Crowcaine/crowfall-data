@@ -6,5 +6,5 @@ export default {
   id: 'song-twisting',
   name: 'Song Twisting',
   target: 'self',
-  version: '6.400'
+  version: '6.53git 0'
 };
