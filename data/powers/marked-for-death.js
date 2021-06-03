@@ -1,6 +1,6 @@
 export default {
   castType: 'instant',
-  cooldown: 50,
+  cooldown: 45,
   cost: 2,
   costType: 'resource',
   description:
@@ -10,5 +10,5 @@ export default {
   name: 'Marked for Death',
   range: 30,
   target: 'reticle',
-  version: '6.400'
+  version: '6.530'
 };

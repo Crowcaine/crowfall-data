@@ -6,5 +6,5 @@ export default {
   id: 'closing-speed',
   name: 'Closing Speed',
   target: 'self',
-  version: '6.400'
+  version: '6.530'
 };

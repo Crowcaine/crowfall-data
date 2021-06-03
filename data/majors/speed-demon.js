@@ -10,5 +10,5 @@ export default {
   name: 'Speed Demon',
   requirements: ['class:myrmidon', 'race:centaur', 'domain:wind'],
   type: 'major',
-  version: '6.400'
+  version: '6.530'
 };
