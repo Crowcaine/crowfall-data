@@ -10,5 +10,5 @@ export default {
   name: 'Entertainer',
   requirements: ['domain:music'],
   type: 'major',
-  version: '6.400'
+  version: '6.530'
 };

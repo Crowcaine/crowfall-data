@@ -4,5 +4,5 @@ export default {
   id: 'reprise',
   name: 'Reprise',
   target: 'self',
-  version: '6.400'
+  version: '6.530'
 };
