@@ -3,7 +3,7 @@ export default {
   cooldown: 20,
   description: 'repairs a targeted siege engine.',
   id: 'repair-siege-engine',
-  name: 'repair Siege Engine',
+  name: 'Repair Siege Engine',
   range: 50,
   target: 'reticle',
   version: '6.530'
