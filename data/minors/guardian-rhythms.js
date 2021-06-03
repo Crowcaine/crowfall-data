@@ -5,5 +5,5 @@ export default {
   name: 'Guardian Rhythms',
   requirements: ['race:human', 'domain:music'],
   type: 'minor',
-  version: '6.400'
+  version: '6.530'
 };
