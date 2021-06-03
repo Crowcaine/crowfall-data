@@ -5,5 +5,5 @@ export default {
   name: 'Lament of Sadness',
   requirements: ['race:fae', 'domain:music'],
   type: 'minor',
-  version: '6.400'
+  version: '6.530'
 };
