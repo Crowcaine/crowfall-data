@@ -1,6 +1,6 @@
 export default {
   castType: 'instant',
-  cooldown: 50,
+  cooldown: 45,
   cost: 2,
   costType: 'resource',
   description:
@@ -11,5 +11,5 @@ export default {
   name: 'Between the Seams',
   radius: 50,
   target: 'group',
-  version: '6.400'
+  version: '6.530'
 };

@@ -10,5 +10,5 @@ export default {
   name: 'Gapfinder',
   requirements: ['domain:shadow', 'domain:music'],
   type: 'major',
-  version: '6.400'
+  version: '6.530'
 };
