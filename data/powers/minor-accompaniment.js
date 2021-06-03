@@ -4,5 +4,5 @@ export default {
   id: 'minor-accompaniment',
   name: 'Minor Accompaniment',
   target: 'self',
-  version: '6.400'
+  version: '6.530'
 };
