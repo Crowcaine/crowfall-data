@@ -1,6 +1,6 @@
 export default {
   castType: 'instant',
-  cooldown: 28,
+  cooldown: 23,
   cost: 2,
   costType: 'resource',
   description:
@@ -8,5 +8,5 @@ export default {
   id: 'purgative',
   name: 'Purgative',
   target: 'self',
-  version: '6.400'
+  version: '6.530'
 };
