@@ -8,7 +8,7 @@ export default {
   id: 'prosecute',
   name: 'Prosecute',
   radius: 5,
-  range: 25,
+  range: 45,
   target: 'reticle',
-  version: '6.400'
+  version: '6.530'
 };
