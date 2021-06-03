@@ -7,5 +7,5 @@ export default {
   name: 'Dagger Spin III',
   radius: 6,
   target: 'sphere',
-  version: '6.400'
+  version: '6.530'
 };
