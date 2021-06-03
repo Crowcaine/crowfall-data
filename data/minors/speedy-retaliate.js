@@ -5,5 +5,5 @@ export default {
   name: 'Speedy Retaliate',
   requirements: ['class:champion', 'domain:wind'],
   type: 'minor',
-  version: '6.400'
+  version: '6.530'
 };
