@@ -9,5 +9,5 @@ export default {
   id: 'will-of-the-stoneborn',
   name: 'Will of the Stoneborn',
   target: 'self',
-  version: '6.400'
+  version: '6.530'
 };
