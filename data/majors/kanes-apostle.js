@@ -10,5 +10,5 @@ export default {
   name: 'Kanes Apostle',
   requirements: ['domain:justice'],
   type: 'major',
-  version: '6.400'
+  version: '6.530'
 };
