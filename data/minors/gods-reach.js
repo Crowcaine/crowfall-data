@@ -11,5 +11,5 @@ export default {
   name: "God's Reach",
   requirements: ['class:cleric'],
   type: 'minor',
-  version: '6.400'
+  version: '6.530'
 };
