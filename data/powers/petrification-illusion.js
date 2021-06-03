@@ -4,7 +4,7 @@ export default {
   cost: 96,
   costType: 'resource',
   description:
-    'increases [stat:basic-attack-damage:10] by 10% for 15 seconds and modifies your their basic attack to slow enemies.',
+    'increases [stat:basic-attack-damage:10] by 10% for 15 seconds and modifies your third basic attack to slow enemies.',
   duration: 15,
   id: 'petrification-illusion',
   name: 'Petrification Illusion',
