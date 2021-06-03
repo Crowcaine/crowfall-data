@@ -5,5 +5,5 @@ export default {
   id: 'sun-elf-heritage',
   name: 'Sun Elf Heritage',
   target: 'self',
-  version: '6.400'
+  version: '6.530'
 };

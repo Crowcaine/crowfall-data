@@ -5,5 +5,5 @@ export default {
   name: 'Sun Elf Heritage',
   requirements: ['race:half-elf', 'race:high-elf'],
   type: 'minor',
-  version: '6.400'
+  version: '6.530'
 };
