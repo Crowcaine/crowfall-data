@@ -10,5 +10,5 @@ export default {
   name: 'Redeemer',
   requirements: ['class:confessor'],
   type: 'major',
-  version: '6.400'
+  version: '6.530'
 };

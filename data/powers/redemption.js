@@ -10,5 +10,5 @@ export default {
   name: 'Redemption',
   range: 30,
   target: 'reticle',
-  version: '6.400'
+  version: '6.530'
 };
