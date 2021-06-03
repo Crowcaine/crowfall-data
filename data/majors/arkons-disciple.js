@@ -10,5 +10,5 @@ export default {
   name: "Arkon's Disciple",
   requirements: ['class:confessor', 'domain:fire'],
   type: 'major',
-  version: '6.400'
+  version: '6.530'
 };
