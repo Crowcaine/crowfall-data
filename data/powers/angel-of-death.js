@@ -4,5 +4,5 @@ export default {
   id: 'angel-of-death',
   name: 'Angel of Death',
   target: 'self',
-  version: '6.400'
+  version: '6.530'
 };
