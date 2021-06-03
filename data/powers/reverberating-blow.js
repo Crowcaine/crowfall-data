@@ -10,5 +10,5 @@ export default {
   name: 'Reverberating Blow',
   range: 5,
   target: 'cone',
-  version: '6.400'
+  version: '6.530'
 };
