@@ -9,7 +9,7 @@ export default {
   description: 'smites an enemy for 305 fire damage.',
   id: 'grabthars-hammer',
   name: 'Grabthars Hammer',
-  range: 28,
+  range: 40,
   target: 'reticle',
-  version: '6.400'
+  version: '6.530'
 };

@@ -10,5 +10,5 @@ export default {
   name: "Lazarus' Disciple",
   requirements: ['class:cleric', 'domain:fire'],
   type: 'major',
-  version: '6.400'
+  version: '6.530'
 };
