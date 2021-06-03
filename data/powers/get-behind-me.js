@@ -8,5 +8,5 @@ export default {
   name: 'Get Behind Me',
   radius: 50,
   target: 'group',
-  version: '6.500'
+  version: '6.530'
 };

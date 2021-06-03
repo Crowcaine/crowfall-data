@@ -5,5 +5,5 @@ export default {
   id: 'molon-labe',
   name: 'Molon Labe',
   target: 'self',
-  version: '6.400'
+  version: '6.530'
 };
