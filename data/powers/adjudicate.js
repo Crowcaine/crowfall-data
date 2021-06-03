@@ -11,5 +11,5 @@ export default {
   name: 'Adjudicate',
   range: 5,
   target: 'cone',
-  version: '6.400'
+  version: '6.530'
 };

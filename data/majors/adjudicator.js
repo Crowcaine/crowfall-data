@@ -11,5 +11,5 @@ export default {
   name: 'Adjudicator',
   requirements: ['class:cleric', 'class:templar'],
   type: 'major',
-  version: '6.400'
+  version: '6.530'
 };
