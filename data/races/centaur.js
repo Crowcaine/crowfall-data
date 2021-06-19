@@ -14,5 +14,5 @@ export default {
   ],
   id: 'centaur',
   name: 'Centaur',
-  version: '6.400'
+  version: '6.540'
 };

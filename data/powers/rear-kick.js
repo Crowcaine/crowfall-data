@@ -8,5 +8,5 @@ export default {
   name: 'Rear Kick',
   range: 5,
   target: 'behind caster',
-  version: '6.400'
+  version: '6.540'
 };
