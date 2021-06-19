@@ -4,5 +4,5 @@ export default {
   id: 'undead-fortitude',
   name: 'Undead Fortitude',
   target: 'self',
-  version: '6.400'
+  version: '6.540'
 };
