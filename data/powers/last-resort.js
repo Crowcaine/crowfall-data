@@ -5,5 +5,5 @@ export default {
   id: 'last-resort',
   name: 'Last Resort',
   target: 'self',
-  version: '6.530'
+  version: '6.540'
 };
