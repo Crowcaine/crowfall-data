@@ -10,5 +10,5 @@ export default {
     'promotion:vanguard-scout',
     'promotion:vindicator'
   ],
-  version: '6.400'
+  version: '6.540'
 };

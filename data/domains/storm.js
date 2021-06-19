@@ -8,5 +8,5 @@ export default {
     'promotion:radical',
     'promotion:stormcaller'
   ],
-  version: '6.400'
+  version: '6.540'
 };

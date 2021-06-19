@@ -9,5 +9,5 @@ export default {
     'promotion:vandal',
     'promotion:vanguard-scout'
   ],
-  version: '6.400'
+  version: '6.540'
 };

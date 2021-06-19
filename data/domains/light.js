@@ -10,5 +10,5 @@ export default {
     'promotion:paladin',
     'promotion:radical'
   ],
-  version: '6.400'
+  version: '6.540'
 };

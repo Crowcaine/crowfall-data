@@ -11,5 +11,5 @@ export default {
     'promotion:swordsman',
     'promotion:titan'
   ],
-  version: '6.400'
+  version: '6.540'
 };

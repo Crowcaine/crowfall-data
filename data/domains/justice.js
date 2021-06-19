@@ -10,5 +10,5 @@ export default {
     'promotion:secutor',
     'promotion:sentinel'
   ],
-  version: '6.400'
+  version: '6.540'
 };
