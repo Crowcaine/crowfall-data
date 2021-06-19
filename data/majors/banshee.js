@@ -11,5 +11,5 @@ export default {
   name: 'Banshee',
   requirements: ['domain:death', 'domain:plague'],
   type: 'major',
-  version: '6.400'
+  version: '6.540'
 };
