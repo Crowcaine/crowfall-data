@@ -7,5 +7,5 @@ export default {
   id: 'call-darkness',
   name: 'Call Darkness',
   target: 'self',
-  version: '6.400'
+  version: '6.530'
 };
