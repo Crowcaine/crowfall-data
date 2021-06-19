@@ -10,5 +10,5 @@ export default {
   name: 'Butcher',
   requirements: ['domain:battle', 'domain:war'],
   type: 'major',
-  version: '6.400'
+  version: '6.540'
 };
