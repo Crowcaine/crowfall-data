@@ -2,7 +2,7 @@ export default {
   description: '',
   grants: [
     'stat:armor-penetration-piercing:3',
-    'stat:armor-penetration-poison:3',
+    'stat:armor-penetration-poison:2',
     'power:diffusion',
     'power:envenom'
   ],
@@ -10,5 +10,5 @@ export default {
   name: 'Deadly Infector',
   requirements: ['domain:plague'],
   type: 'major',
-  version: '6.400'
+  version: '6.540'
 };
