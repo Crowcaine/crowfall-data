@@ -5,6 +5,7 @@ export default {
     'stat:intellect:40',
     'stat:spirit:17',
     'stat:strength:10',
+    'power:call-flames',
     'power:sun-kissed-skin',
     'power:walk-without-rhythm',
     'power:subcuticular-suturing',
@@ -12,5 +13,5 @@ export default {
   ],
   id: 'nethari',
   name: 'Nethari',
-  version: '6.400'
+  version: '6.540'
 };

@@ -5,5 +5,5 @@ export default {
   id: 'walk-without-rhythm',
   name: 'Walk Without Rhythm',
   target: 'self',
-  version: '6.400'
+  version: '6.540'
 };

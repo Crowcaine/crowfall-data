@@ -5,5 +5,5 @@ export default {
   id: 'subcuticular-suturing',
   name: 'Subcuticular Suturing',
   target: 'self',
-  version: '6.400'
+  version: '6.540'
 };

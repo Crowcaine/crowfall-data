@@ -4,5 +4,5 @@ export default {
   id: 'sun-kissed-skin',
   name: 'Sun Kissed Skin',
   target: 'self',
-  version: '6.400'
+  version: '6.540'
 };

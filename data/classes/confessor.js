@@ -3,8 +3,7 @@ export default {
   grants: [
     'stat:health:4550',
     'proficiency:leather',
-    'proficiency:book',
-    'power:call-flames'
+    'proficiency:book'
   ],
   id: 'confessor',
   name: 'Confessor',

@@ -5,5 +5,5 @@ export default {
   id: 'desert-winds',
   name: 'Desert Winds',
   target: 'self',
-  version: '6.400'
+  version: '6.540'
 };
