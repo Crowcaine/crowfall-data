@@ -5,5 +5,5 @@ export default {
   name: 'Blood Pact',
   requirements: ['race:nethari', 'domain:war', 'domain:death'],
   type: 'minor',
-  version: '6.500'
+  version: '6.540'
 };

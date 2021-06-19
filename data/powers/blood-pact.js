@@ -1,6 +1,6 @@
 export default {
   castType: 'instant',
-  cooldown: 47,
+  cooldown: 45,
   cost: 2,
   costType: 'resource',
   description:
@@ -9,5 +9,5 @@ export default {
   id: 'blood-pact',
   name: 'Blood Pact',
   target: 'self',
-  version: '6.500'
+  version: '6.540'
 };
