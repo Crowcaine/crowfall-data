@@ -20,5 +20,5 @@ export default {
     'class:templar'
   ],
   type: 'minor',
-  version: '6.530'
+  version: '6.540'
 };
