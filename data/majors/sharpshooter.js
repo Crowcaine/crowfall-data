@@ -24,5 +24,5 @@ export default {
     'class:ranger'
   ],
   type: 'major',
-  version: '6.400'
+  version: '6.540'
 };
