@@ -4,5 +4,5 @@ export default {
   id: 'hauteur',
   name: 'Hauteur',
   target: 'self',
-  version: '6.400'
+  version: '6.540'
 };

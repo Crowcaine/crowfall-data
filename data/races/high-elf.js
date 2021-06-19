@@ -13,5 +13,5 @@ export default {
   ],
   id: 'high-elf',
   name: 'High-Elf',
-  version: '6.400'
+  version: '6.540'
 };

@@ -1,8 +1,8 @@
 export default {
   castType: 'passive',
-  description: 'increases your [stat:resistance-elemental:5] by 5.',
+  description: 'increases your [stat:resistance-elemental:5] by 500',
   id: 'vanity',
   name: 'Vanity',
   target: 'self',
-  version: '6.400'
+  version: '6.540'
 };

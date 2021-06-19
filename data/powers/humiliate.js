@@ -9,5 +9,5 @@ export default {
   name: 'Humiliate',
   range: 30,
   target: 'ray',
-  version: '6.400'
+  version: '6.540'
 };
