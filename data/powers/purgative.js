@@ -8,5 +8,5 @@ export default {
   id: 'purgative',
   name: 'Purgative',
   target: 'self',
-  version: '6.530'
+  version: '6.540'
 };
