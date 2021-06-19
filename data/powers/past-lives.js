@@ -4,5 +4,5 @@ export default {
   id: 'past-lives',
   name: 'Past Lives',
   target: 'self',
-  version: '6.400'
+  version: '6.540'
 };

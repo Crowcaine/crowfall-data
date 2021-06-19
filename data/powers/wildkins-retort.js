@@ -5,5 +5,5 @@ export default {
   id: 'wildkins-retort',
   name: "Wildkins's Retort",
   target: 'self',
-  version: '6.400'
+  version: '6.540'
 };

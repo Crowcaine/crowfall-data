@@ -5,5 +5,5 @@ export default {
   id: 'trailblazer',
   name: 'Trailblazer',
   target: 'self',
-  version: '6.400'
+  version: '6.540'
 };

@@ -4,5 +4,5 @@ export default {
   id: 'lay-of-the-land',
   name: 'Lay of the Land',
   target: 'self',
-  version: '6.400'
+  version: '6.540'
 };
