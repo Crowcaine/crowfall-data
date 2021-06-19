@@ -10,5 +10,5 @@ export default {
   name: 'Grim Reaper',
   requirements: ['class:duelist', 'domain:plague', 'domain:death'],
   type: 'major',
-  version: '6.400'
+  version: '6.540'
 };

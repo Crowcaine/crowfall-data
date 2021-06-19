@@ -9,5 +9,5 @@ export default {
   id: 'ghost-army',
   name: 'Ghost Army',
   target: 'rectangle',
-  version: '6.530'
+  version: '6.540'
 };
