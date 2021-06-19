@@ -6,5 +6,5 @@ export default {
   id: 'shadows-linger',
   name: 'Shadows Linger',
   target: 'self',
-  version: '6.400'
+  version: '6.540'
 };

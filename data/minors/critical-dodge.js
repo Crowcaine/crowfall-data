@@ -10,5 +10,5 @@ export default {
     'domain:war'
   ],
   type: 'minor',
-  version: '6.530'
+  version: '6.540'
 };

@@ -5,5 +5,5 @@ export default {
   name: 'Shadows Linger',
   requirements: ['domain:shadow'],
   type: 'minor',
-  version: '6.400'
+  version: '6.540'
 };
