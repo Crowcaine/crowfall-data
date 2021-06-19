@@ -10,5 +10,5 @@ export default {
   name: 'Master of Daggers',
   requirements: ['class:assassin'],
   type: 'major',
-  version: '6.400'
+  version: '6.540'
 };
