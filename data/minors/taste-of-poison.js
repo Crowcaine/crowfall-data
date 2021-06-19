@@ -5,5 +5,5 @@ export default {
   name: 'Taste of Poison',
   requirements: ['domain:plague'],
   type: 'minor',
-  version: '6.400'
+  version: '6.540'
 };

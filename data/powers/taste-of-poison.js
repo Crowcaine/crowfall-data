@@ -6,5 +6,5 @@ export default {
   id: 'taste-of-poison',
   name: 'Taste of Poison',
   target: 'self',
-  version: '6.400'
+  version: '6.540'
 };
