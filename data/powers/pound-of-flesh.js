@@ -5,5 +5,5 @@ export default {
   id: 'pound-of-flesh',
   name: 'Pound of Flesh',
   target: 'self',
-  version: '6.400'
+  version: '6.540'
 };

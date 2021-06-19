@@ -6,5 +6,5 @@ export default {
   id: 'burning-hatred',
   name: 'Burning Hatred',
   target: 'self',
-  version: '6.530'
+  version: '6.540'
 };
