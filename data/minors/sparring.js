@@ -13,5 +13,5 @@ export default {
     'domain:death'
   ],
   type: 'minor',
-  version: '6.400'
+  version: '6.530'
 };
