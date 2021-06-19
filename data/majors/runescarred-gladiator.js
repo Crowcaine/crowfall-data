@@ -10,5 +10,5 @@ export default {
   name: 'Runescarred Gladiator',
   requirements: ['class:champion', 'race:minotaur'],
   type: 'major',
-  version: '6.400'
+  version: '6.540'
 };
