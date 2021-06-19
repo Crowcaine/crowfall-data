@@ -13,5 +13,5 @@ export default {
   ],
   id: 'guinecean',
   name: 'Guinecean',
-  version: '6.400'
+  version: '6.540'
 };
