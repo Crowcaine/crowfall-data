@@ -10,5 +10,5 @@ export default {
   name: 'Waylayer',
   requirements: ['class:assassin', 'domain:shadow'],
   type: 'major',
-  version: '6.400'
+  version: '6.540'
 };
