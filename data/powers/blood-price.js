@@ -8,5 +8,5 @@ export default {
   name: 'Blood Price',
   radius: 1,
   target: 'self',
-  version: '6.400'
+  version: '6.540'
 };
