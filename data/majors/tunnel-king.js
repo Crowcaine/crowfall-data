@@ -10,5 +10,5 @@ export default {
   name: 'Tunnel King',
   requirements: ['class:duelist'],
   type: 'major',
-  version: '6.400'
+  version: '6.540'
 };
