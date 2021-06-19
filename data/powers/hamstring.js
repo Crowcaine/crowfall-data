@@ -5,5 +5,5 @@ export default {
   id: 'hamstring',
   name: 'Hamstring',
   target: 'self',
-  version: '6.400'
+  version: '6.540'
 };
