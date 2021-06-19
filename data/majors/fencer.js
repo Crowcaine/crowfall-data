@@ -10,5 +10,5 @@ export default {
   name: 'Fencer',
   requirements: ['class:assassin', 'class:ranger'],
   type: 'major',
-  version: '6.400'
+  version: '6.540'
 };
