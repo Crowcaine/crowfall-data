@@ -5,5 +5,5 @@ export default {
   name: 'Explosive Trap',
   requirements: ['class:ranger'],
   type: 'minor',
-  version: '6.400'
+  version: '6.540'
 };

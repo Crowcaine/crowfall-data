@@ -6,5 +6,5 @@ export default {
   id: 'furious',
   name: 'Furious',
   target: 'self',
-  version: '6.400'
+  version: '6.540'
 };

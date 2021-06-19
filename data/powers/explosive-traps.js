@@ -1,9 +1,9 @@
 export default {
   castType: 'passive',
   description:
-    'adds a burning damage over time to your Concussive Trap.',
+    'adds burning damage to your Concussive Trap that lasts 16 seconds.',
   id: 'explosive-traps',
   name: 'Explosive Traps',
   target: 'self',
-  version: '6.400'
+  version: '6.540'
 };

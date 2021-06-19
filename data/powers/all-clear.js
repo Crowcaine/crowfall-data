@@ -5,5 +5,5 @@ export default {
   id: 'all-clear',
   name: 'All Clear',
   target: 'self',
-  version: '6.400'
+  version: '6.540'
 };

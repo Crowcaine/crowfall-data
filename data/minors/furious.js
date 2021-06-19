@@ -5,5 +5,5 @@ export default {
   name: 'Furious',
   requirements: ['class:champion'],
   type: 'minor',
-  version: '6.400'
+  version: '6.540'
 };
