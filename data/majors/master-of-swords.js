@@ -10,5 +10,5 @@ export default {
   name: 'Master of Swords',
   requirements: ['class:assassin', 'class:knight', 'class:ranger'],
   type: 'major',
-  version: '6.400'
+  version: '6.540'
 };
