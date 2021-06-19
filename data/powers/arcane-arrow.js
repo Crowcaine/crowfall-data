@@ -1,12 +1,14 @@
 export default {
   castType: 'instant',
-  cooldown: 29,
-  cost: 2,
+  cooldown: 24,
+  cost: 1,
   costType: 'resource',
   description:
-    "launches an arcane arrow where you aim, dealing 137 damage to up to 5 enemies in it's path and applies an elemental break to enemies it hits.",
+    'shoots an arcane arrow, dealing 108 damage to up to 5 enemies in its path and applies an elemental armor break to enemies in its path.',
   id: 'arcane-arrow',
+  maxTargets: 5,
   name: 'Arcane Arrow',
+  range: 40,
   target: 'ray',
-  version: '6.400'
+  version: '6.540'
 };
