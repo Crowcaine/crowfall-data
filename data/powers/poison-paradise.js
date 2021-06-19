@@ -5,5 +5,5 @@ export default {
   id: 'poison-paradise',
   name: 'Poison Paradise',
   target: 'self',
-  version: '6.400'
+  version: '6.540'
 };
