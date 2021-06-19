@@ -6,5 +6,5 @@ export default {
   id: 'tasty',
   name: 'Tasty',
   target: 'self',
-  version: '6.400'
+  version: '6.540'
 };

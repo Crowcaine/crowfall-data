@@ -10,5 +10,5 @@ export default {
   name: 'Blood Feeder',
   requirements: ['domain:death'],
   type: 'major',
-  version: '6.400'
+  version: '6.540'
 };
