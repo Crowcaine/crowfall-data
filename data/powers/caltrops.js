@@ -1,6 +1,6 @@
 export default {
   castType: 'ground aimed',
-  cooldown: 35,
+  cooldown: 30,
   description:
     'harasses enemies for 15 seconds covering the targeted area with dangerous caltrops, reducing Piercing Mitigation by 20% and slowing.\nThis power will return you to stealth if you take no damage while executing.',
   duration: 15,
@@ -10,5 +10,5 @@ export default {
   radius: 7,
   range: 35,
   target: 'area',
-  version: '6.400'
+  version: '6.540'
 };
