@@ -13,5 +13,5 @@ export default {
   ],
   id: 'stoneborn',
   name: 'Stoneborn',
-  version: '6.400'
+  version: '6.540'
 };

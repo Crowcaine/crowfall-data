@@ -5,5 +5,5 @@ export default {
   id: 'high-forge-apprentice',
   name: 'High Forge Apprentice',
   target: 'self',
-  version: '6.400'
+  version: '6.540'
 };

@@ -4,5 +4,5 @@ export default {
   id: 'blood-of-the-mountain',
   name: 'Blood of the Mountain',
   target: 'self',
-  version: '6.400'
+  version: '6.540'
 };

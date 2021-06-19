@@ -5,5 +5,5 @@ export default {
   id: 'coagulation',
   name: 'Coagulation',
   target: 'self',
-  version: '6.400'
+  version: '6.540'
 };

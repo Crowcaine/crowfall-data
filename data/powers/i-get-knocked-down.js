@@ -5,5 +5,5 @@ export default {
   id: 'i-get-knocked-down',
   name: 'I Get Knocked Down',
   target: 'self',
-  version: '6.400'
+  version: '6.540'
 };
