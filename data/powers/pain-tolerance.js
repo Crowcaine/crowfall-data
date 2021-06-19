@@ -4,5 +4,5 @@ export default {
   id: 'pain-tolerance',
   name: 'Pain Tolerance',
   target: 'self',
-  version: '6.400'
+  version: '6.540'
 };

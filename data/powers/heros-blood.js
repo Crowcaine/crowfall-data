@@ -5,5 +5,5 @@ export default {
   id: 'heros-blood',
   name: "Hero's Blood",
   target: 'self',
-  version: '6.400'
+  version: '6.540'
 };

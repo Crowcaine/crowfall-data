@@ -13,5 +13,5 @@ export default {
   ],
   id: 'human',
   name: 'Human',
-  version: '6.400'
+  version: '6.540'
 };

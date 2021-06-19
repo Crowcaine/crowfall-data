@@ -5,5 +5,5 @@ export default {
   id: 'gemcutter',
   name: 'Gemcutter',
   target: 'self',
-  version: '6.400'
+  version: '6.540'
 };
