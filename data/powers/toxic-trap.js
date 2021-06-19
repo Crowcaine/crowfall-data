@@ -4,5 +4,5 @@ export default {
   id: 'toxic-trap',
   name: 'Toxic Trap',
   target: 'self',
-  version: '6.400'
+  version: '6.540'
 };
