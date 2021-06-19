@@ -1,6 +1,6 @@
 export default {
   castType: 'instant',
-  cooldown: 35,
+  cooldown: 30,
   cost: 2,
   costType: 'resource',
   description:
@@ -11,5 +11,5 @@ export default {
   name: "Needlin' Haystack",
   range: 5,
   target: 'self',
-  version: '6.400'
+  version: '6.540'
 };

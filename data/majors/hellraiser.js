@@ -10,5 +10,5 @@ export default {
   name: 'Hellraiser',
   requirements: ['domain:war', 'domain:battle'],
   type: 'major',
-  version: '6.400'
+  version: '6.540'
 };
