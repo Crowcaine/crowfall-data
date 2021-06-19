@@ -14,5 +14,5 @@ export default {
   ],
   id: 'minotaur',
   name: 'Minotaur',
-  version: '6.400'
+  version: '6.540'
 };

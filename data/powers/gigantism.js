@@ -1,9 +1,9 @@
 export default {
   castType: 'passive',
   description:
-    'large physical size requires you to eat more often, reducing you food regen rate by 10 seconds.',
+    'large physical size requires you to eat more often, decreasing your food buff duration by 20%',
   id: 'gigantism',
   name: 'Gigantism',
   target: 'self',
-  version: '6.400'
+  version: '6.540'
 };

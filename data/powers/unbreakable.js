@@ -5,5 +5,5 @@ export default {
   id: 'unbreakable',
   name: 'Unbreakable',
   target: 'self',
-  version: '6.400'
+  version: '6.540'
 };

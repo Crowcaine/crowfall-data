@@ -4,5 +4,5 @@ export default {
   id: 'waste-not-want-not',
   name: 'Waste Not, Want Not',
   target: 'self',
-  version: '6.400'
+  version: '6.540'
 };
