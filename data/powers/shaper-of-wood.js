@@ -5,5 +5,5 @@ export default {
   id: 'shaper-of-wood',
   name: 'Shaper of Wood',
   target: 'self',
-  version: '6.400'
+  version: '6.540'
 };

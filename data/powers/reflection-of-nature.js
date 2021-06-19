@@ -5,5 +5,5 @@ export default {
   id: 'reflection-of-nature',
   name: 'Reflection of Nature',
   target: 'self',
-  version: '6.400'
+  version: '6.540'
 };

@@ -13,5 +13,5 @@ export default {
   ],
   id: 'wood-elf',
   name: 'Wood-Elf',
-  version: '6.400'
+  version: '6.540'
 };
