@@ -10,5 +10,5 @@ export default {
   name: 'Intimidator',
   requirements: ['class:champion'],
   type: 'major',
-  version: '6.400'
+  version: '6.540'
 };

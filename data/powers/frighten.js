@@ -10,5 +10,5 @@ export default {
   name: 'Frighten',
   radius: 5,
   target: 'cone',
-  version: '6.400'
+  version: '6.540'
 };
