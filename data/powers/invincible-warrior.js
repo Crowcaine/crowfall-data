@@ -8,5 +8,5 @@ export default {
   id: 'invincible-warrior',
   name: 'Invincible Warrior',
   target: 'self',
-  version: '6.400'
+  version: '6.540'
 };
