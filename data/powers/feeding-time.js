@@ -5,5 +5,5 @@ export default {
   id: 'feeding-time',
   name: 'Feeding Time',
   target: 'self',
-  version: '6.400'
+  version: '6.540'
 };

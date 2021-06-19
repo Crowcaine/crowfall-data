@@ -10,5 +10,5 @@ export default {
   name: 'Nightstalker',
   requirements: ['domain:shadow'],
   type: 'major',
-  version: '6.400'
+  version: '6.540'
 };
