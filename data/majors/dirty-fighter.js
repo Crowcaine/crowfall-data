@@ -10,5 +10,5 @@ export default {
   name: 'Dirty Fighter',
   requirements: ['domain:war'],
   type: 'major',
-  version: '6.400'
+  version: '6.540'
 };
