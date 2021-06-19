@@ -5,5 +5,5 @@ export default {
   id: 'double-jump',
   name: 'Double Jump',
   target: 'self',
-  version: '6.400'
+  version: '6.540'
 };

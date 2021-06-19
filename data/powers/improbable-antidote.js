@@ -5,5 +5,5 @@ export default {
   id: 'improbable-antidote',
   name: 'Improbable Antidote',
   target: 'self',
-  version: '6.400'
+  version: '6.540'
 };

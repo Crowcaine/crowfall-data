@@ -13,5 +13,5 @@ export default {
   ],
   id: 'fae',
   name: 'Fae',
-  version: '6.400'
+  version: '6.540'
 };
