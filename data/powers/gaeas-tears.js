@@ -5,5 +5,5 @@ export default {
   id: 'gaeas-tears',
   name: "Gaes's Tears",
   target: 'self',
-  version: '6.400'
+  version: '6.540'
 };

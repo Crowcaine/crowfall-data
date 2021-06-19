@@ -4,5 +4,5 @@ export default {
   id: 'follow-through',
   name: 'Follow-Through',
   target: 'self',
-  version: '6.400'
+  version: '6.540'
 };

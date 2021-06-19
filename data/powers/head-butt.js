@@ -6,5 +6,5 @@ export default {
   id: 'head-butt',
   name: 'Head Butt',
   target: 'rectangle',
-  version: '6.400'
+  version: '6.540'
 };

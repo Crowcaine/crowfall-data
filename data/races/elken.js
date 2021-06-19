@@ -14,5 +14,5 @@ export default {
   ],
   id: 'elken',
   name: 'Elken',
-  version: '6.400'
+  version: '6.540'
 };
