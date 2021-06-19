@@ -9,5 +9,5 @@ export default {
   id: 'pin-cushion',
   name: 'Pin Cushion',
   target: 'self',
-  version: '6.530'
+  version: '6.540'
 };
