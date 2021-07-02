@@ -17,6 +17,7 @@ export default {
     'mastery:medium-shield',
     'stat:attack-power:150',
     'stat:max-mana:300',
+    'tray:ranged',
     'power:searing-light'
   ],
   id: 'radical',
