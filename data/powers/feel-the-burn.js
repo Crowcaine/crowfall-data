@@ -6,5 +6,5 @@ export default {
   id: 'feel-the-burn',
   name: 'Feel the Burn',
   target: 'self',
-  version: '6.500'
+  version: '6.540'
 };

@@ -5,5 +5,5 @@ export default {
   id: 'spitting-distance',
   name: 'Spitting Distance',
   target: 'self',
-  version: '6.500'
+  version: '6.540'
 };

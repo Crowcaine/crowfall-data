@@ -1,14 +1,13 @@
 export default {
   description: '',
-  grants: [
-    'stat:critical-damage:5',
-    'stat:movement-speed-damage:5',
-    'power:hamstring',
-    'power:angel-of-death'
-  ],
   id: 'stalker',
   name: 'Stalker',
+  powers: ['hamstring', 'angel-of-death'],
   requirements: ['race:minotaur', 'domain:war'],
+  stats: {
+    'critical-damage': 5,
+    'movement-speed-damage': 5
+  },
   type: 'major',
   version: '6.540'
 };

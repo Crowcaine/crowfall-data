@@ -6,5 +6,5 @@ export default {
   id: 'bitter-cold',
   name: 'Bitter Cold',
   target: 'self',
-  version: '6.500'
+  version: '6.540'
 };

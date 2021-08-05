@@ -11,5 +11,5 @@ export default {
   name: 'Blast of Leaves',
   range: 7,
   target: 'rectangle',
-  version: '6.530'
+  version: '6.540'
 };

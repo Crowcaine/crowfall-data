@@ -1,14 +1,13 @@
 export default {
   description: '',
-  grants: [
-    'stat:anti-critical-strike:3',
-    'stat:damage-low-health:5',
-    'power:vampire-sight',
-    'power:feeding-time'
-  ],
   id: 'nightstalker',
   name: 'Nightstalker',
+  powers: ['vampire-sight', 'feeding-time'],
   requirements: ['domain:shadow'],
+  stats: {
+    'anti-critical-strike': 3,
+    'damage-low-health': 5
+  },
   type: 'major',
   version: '6.540'
 };

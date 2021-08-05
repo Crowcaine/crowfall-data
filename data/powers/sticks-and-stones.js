@@ -5,5 +5,5 @@ export default {
   id: 'sticks-and-stones',
   name: 'Sticks and Stones',
   target: 'self',
-  version: '6.400'
+  version: '6.540'
 };

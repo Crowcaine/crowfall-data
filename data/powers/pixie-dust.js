@@ -11,5 +11,5 @@ export default {
   name: 'Pixie Dust',
   radius: 8,
   target: 'area',
-  version: '6.530'
+  version: '6.540'
 };

@@ -1,13 +1,14 @@
 export default {
   class: 'assassin',
-  grants: [
-    'stat:strength:5',
-    'stat:dexterity:30',
-    'stat:constitution:10',
-    'stat:critical-damage:5',
-    'stat:health:300'
-  ],
   id: 'shadow-heart',
   name: 'Shadow Heart',
-  version: '6.500'
+  stats: {
+    constitution: 10,
+    'critical-damage': 5,
+    dexterity: 30,
+    health: 300,
+    strength: 5
+  },
+  type: 'talent',
+  version: '6.540'
 };

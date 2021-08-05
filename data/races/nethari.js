@@ -1,17 +1,20 @@
 export default {
-  grants: [
-    'stat:constitution:21',
-    'stat:dexterity:12',
-    'stat:intellect:40',
-    'stat:spirit:17',
-    'stat:strength:10',
-    'power:call-flames',
-    'power:sun-kissed-skin',
-    'power:walk-without-rhythm',
-    'power:subcuticular-suturing',
-    'power:desert-winds'
-  ],
   id: 'nethari',
   name: 'Nethari',
+  powers: [
+    'call-flames',
+    'subcuticular-suturing',
+    'sun-kissed-skin',
+    'walk-without-rhythm',
+    'desert-winds'
+  ],
+  stats: {
+    constitution: 21,
+    dexterity: 12,
+    intellect: 40,
+    spirit: 17,
+    strength: 10
+  },
+  type: 'race',
   version: '6.540'
 };

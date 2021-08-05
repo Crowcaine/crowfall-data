@@ -5,5 +5,5 @@ export default {
   id: 'trick-shots',
   name: 'Trick Shots',
   target: 'self',
-  version: '6.500'
+  version: '6.540'
 };

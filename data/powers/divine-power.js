@@ -6,5 +6,5 @@ export default {
   id: 'divine-power',
   name: 'Divine Power',
   target: 'self',
-  version: '6.500'
+  version: '6.540'
 };

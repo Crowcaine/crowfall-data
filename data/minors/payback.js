@@ -1,8 +1,8 @@
 export default {
   description: '',
-  grants: ['stat:critical-damage:5', 'power:payback'],
   id: 'payback',
   name: 'Payback',
+  powers: ['payback'],
   requirements: [
     'domain:shadow',
     'domain:wind',
@@ -10,6 +10,9 @@ export default {
     'domain:justice',
     'domain:battle'
   ],
+  stats: {
+    'critical-damage': 5
+  },
   type: 'minor',
-  version: '6.530'
+  version: '6.540'
 };

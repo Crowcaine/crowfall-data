@@ -15,5 +15,5 @@ export default {
   name: 'Dagger Spin',
   radius: 6,
   target: 'sphere',
-  version: '6.530'
+  version: '6.540'
 };

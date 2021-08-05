@@ -11,5 +11,5 @@ export default {
   name: 'Speedy Retaliate',
   radius: 5,
   target: 'area',
-  version: '6.530'
+  version: '6.540'
 };

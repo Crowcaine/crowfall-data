@@ -5,5 +5,5 @@ export default {
   id: 'sentinel',
   name: 'Sentinel',
   target: 'self',
-  version: '6.530'
+  version: '6.540'
 };

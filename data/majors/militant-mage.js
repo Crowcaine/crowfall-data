@@ -1,18 +1,17 @@
 export default {
   description: '',
-  grants: [
-    'stat:health:500',
-    'stat:resistance-physical:300',
-    'power:warp-weapons',
-    'power:sword-ward'
-  ],
   id: 'militant-mage',
   name: 'Militant Mage',
+  powers: ['warp-weapons', 'sword-ward'],
   requirements: [
     'race:nethari',
     'domain:protection',
     'domain:justice'
   ],
+  stats: {
+    health: 500,
+    'resistance-physical': 300
+  },
   type: 'major',
-  version: '6.530'
+  version: '6.540'
 };

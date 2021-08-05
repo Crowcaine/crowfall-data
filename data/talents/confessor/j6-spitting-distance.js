@@ -2,8 +2,9 @@ export default {
   class: 'confessor',
   description:
     'This talent grants the [power:spitting-distance] power.',
-  grants: ['power:spitting-distance'],
   id: 'spitting-distance',
   name: 'Spitting Distance',
-  version: '6.500'
+  powers: ['spitting-distance'],
+  type: 'talent',
+  version: '6.540'
 };

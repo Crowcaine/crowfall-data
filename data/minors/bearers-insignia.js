@@ -1,9 +1,12 @@
 export default {
   description: '',
-  grants: ['stat:resistance-slashing:300', 'power:bearers-insignia'],
   id: 'bearers-insignia',
   name: "Bearer's Insignia",
+  powers: ['bearers-insignia'],
   requirements: ['domain:justice'],
+  stats: {
+    'resistance-slashing': 300
+  },
   type: 'minor',
-  version: '6.500'
+  version: '6.540'
 };

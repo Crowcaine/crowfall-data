@@ -1,14 +1,13 @@
 export default {
   description: '',
-  grants: [
-    'stat:damage-holy:2',
-    'stat:support-power:100',
-    'power:soul-steal',
-    'power:blessed-symbol'
-  ],
   id: 'exorcist',
   name: 'Exorcist',
+  powers: ['soul-steal', 'blessed-symbol'],
   requirements: ['domain:light'],
+  stats: {
+    'damage-holy': 2,
+    'support-power': 100
+  },
   type: 'major',
-  version: '6.530'
+  version: '6.540'
 };

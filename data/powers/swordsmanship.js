@@ -6,5 +6,5 @@ export default {
   id: 'swordsmanship',
   name: 'Swordsmanship',
   target: 'self',
-  version: '6.500'
+  version: '6.540'
 };

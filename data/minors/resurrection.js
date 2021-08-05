@@ -1,8 +1,8 @@
 export default {
   description: '',
-  grants: ['stat:healing:3', 'power:resurrection'],
   id: 'resurrection',
   name: 'Resurrection',
+  powers: ['resurrection'],
   requirements: [
     'class:druid',
     'class:templar',
@@ -10,6 +10,9 @@ export default {
     'domain:nature',
     'domain:music'
   ],
+  stats: {
+    healing: 3
+  },
   type: 'minor',
-  version: '6.530'
+  version: '6.540'
 };

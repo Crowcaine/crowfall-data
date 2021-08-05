@@ -5,5 +5,5 @@ export default {
   id: 'shared-gifts',
   name: 'Shared Gifts',
   target: 'self',
-  version: '6.530'
+  version: '6.540'
 };

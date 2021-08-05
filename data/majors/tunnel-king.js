@@ -1,14 +1,13 @@
 export default {
   description: '',
-  grants: [
-    'stat:armor-penetration-crushing:2',
-    'stat:damage-low-health:5',
-    'power:go-for-broke',
-    'power:tunnel'
-  ],
   id: 'tunnel-king',
   name: 'Tunnel King',
+  powers: ['go-for-broke', 'tunnel'],
   requirements: ['class:duelist'],
+  stats: {
+    'armor-penetration-crushing': 2,
+    'damage-low-health': 5
+  },
   type: 'major',
   version: '6.540'
 };

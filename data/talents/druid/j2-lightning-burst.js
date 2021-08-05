@@ -2,8 +2,9 @@ export default {
   class: 'druid',
   description:
     'This talent grants the [power:lightning-burst] power.',
-  grants: ['power:lightning-burst'],
   id: 'lightning-burst',
   name: 'Lightning Burst',
-  version: '6.530'
+  powers: ['lightning-burst'],
+  type: 'talent',
+  version: '6.540'
 };

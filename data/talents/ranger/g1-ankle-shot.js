@@ -2,8 +2,9 @@ export default {
   class: 'ranger',
   description:
     'This talent grants the [power:ankle-shot] passive power.',
-  grants: ['power:ankle-shot'],
   id: 'ankle-shot',
   name: 'Ankle Shot',
-  version: '6.500'
+  powers: ['ankle-shot'],
+  type: 'talent',
+  version: '6.540'
 };

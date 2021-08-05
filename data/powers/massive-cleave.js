@@ -12,5 +12,5 @@ export default {
   id: 'massive-cleave',
   name: 'Massive Cleave',
   target: 'reticle',
-  version: '6.500'
+  version: '6.540'
 };

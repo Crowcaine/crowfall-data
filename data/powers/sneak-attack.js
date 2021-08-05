@@ -7,5 +7,5 @@ export default {
   name: 'Sneak Attack',
   range: 5,
   target: 'reticle',
-  version: '6.500'
+  version: '6.540'
 };

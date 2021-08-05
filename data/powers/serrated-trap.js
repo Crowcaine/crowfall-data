@@ -5,5 +5,5 @@ export default {
   id: 'serrated-trap',
   name: 'Serrated Trap',
   target: 'self',
-  version: '6.530'
+  version: '6.540'
 };

@@ -5,5 +5,5 @@ export default {
   id: 'cleansing-fire',
   name: 'Cleansing Fire',
   target: 'self',
-  version: '6.500'
+  version: '6.540'
 };

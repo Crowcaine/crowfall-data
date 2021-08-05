@@ -9,5 +9,5 @@ export default {
   name: 'Absolution',
   range: 25,
   target: 'ray',
-  version: '6.500'
+  version: '6.540'
 };

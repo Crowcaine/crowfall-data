@@ -9,19 +9,21 @@ export default {
       'inflicts bleed with a 100% chance to critically strike',
     'power:pursuit': 'has a reduced cooldown'
   },
-  grants: [
-    'mastery:axe',
-    'mastery:long-sword',
-    'mastery:mace',
-    'mastery:short-sword',
-    'mastery:buckler',
-    'mastery:medium-shield',
-    'stat:attack-power:200',
-    'stat:health:200'
-  ],
   id: 'swordsman',
+  masteries: [
+    'axe',
+    'buckler',
+    'long-sword',
+    'mace',
+    'short-sword',
+    'medium-shield'
+  ],
   name: 'Swordsman',
+  stats: {
+    'attack-power': 200,
+    health: 200
+  },
   tags: ['melee'],
   type: 'promotion',
-  version: '6.500'
+  version: '6.540'
 };

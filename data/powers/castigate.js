@@ -6,5 +6,5 @@ export default {
   name: 'Castigate',
   radius: 5,
   target: 'cone',
-  version: '6.500'
+  version: '6.540'
 };

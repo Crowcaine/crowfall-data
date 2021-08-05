@@ -11,5 +11,5 @@ export default {
   name: 'Banner-of-Storms',
   radius: 15,
   target: 'area',
-  version: '6.530'
+  version: '6.540'
 };

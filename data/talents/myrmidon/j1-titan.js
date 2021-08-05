@@ -1,8 +1,9 @@
 export default {
   class: 'myrmidon',
   description: 'This talent grants the [power:titan] passive power.',
-  grants: ['power:titan'],
   id: 'titan',
   name: 'Titan',
-  version: '6.500'
+  powers: ['titan'],
+  type: 'talent',
+  version: '6.540'
 };

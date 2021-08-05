@@ -9,20 +9,17 @@ export default {
     'power:illuminate':
       'increases critical chance with each hit until you score three critial hits'
   },
-  grants: [
-    'proficiency:throwing-hammer',
-    'mastery:throwing-hammer',
-    'mastery:mace',
-    'mastery:buckler',
-    'mastery:medium-shield',
-    'stat:attack-power:150',
-    'stat:max-mana:300',
-    'tray:ranged',
-    'power:searing-light'
-  ],
   id: 'radical',
+  masteries: ['buckler', 'mace', 'throwing-hammer', 'medium-shield'],
   name: 'Radical',
+  powers: ['searing-light'],
+  proficiencies: ['throwing-hammer'],
+  stats: {
+    'attack-power': 150,
+    'max-mana': 300
+  },
   tags: ['ranged'],
+  trays: ['ranged'],
   type: 'promotion',
-  version: '6.500'
+  version: '6.540'
 };

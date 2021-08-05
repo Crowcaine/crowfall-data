@@ -1,19 +1,18 @@
 export default {
   description: '',
-  grants: [
-    'stat:critical-damage:5',
-    'stat:health:500',
-    'power:in-the-fray',
-    'power:death-throws'
-  ],
   id: 'scrapper',
   name: 'Scrapper',
+  powers: ['in-the-fray', 'death-throws'],
   requirements: [
     'race:half-giant',
     'domain:shadow',
     'domain:justice',
     'domain:battle'
   ],
+  stats: {
+    'critical-damage': 5,
+    health: 500
+  },
   type: 'major',
-  version: '6.530'
+  version: '6.540'
 };

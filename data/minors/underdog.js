@@ -1,14 +1,17 @@
 export default {
   description: '',
-  grants: ['stat:damage-slashing:2', 'power:underdog'],
   id: 'underdog',
   name: 'Underdog',
+  powers: ['underdog'],
   requirements: [
     'class:myrmidon',
     'race:human',
     'domain:war',
     'domain:death'
   ],
+  stats: {
+    'damage-slashing': 2
+  },
   type: 'minor',
-  version: '6.530'
+  version: '6.540'
 };

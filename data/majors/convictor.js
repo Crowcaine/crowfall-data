@@ -1,14 +1,13 @@
 export default {
   description: '',
-  grants: [
-    'stat:armor-penetration-fire:2',
-    'stat:resistance-fire:300',
-    'power:prosecute',
-    'power:mortal-sin'
-  ],
   id: 'convictor',
   name: 'Convictor',
+  powers: ['prosecute', 'mortal-sin'],
   requirements: ['class:confessor', 'class:templar'],
+  stats: {
+    'armor-penetration-fire': 2,
+    'resistance-fire': 300
+  },
   type: 'major',
-  version: '6.530'
+  version: '6.540'
 };

@@ -8,5 +8,5 @@ export default {
   id: 'essence-scram',
   name: 'Essence Scram',
   target: 'self',
-  version: '6.400'
+  version: '6.540'
 };

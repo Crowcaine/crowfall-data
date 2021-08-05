@@ -8,5 +8,5 @@ export default {
   name: 'Dagger Storm',
   range: 6,
   target: 'sphere',
-  version: '6.500'
+  version: '6.540'
 };

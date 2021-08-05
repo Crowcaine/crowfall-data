@@ -2,8 +2,9 @@ export default {
   class: 'champion',
   description:
     'This talent grants the [power:ultimate-warrior] power.',
-  grants: ['power:ultimate-warrior'],
   id: 'ultimate-warrior',
   name: 'Ultimate Warrior',
-  version: '6.500'
+  powers: ['ultimate-warrior'],
+  type: 'talent',
+  version: '6.540'
 };

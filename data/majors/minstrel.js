@@ -1,15 +1,17 @@
 export default {
   description: '',
-  grants: [
-    'stat:health:500',
-    'stat:song-duration:2',
-    'power:verses-of-victory',
-    'power:hymn-of-restoration',
-    'power:song-twisting'
-  ],
   id: 'minstrel',
   name: 'Minstrel',
+  powers: [
+    'hymn-of-restoration',
+    'verses-of-victory',
+    'song-twisting'
+  ],
   requirements: ['domain:music'],
+  stats: {
+    health: 500,
+    'song-duration': 2
+  },
   type: 'major',
-  version: '6.530'
+  version: '6.540'
 };

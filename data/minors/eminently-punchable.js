@@ -1,14 +1,17 @@
 export default {
   description: '',
-  grants: ['stat:resistance-physical:300', 'power:hit-me'],
   id: 'eminently-punchable',
   name: 'Eminently Punchable',
+  powers: ['hit-me'],
   requirements: [
     'race:minotaur',
     'domain:fire',
     'domain:storm',
     'domain:battle'
   ],
+  stats: {
+    'resistance-physical': 300
+  },
   type: 'minor',
-  version: '6.530'
+  version: '6.540'
 };

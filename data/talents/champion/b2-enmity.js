@@ -1,13 +1,14 @@
 export default {
   class: 'champion',
-  grants: [
-    'stat:strength:30',
-    'stat:dexterity:5',
-    'stat:constitution:10',
-    'stat:critical-damage:5',
-    'stat:control-defense:15'
-  ],
   id: 'enmity',
   name: 'Enmity',
-  version: '6.500'
+  stats: {
+    constitution: 10,
+    'control-defense': 15,
+    'critical-damage': 5,
+    dexterity: 5,
+    strength: 30
+  },
+  type: 'talent',
+  version: '6.540'
 };

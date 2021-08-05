@@ -1,9 +1,12 @@
 export default {
   description: '',
-  grants: ['stat:health:500', 'power:moon-elf-heritage'],
   id: 'moon-elf-heritage',
   name: 'Moon Elf Heritage',
+  powers: ['moon-elf-heritage'],
   requirements: ['race:half-elf', 'race:wood-elf'],
+  stats: {
+    health: 500
+  },
   type: 'minor',
-  version: '6.530'
+  version: '6.540'
 };

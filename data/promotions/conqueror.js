@@ -9,17 +9,16 @@ export default {
     'power:whirlwind':
       'confers immunity to crowd control while you channel'
   },
-  grants: [
-    'mastery:axe',
-    'mastery:mace',
-    'stat:attack-power:100',
-    'stat:hard-control-intensity:21',
-    'stat:movement-control-intensity:21',
-    'stat:attack-control-intensity:21'
-  ],
   id: 'conqueror',
+  masteries: ['axe', 'mace'],
   name: 'Conqueror',
+  stats: {
+    'attack-control-intensity': 21,
+    'attack-power': 100,
+    'hard-control-intensity': 21,
+    'movement-control-intensity': 21
+  },
   tags: ['melee', 'control'],
   type: 'promotion',
-  version: '6.500'
+  version: '6.540'
 };

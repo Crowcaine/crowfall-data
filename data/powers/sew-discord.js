@@ -5,5 +5,5 @@ export default {
   id: 'sew-discord',
   name: 'Sew Discord',
   target: 'self',
-  version: '6.400'
+  version: '6.540'
 };

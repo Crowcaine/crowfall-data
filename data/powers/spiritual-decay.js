@@ -11,5 +11,5 @@ export default {
   name: 'Spiritual Decay',
   radius: 8,
   target: 'self',
-  version: '6.530'
+  version: '6.540'
 };

@@ -1,16 +1,17 @@
 export default {
   class: 'frostweaver',
-  grants: [
-    'stat:critical-damage:5',
-    'stat:healing:3',
-    'stat:critical-healing-chance:10',
-    'stat:critical-healing-amount:5',
-    'stat:damage-ice:10',
-    'stat:damage-ice-cap:10',
-    'stat:final-mitigation-cap:10',
-    'stat:ice-storage-cap:1'
-  ],
   id: 'tranquility',
   name: 'Tranquility',
-  version: '6.500'
+  stats: {
+    'critical-damage': 5,
+    'critical-healing-amount': 5,
+    'critical-healing-chance': 10,
+    'damage-ice': 10,
+    'damage-ice-cap': 10,
+    'final-mitigation-cap': 10,
+    healing: 3,
+    'ice-storage-cap': 1
+  },
+  type: 'talent',
+  version: '6.540'
 };

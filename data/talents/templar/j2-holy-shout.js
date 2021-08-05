@@ -1,8 +1,9 @@
 export default {
   class: 'templar',
   description: 'This talent grants the [power:holy-shout] power.',
-  grants: ['power:holy-shout'],
   id: 'holy-shout',
   name: 'Holy Shout',
-  version: '6.500'
+  powers: ['holy-shout'],
+  type: 'talent',
+  version: '6.540'
 };

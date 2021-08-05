@@ -1,8 +1,8 @@
 export default {
   description: '',
-  grants: ['stat:resistance-organic:300', 'power:thornshield'],
   id: 'thornshield',
   name: 'Thornshield',
+  powers: ['thornshield'],
   requirements: [
     'class:assassin',
     'class:champion',
@@ -16,6 +16,9 @@ export default {
     'class:ranger',
     'class:templar'
   ],
+  stats: {
+    'resistance-organic': 300
+  },
   type: 'minor',
-  version: '6.530'
+  version: '6.540'
 };

@@ -2,8 +2,9 @@ export default {
   class: 'druid',
   description:
     'This talent grants the [power:electrogenesis] passive power.',
-  grants: ['power:electrogenesis'],
   id: 'electrogenesis',
   name: 'Electrogenesis',
-  version: '6.530'
+  powers: ['electrogenesis'],
+  type: 'talent',
+  version: '6.540'
 };

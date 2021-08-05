@@ -10,5 +10,5 @@ export default {
   name: 'Fortification',
   radius: 50,
   target: 'group',
-  version: '6.530'
+  version: '6.540'
 };

@@ -9,15 +9,15 @@ export default {
     'power:fire-tornadoes':
       'heals friendly targets and no longer consumes [power:hellfire-aura]'
   },
-  grants: [
-    'proficiency:mail',
-    'mastery:book',
-    'stat:support-power:400',
-    'stat:max-mana:300'
-  ],
   id: 'inquisitor',
+  masteries: ['book'],
   name: 'Inquisitor',
+  proficiencies: ['mail'],
+  stats: {
+    'max-mana': 300,
+    'support-power': 400
+  },
   tags: ['healing'],
   type: 'promotion',
-  version: '6.500'
+  version: '6.540'
 };

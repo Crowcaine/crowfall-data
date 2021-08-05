@@ -6,5 +6,5 @@ export default {
   id: 'full-strength',
   name: 'Full Strength',
   target: 'self',
-  version: '6.500'
+  version: '6.540'
 };

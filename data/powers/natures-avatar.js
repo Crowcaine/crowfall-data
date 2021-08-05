@@ -9,5 +9,5 @@ export default {
   name: "Nature's Avatar",
   range: 50,
   target: 'reticle',
-  version: '6.530'
+  version: '6.540'
 };

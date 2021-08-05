@@ -10,5 +10,5 @@ export default {
   name: 'Hunker Down',
   radius: 4,
   target: 'self',
-  version: '6.530'
+  version: '6.540'
 };

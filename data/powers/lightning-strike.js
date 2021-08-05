@@ -10,5 +10,5 @@ export default {
   name: 'Lightning Strike',
   range: 35,
   target: 'ray',
-  version: '6.530'
+  version: '6.540'
 };

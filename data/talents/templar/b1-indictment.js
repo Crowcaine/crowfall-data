@@ -1,13 +1,14 @@
 export default {
   class: 'templar',
-  grants: [
-    'stat:strength:30',
-    'stat:intellect:5',
-    'stat:spirit:10',
-    'stat:critical-strike:5',
-    'stat:health:225'
-  ],
   id: 'indictment',
   name: 'Indictment',
-  version: '6.500'
+  stats: {
+    'critical-strike': 5,
+    health: 225,
+    intellect: 5,
+    spirit: 10,
+    strength: 30
+  },
+  type: 'talent',
+  version: '6.540'
 };

@@ -1,14 +1,13 @@
 export default {
   description: '',
-  grants: [
-    'stat:attack-power:50',
-    'stat:damage-high-health:5',
-    'power:hunker-down',
-    'power:dig-in'
-  ],
   id: 'defender',
   name: 'Defender',
+  powers: ['hunker-down', 'dig-in'],
   requirements: ['class:duelist', 'domain:dark', 'domain:justice'],
+  stats: {
+    'attack-power': 50,
+    'damage-high-health': 5
+  },
   type: 'major',
-  version: '6.530'
+  version: '6.540'
 };

@@ -1,8 +1,9 @@
 export default {
   class: 'templar',
   description: 'This talent grants the [power:blinding-light] power.',
-  grants: ['power:blinding-light'],
   id: 'blinding-light',
   name: 'Blinding Light',
-  version: '6.500'
+  powers: ['blinding-light'],
+  type: 'talent',
+  version: '6.540'
 };

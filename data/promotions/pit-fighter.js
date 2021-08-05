@@ -9,15 +9,14 @@ export default {
       'increases your [stat:health:1875] and heals you for 2350 hitpoints',
     'power:whirling-pain': 'adds a Barrier when used'
   },
-  grants: [
-    'proficiency:plate',
-    'mastery:great-axe',
-    'mastery:great-mace',
-    'stat:health:450'
-  ],
   id: 'pit-fighter',
+  masteries: ['great-axe', 'great-mace'],
   name: 'Pit Fighter',
+  proficiencies: ['plate'],
+  stats: {
+    health: 450
+  },
   tags: ['melee', 'defense'],
   type: 'promotion',
-  version: '6.500'
+  version: '6.540'
 };

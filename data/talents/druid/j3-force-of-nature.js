@@ -2,8 +2,9 @@ export default {
   class: 'druid',
   description:
     'This talent grants the [power:force-of-nature] passive power.',
-  grants: ['power:force-of-nature'],
   id: 'force-of-nature',
   name: 'Force of Nature',
-  version: '6.530'
+  powers: ['force-of-nature'],
+  type: 'talent',
+  version: '6.540'
 };

@@ -11,5 +11,5 @@ export default {
   name: 'Grabthars Hammer',
   range: 40,
   target: 'reticle',
-  version: '6.530'
+  version: '6.540'
 };

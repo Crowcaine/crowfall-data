@@ -1,16 +1,17 @@
 export default {
   class: 'templar',
-  grants: [
-    'stat:critical-healing-chance:3',
-    'stat:critical-healing-amount:5',
-    'stat:control-defense:30',
-    'stat:damage-fire:20',
-    'stat:damage-fire-cap:10',
-    'stat:damage-slashing:5',
-    'stat:damage-slashing-cap:5',
-    'stat:final-mitigation-cap:25'
-  ],
   id: 'virtuous-light',
   name: 'Virtuous Light',
-  version: '6.500'
+  stats: {
+    'control-defense': 30,
+    'critical-healing-amount': 5,
+    'critical-healing-chance': 3,
+    'damage-fire': 20,
+    'damage-fire-cap': 10,
+    'damage-slashing': 5,
+    'damage-slashing-cap': 5,
+    'final-mitigation-cap': 25
+  },
+  type: 'talent',
+  version: '6.540'
 };

@@ -9,15 +9,14 @@ export default {
     'power:whirling-pain':
       "increases it's max targes to 7 and reduces reduces enemy's Anti-Critical Strike."
   },
-  grants: [
-    'mastery:great-axe',
-    'mastery:great-mace',
-    'stat:attack-power:200',
-    'stat:health:200'
-  ],
   id: 'alpha-warrior',
+  masteries: ['great-axe', 'great-mace'],
   name: 'Alpha Warrior',
+  stats: {
+    'attack-power': 200,
+    health: 200
+  },
   tags: ['melee'],
   type: 'promotion',
-  version: '6.500'
+  version: '6.540'
 };

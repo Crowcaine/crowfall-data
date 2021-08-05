@@ -9,19 +9,17 @@ export default {
     'power:tend-wounds':
       'has the duration of the heal over time increased to 16 seconds and applies a [stat:personal-healing-modifier] buff to you and your target for 10 seconds'
   },
-  grants: [
-    'proficiency:plate',
-    'mastery:mace',
-    'mastery:buckler',
-    'mastery:medium-shield',
-    'stat:health:250',
-    'stat:support-power:250',
-    'stat:max-mana:300',
-    'stat:control-defense:10'
-  ],
   id: 'arbiter',
+  masteries: ['buckler', 'mace', 'medium-shield'],
   name: 'Arbiter',
+  proficiencies: ['plate'],
+  stats: {
+    'control-defense': 10,
+    health: 250,
+    'max-mana': 300,
+    'support-power': 250
+  },
   tags: ['healing'],
   type: 'promotion',
-  version: '6.500'
+  version: '6.540'
 };

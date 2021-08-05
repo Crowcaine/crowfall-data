@@ -1,8 +1,9 @@
 export default {
   class: 'knight',
   description: 'This talent grants the [power:shield-bash] power.',
-  grants: ['power:shield-bash'],
   id: 'shield-bash',
   name: 'Shield Bash',
-  version: '6.500'
+  powers: ['shield-bash'],
+  type: 'talent',
+  version: '6.540'
 };

@@ -10,16 +10,14 @@ export default {
     'power:illuminate':
       'becomes a more powerful healing over time ability'
   },
-  grants: [
-    'mastery:mace',
-    'mastery:buckler',
-    'mastery:medium-shield',
-    'stat:support-power:400',
-    'stat:max-mana:300'
-  ],
   id: 'crusader',
+  masteries: ['buckler', 'mace', 'medium-shield'],
   name: 'Crusader',
+  stats: {
+    'max-mana': 300,
+    'support-power': 400
+  },
   tags: ['healing'],
   type: 'promotion',
-  version: '6.500'
+  version: '6.540'
 };

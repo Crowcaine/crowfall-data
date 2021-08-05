@@ -1,8 +1,9 @@
 export default {
   class: 'templar',
   description: 'This talent grants the [power:penitence] power.',
-  grants: ['power:penitence'],
   id: 'penitence',
   name: 'Penitence',
-  version: '6.500'
+  powers: ['penitence'],
+  type: 'talent',
+  version: '6.540'
 };

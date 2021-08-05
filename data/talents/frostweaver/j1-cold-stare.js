@@ -2,8 +2,9 @@ export default {
   class: 'frostweaver',
   description:
     'This talent grants the [power:cold-stare] passive power.',
-  grants: ['power:cold-stare'],
   id: 'cold-stare',
   name: 'Cold Stare',
-  version: '6.500'
+  powers: ['cold-stare'],
+  type: 'talent',
+  version: '6.540'
 };

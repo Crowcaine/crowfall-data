@@ -1,17 +1,20 @@
 export default {
-  grants: [
-    'stat:constitution:20',
-    'stat:dexterity:11',
-    'stat:intellect:10',
-    'stat:spirit:11',
-    'stat:strength:28',
-    'power:candle-that-burns',
-    'power:pain-tolerance',
-    'power:heros-blood',
-    'power:gemcutter',
-    'power:past-lives'
-  ],
   id: 'human',
   name: 'Human',
+  powers: [
+    'candle-that-burns',
+    'gemcutter',
+    'heros-blood',
+    'pain-tolerance',
+    'past-lives'
+  ],
+  stats: {
+    constitution: 20,
+    dexterity: 11,
+    intellect: 10,
+    spirit: 11,
+    strength: 28
+  },
+  type: 'race',
   version: '6.540'
 };

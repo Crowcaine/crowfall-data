@@ -1,15 +1,16 @@
 export default {
   class: 'confessor',
-  grants: [
-    'stat:strength:20',
-    'stat:dexterity:10',
-    'stat:intellect:40',
-    'stat:ranged-distance:12',
-    'stat:armor-penetration-elemental:9',
-    'stat:damage-low-health:15',
-    'stat:max-mana:150'
-  ],
   id: 'rapture',
   name: 'Rapture',
-  version: '6.500'
+  stats: {
+    'armor-penetration-elemental': 9,
+    'damage-low-health': 15,
+    dexterity: 10,
+    intellect: 40,
+    'max-mana': 150,
+    'ranged-distance': 12,
+    strength: 20
+  },
+  type: 'talent',
+  version: '6.540'
 };

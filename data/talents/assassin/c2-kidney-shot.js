@@ -1,8 +1,9 @@
 export default {
   class: 'assassin',
   description: 'This talent grants the [power:kidney-shot] power.',
-  grants: ['power:kidney-shot'],
   id: 'kidney-shot',
   name: 'Kidney Shot',
-  version: '6.500'
+  powers: ['kidney-shot'],
+  type: 'talent',
+  version: '6.540'
 };

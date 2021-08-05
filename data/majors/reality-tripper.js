@@ -1,14 +1,13 @@
 export default {
   description: '',
-  grants: [
-    'stat:critical-strike:2',
-    'stat:damage-low-health:5',
-    'power:alter-reality',
-    'power:last-resort'
-  ],
   id: 'reality-tripper',
   name: 'Reality Tripper',
+  powers: ['alter-reality', 'last-resort'],
   requirements: ['domain:shadow', 'domain:storm'],
+  stats: {
+    'critical-strike': 2,
+    'damage-low-health': 5
+  },
   type: 'major',
   version: '6.540'
 };

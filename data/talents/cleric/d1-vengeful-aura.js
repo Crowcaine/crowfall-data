@@ -1,8 +1,9 @@
 export default {
   class: 'cleric',
   description: 'This talent grants the [power:vengeful-aura] power.',
-  grants: ['power:vengeful-aura'],
   id: 'vengeful-aura',
   name: 'Vengeful Aura',
-  version: '6.500'
+  powers: ['vengeful-aura'],
+  type: 'talent',
+  version: '6.540'
 };

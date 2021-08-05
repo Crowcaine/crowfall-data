@@ -1,8 +1,9 @@
 export default {
   class: 'ranger',
   description: 'This talent grants the [power:cross-slash] power.',
-  grants: ['power:cross-slash'],
   id: 'cross-slash',
   name: 'Cross Slash',
-  version: '6.500'
+  powers: ['cross-slash'],
+  type: 'talent',
+  version: '6.540'
 };

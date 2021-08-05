@@ -9,5 +9,5 @@ export default {
   id: 'resource-shield',
   name: 'Resource Shield',
   target: 'self',
-  version: '6.530'
+  version: '6.540'
 };

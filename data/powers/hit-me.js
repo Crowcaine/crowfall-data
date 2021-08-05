@@ -5,5 +5,5 @@ export default {
   id: 'hit-me',
   name: 'Hit Me',
   target: 'self',
-  version: '6.530'
+  version: '6.540'
 };

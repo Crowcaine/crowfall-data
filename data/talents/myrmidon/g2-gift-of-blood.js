@@ -2,8 +2,9 @@ export default {
   class: 'myrmidon',
   description:
     'This talent grants the [power:gift-of-blood] passive power.',
-  grants: ['power:gift-of-blood'],
   id: 'gift-of-blood',
   name: 'Gift of Blood',
-  version: '6.500'
+  powers: ['gift-of-blood'],
+  type: 'talent',
+  version: '6.540'
 };

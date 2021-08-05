@@ -5,5 +5,5 @@ export default {
   id: 'rotting-frost',
   name: 'Rotting Frost',
   target: 'self',
-  version: '6.530'
+  version: '6.540'
 };

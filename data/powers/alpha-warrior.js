@@ -5,5 +5,5 @@ export default {
   id: 'alpha-warrior',
   name: 'Alpha Warrior',
   target: 'self',
-  version: '6.500'
+  version: '6.540'
 };

@@ -5,5 +5,5 @@ export default {
   id: 'sword-ward',
   name: 'Sword Ward',
   target: 'self',
-  version: '6.530'
+  version: '6.540'
 };

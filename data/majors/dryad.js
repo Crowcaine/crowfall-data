@@ -1,14 +1,13 @@
 export default {
   description: '',
-  grants: [
-    'stat:healing:3',
-    'stat:support-power:100',
-    'power:blast-of-leaves',
-    'power:natures-avatar'
-  ],
   id: 'dryad',
   name: 'Dryad',
+  powers: ['blast-of-leaves', 'natures-avatar'],
   requirements: ['race:elken', 'domain:nature'],
+  stats: {
+    healing: 3,
+    'support-power': 100
+  },
   type: 'major',
-  version: '6.530'
+  version: '6.540'
 };

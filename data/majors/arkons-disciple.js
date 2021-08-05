@@ -1,14 +1,13 @@
 export default {
   description: '',
-  grants: [
-    'stat:critical-damage:5',
-    'stat:damage-fire:2',
-    'power:arkons-fury',
-    'power:fiery-brand'
-  ],
   id: 'arkons-disciple',
   name: "Arkon's Disciple",
+  powers: ['arkons-fury', 'fiery-brand'],
   requirements: ['class:confessor', 'domain:fire'],
+  stats: {
+    'critical-damage': 5,
+    'damage-fire': 2
+  },
   type: 'major',
-  version: '6.530'
+  version: '6.540'
 };

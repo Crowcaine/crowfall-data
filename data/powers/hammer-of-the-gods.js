@@ -4,5 +4,5 @@ export default {
   id: 'hammer-of-the-gods',
   name: 'Hammer of the Gods',
   target: 'self',
-  version: '6.500'
+  version: '6.540'
 };

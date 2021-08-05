@@ -1,15 +1,13 @@
 export default {
   description: '',
-  grants: [
-    'stat:critical-strike:2',
-    'stat:song-duration:2',
-    'power:requiem',
-    'power:consonant-chains',
-    'power:song-twisting'
-  ],
   id: 'troubadour',
   name: 'Troubadour',
+  powers: ['consonant-chains', 'requiem', 'song-twisting'],
   requirements: ['domain:music'],
+  stats: {
+    'critical-strike': 2,
+    'song-duration': 2
+  },
   type: 'major',
-  version: '6.530'
+  version: '6.540'
 };

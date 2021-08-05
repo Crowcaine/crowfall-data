@@ -5,5 +5,5 @@ export default {
   id: 'maken-me-mad',
   name: 'Maken Me Mad!',
   target: 'self',
-  version: '6.400'
+  version: '6.540'
 };

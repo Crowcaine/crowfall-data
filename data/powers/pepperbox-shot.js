@@ -10,5 +10,5 @@ export default {
   name: 'Pepperbox Shot',
   range: 15,
   target: 'cone',
-  version: '6.500'
+  version: '6.540'
 };

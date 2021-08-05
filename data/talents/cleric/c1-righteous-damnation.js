@@ -2,8 +2,9 @@ export default {
   class: 'cleric',
   description:
     'This talent grants the [power:righteous-damnation] power.',
-  grants: ['power:righteous-damnation'],
   id: 'righteous-damnation',
   name: 'Righteous Damnation',
-  version: '6.500'
+  powers: ['righteous-damnation'],
+  type: 'talent',
+  version: '6.540'
 };

@@ -2,8 +2,9 @@ export default {
   class: 'assassin',
   description:
     'This talent grants the [power:bloodthirsty] passive power.',
-  grants: ['power:bloodthirsty'],
   id: 'bloodthirsty',
   name: 'Bloodthirsy',
-  version: '6.500'
+  powers: ['bloodthirsty'],
+  type: 'talent',
+  version: '6.540'
 };

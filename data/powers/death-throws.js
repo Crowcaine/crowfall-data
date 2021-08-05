@@ -7,5 +7,5 @@ export default {
   name: 'Death Throws',
   radius: 5,
   target: 'self',
-  version: '6.530'
+  version: '6.540'
 };

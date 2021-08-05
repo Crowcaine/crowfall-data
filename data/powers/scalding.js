@@ -5,5 +5,5 @@ export default {
   id: 'scalding',
   name: 'Scalding',
   target: 'self',
-  version: '6.500'
+  version: '6.540'
 };

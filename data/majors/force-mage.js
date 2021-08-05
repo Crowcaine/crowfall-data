@@ -1,18 +1,17 @@
 export default {
   description: '',
-  grants: [
-    'stat:barrier:100',
-    'stat:resistance-ice:300',
-    'power:force-wave',
-    'power:reactive-barrier'
-  ],
   id: 'force-mage',
   name: 'Force Mage',
+  powers: ['force-wave', 'reactive-barrier'],
   requirements: [
     'race:high-elf',
     'domain:frost',
     'domain:protection'
   ],
+  stats: {
+    barrier: 100,
+    'resistance-ice': 300
+  },
   type: 'major',
-  version: '6.530'
+  version: '6.540'
 };

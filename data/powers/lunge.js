@@ -8,5 +8,5 @@ export default {
   name: 'Lunge',
   range: 8,
   target: 'reticle',
-  version: '6.500'
+  version: '6.540'
 };

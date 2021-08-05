@@ -1,8 +1,8 @@
 export default {
   description: '',
-  grants: ['stat:damage-high-health:2', 'power:spirit-whip'],
   id: 'spirit-whip',
   name: 'Spirit Whip',
+  powers: ['spirit-whip'],
   requirements: [
     'class:assassin',
     'class:templar',
@@ -11,6 +11,9 @@ export default {
     'domain:war',
     'domain:battle'
   ],
+  stats: {
+    'damage-high-health': 2
+  },
   type: 'minor',
-  version: '6.400'
+  version: '6.540'
 };

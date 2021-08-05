@@ -10,5 +10,5 @@ export default {
   name: 'Marked for Death',
   range: 30,
   target: 'reticle',
-  version: '6.530'
+  version: '6.540'
 };

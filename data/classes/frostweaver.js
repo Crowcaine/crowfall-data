@@ -1,13 +1,12 @@
 export default {
   description: '',
-  grants: [
-    'stat:health:4550',
-    'proficiency:leather',
-    'proficiency:frostcaster'
-  ],
   id: 'frostweaver',
   name: 'Frostweaver',
+  proficiencies: ['leather', 'frostcaster'],
   races: ['fae', 'high-elf', 'wood-elf'],
+  stats: {
+    health: 4550
+  },
   talents: {
     a1: 'talent:freezing-blast',
     b1: 'talent:biting-cold',
@@ -49,5 +48,6 @@ export default {
     l8: 'domain:frost',
     l9: 'domain:death'
   },
-  version: '6.400'
+  type: 'class',
+  version: '6.540'
 };

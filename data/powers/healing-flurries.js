@@ -11,5 +11,5 @@ export default {
   radius: 6,
   range: 30,
   target: 'area',
-  version: '6.500'
+  version: '6.540'
 };

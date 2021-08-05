@@ -1,14 +1,13 @@
 export default {
   description: '',
-  grants: [
-    'stat:health:500',
-    'stat:support-power:100',
-    'power:fountain-of-life',
-    'power:purify'
-  ],
   id: 'bringer-of-life',
   name: 'Bringer of Life',
+  powers: ['fountain-of-life', 'purify'],
   requirements: ['domain:nature', 'domain:music'],
+  stats: {
+    health: 500,
+    'support-power': 100
+  },
   type: 'major',
-  version: '6.530'
+  version: '6.540'
 };

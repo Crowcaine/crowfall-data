@@ -9,20 +9,16 @@ export default {
       'places a trap where you leapt from and resets the cooldown on Stake powers',
     'power:twin-surge': 'inflicts suppress on the 2nd attack'
   },
-  grants: [
-    'mastery:recurve-bow',
-    'mastery:axe',
-    'mastery:mace',
-    'mastery:short-sword',
-    'proficiency:mail',
-    'proficiency:quiver',
-    'tray:energy-regen-all',
-    'stat:attack-power:150',
-    'stat:power-damage-trap: 20'
-  ],
   id: 'warden',
+  masteries: ['axe', 'mace', 'recurve-bow', 'short-sword'],
   name: 'Warden',
+  proficiencies: ['mail', 'quiver'],
+  stats: {
+    'attack-power': 150,
+    'power-damage-trap': 20
+  },
   tags: ['melee', 'ranged', 'defense'],
+  trays: ['energy-regen-all'],
   type: 'promotion',
-  version: '6.500'
+  version: '6.540'
 };

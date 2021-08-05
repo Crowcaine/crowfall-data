@@ -2,8 +2,9 @@ export default {
   class: 'druid',
   description:
     'This talent grants the [power:essence-boon] passive power.',
-  grants: ['power:essence-boon'],
   id: 'essence-boon',
   name: 'Essence Boon',
-  version: '6.530'
+  powers: ['essence-boon'],
+  type: 'talent',
+  version: '6.540'
 };

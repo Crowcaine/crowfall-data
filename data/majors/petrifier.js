@@ -1,14 +1,13 @@
 export default {
   description: '',
-  grants: [
-    'stat:attack-power:50',
-    'stat:movement-speed-damage:5',
-    'power:petrification-illusion',
-    'power:nothing-to-lose'
-  ],
   id: 'petrifier',
   name: 'Petrifier',
+  powers: ['petrification-illusion', 'nothing-to-lose'],
   requirements: ['domain:wind', 'domain:frost'],
+  stats: {
+    'attack-power': 50,
+    'movement-speed-damage': 5
+  },
   type: 'major',
-  version: '6.530'
+  version: '6.540'
 };

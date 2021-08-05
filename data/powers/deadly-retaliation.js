@@ -10,5 +10,5 @@ export default {
   name: 'Deadly Retaliation',
   range: 5,
   target: 'cone',
-  version: '6.530'
+  version: '6.540'
 };

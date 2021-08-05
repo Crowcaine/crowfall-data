@@ -1,14 +1,15 @@
 export default {
   class: 'knight',
   description: 'This talent grants the [power:onslaught] power.',
-  grants: [
-    'power:onslaught',
-    'stat:cooldown-long:30',
-    'stat:stamina:15',
-    'stat:max-energy:225',
-    'stat:movement-speed-mounted:15'
-  ],
   id: 'into-the-fray',
   name: 'Into the Fray',
-  version: '6.500'
+  powers: ['onslaught'],
+  stats: {
+    'cooldown-long': 30,
+    'max-energy': 225,
+    'movement-speed-mounted': 15,
+    stamina: 15
+  },
+  type: 'talent',
+  version: '6.540'
 };

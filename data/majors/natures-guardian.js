@@ -1,14 +1,13 @@
 export default {
   description: '',
-  grants: [
-    'stat:healing:3',
-    'stat:health:500',
-    'power:protection-stake',
-    'power:soothing-winds'
-  ],
   id: 'natures-guardian',
   name: "Nature's Guardian",
+  powers: ['protection-stake', 'soothing-winds'],
   requirements: ['class:druid'],
+  stats: {
+    healing: 3,
+    health: 500
+  },
   type: 'major',
-  version: '6.530'
+  version: '6.540'
 };

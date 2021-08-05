@@ -1,8 +1,8 @@
 export default {
   description: '',
-  grants: ['stat:basic-attack-damage:5', 'power:stay-in-the-fight'],
   id: 'stay-in-the-fight',
   name: 'Stay in the Fight',
+  powers: ['stay-in-the-fight'],
   requirements: [
     'class:champion',
     'class:cleric',
@@ -11,6 +11,9 @@ export default {
     'class:frostweaver',
     'class:myrmidon'
   ],
+  stats: {
+    'basic-attack-damage': 5
+  },
   type: 'minor',
-  version: '6.530'
+  version: '6.540'
 };

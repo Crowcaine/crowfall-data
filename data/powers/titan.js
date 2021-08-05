@@ -5,5 +5,5 @@ export default {
   id: 'titan',
   name: 'Titan',
   target: 'self',
-  version: '6.500'
+  version: '6.540'
 };

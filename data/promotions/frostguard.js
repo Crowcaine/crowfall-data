@@ -7,17 +7,16 @@ export default {
     'power:shatter-storm': 'has a chance to spawn frost armor on hit',
     'power:volatile-ice-weave': 'inflicts a knockdown'
   },
-  grants: [
-    'proficiency:mail',
-    'proficiency:plate',
-    'mastery:frostcaster',
-    'stat:health:1500',
-    'stat:max-mana:150',
-    'stat:ice-storage-cap:1'
-  ],
   id: 'frostguard',
+  masteries: ['frostcaster'],
   name: 'Frostguard',
+  proficiencies: ['mail', 'plate'],
+  stats: {
+    health: 1500,
+    'ice-storage-cap': 1,
+    'max-mana': 150
+  },
   tags: ['ranged', 'defense'],
   type: 'promotion',
-  version: '6.500'
+  version: '6.540'
 };

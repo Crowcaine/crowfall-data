@@ -11,5 +11,5 @@ export default {
   name: 'Skullcracker Stake',
   radius: 10,
   target: 'self',
-  version: '6.500'
+  version: '6.540'
 };

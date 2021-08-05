@@ -10,5 +10,5 @@ export default {
   radius: 7,
   range: 25,
   target: 'rectangle',
-  version: '6.500'
+  version: '6.540'
 };

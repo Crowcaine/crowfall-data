@@ -7,5 +7,5 @@ export default {
   name: 'Consonant Chains',
   range: 20,
   target: 'ray',
-  version: '6.530'
+  version: '6.540'
 };

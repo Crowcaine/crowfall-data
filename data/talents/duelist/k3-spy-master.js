@@ -1,14 +1,15 @@
 export default {
   class: 'duelist',
-  grants: [
-    'stat:critical-damage:5',
-    'stat:damage-stealth:30',
-    'stat:damage-piercing:10',
-    'stat:damage-piercing-cap:10',
-    'stat:damage-crushing:10',
-    'stat:damage-crushing-cap:10'
-  ],
   id: 'spy-master',
   name: 'Spy Master',
-  version: '6.500'
+  stats: {
+    'critical-damage': 5,
+    'damage-crushing': 10,
+    'damage-crushing-cap': 10,
+    'damage-piercing': 10,
+    'damage-piercing-cap': 10,
+    'damage-stealth': 30
+  },
+  type: 'talent',
+  version: '6.540'
 };

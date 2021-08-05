@@ -9,5 +9,5 @@ export default {
   name: 'Ricochet Shot',
   radius: 46,
   target: 'reticle',
-  version: '6.500'
+  version: '6.540'
 };

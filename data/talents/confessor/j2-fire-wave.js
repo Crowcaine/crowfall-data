@@ -1,8 +1,9 @@
 export default {
   class: 'confessor',
   description: 'This talent grants the [power:fire-wave] power.',
-  grants: ['power:fire-wave'],
   id: 'fire-wave',
   name: 'Fire Ware',
-  version: '6.500'
+  powers: ['fire-wave'],
+  type: 'talent',
+  version: '6.540'
 };

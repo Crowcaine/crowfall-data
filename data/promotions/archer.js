@@ -10,20 +10,16 @@ export default {
     'power:rapid-fire':
       'shoots up to 10 arrows and stacks a critical strike buff for each non-critical hit'
   },
-  grants: [
-    'mastery:recurve-bow',
-    'mastery:compound-bow',
-    'mastery:spellbound-bow',
-    'proficiency:quiver',
-    'proficiency:exotic-arrows',
-    'proficiency:elemental-arrows',
-    'stat:attack-power:100',
-    'stat:ranged-distance:31',
-    'stat:ranged-distance-cap:21'
-  ],
   id: 'archer',
+  masteries: ['compound-bow', 'recurve-bow', 'spellbound-bow'],
   name: 'Archer',
+  proficiencies: ['exotic-arrows', 'quiver', 'elemental-arrows'],
+  stats: {
+    'attack-power': 100,
+    'ranged-distance': 31,
+    'ranged-distance-cap': 21
+  },
   tags: ['ranged'],
   type: 'promotion',
-  version: '6.500'
+  version: '6.540'
 };

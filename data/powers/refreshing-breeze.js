@@ -9,5 +9,5 @@ export default {
   name: 'Refreshing Breeze',
   radius: 10,
   target: 'rectangle',
-  version: '6.400'
+  version: '6.540'
 };

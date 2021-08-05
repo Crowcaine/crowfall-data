@@ -1,14 +1,13 @@
 export default {
   description: '',
-  grants: [
-    'stat:critical-healing-chance:2',
-    'stat:healing:3',
-    'power:fountain-of-life',
-    'power:cleanse'
-  ],
   id: 'naiad',
   name: 'Naiad',
+  powers: ['fountain-of-life', 'cleanse'],
   requirements: ['race:wood-elf', 'domain:light', 'domain:dark'],
+  stats: {
+    'critical-healing-chance': 2,
+    healing: 3
+  },
   type: 'major',
-  version: '6.530'
+  version: '6.540'
 };

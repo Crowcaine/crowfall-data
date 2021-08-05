@@ -1,15 +1,16 @@
 export default {
   class: 'frostweaver',
   description: 'This talent grants the [power:shatter-storm] power.',
-  grants: [
-    'power:shatter-storm',
-    'stat:stamina:15',
-    'stat:max-mana:250',
-    'stat:mana-regen-in-combat:9',
-    'stat:mana-regen-out-combat:30',
-    'stat:resistance-ice:300'
-  ],
   id: 'freezing-reign',
   name: 'Freezing Reign',
-  version: '6.500'
+  powers: ['shatter-storm'],
+  stats: {
+    'mana-regen-in-combat': 9,
+    'mana-regen-out-combat': 30,
+    'max-mana': 250,
+    'resistance-ice': 300,
+    stamina: 15
+  },
+  type: 'talent',
+  version: '6.540'
 };

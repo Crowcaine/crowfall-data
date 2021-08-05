@@ -8,5 +8,5 @@ export default {
   id: 'blood-of-the-giant',
   name: 'Blood of the Giant',
   target: 'self',
-  version: '6.400'
+  version: '6.540'
 };

@@ -1,14 +1,13 @@
 export default {
   description: '',
-  grants: [
-    'stat:health:500',
-    'stat:stamina:10',
-    'power:free-action',
-    'power:purify'
-  ],
   id: 'freedom-fighter',
   name: 'Freedom Fighter',
+  powers: ['free-action', 'purify'],
   requirements: ['race:human', 'domain:nature', 'domain:wind'],
+  stats: {
+    health: 500,
+    stamina: 10
+  },
   type: 'major',
-  version: '6.530'
+  version: '6.540'
 };

@@ -2,8 +2,9 @@ export default {
   class: 'cleric',
   description:
     'This talent grants the [power:arbiter] passive power.',
-  grants: ['power:arbiter'],
   id: 'arbiter',
   name: 'Arbiter',
-  version: '6.500'
+  powers: ['arbiter'],
+  type: 'talent',
+  version: '6.540'
 };

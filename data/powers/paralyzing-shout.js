@@ -10,5 +10,5 @@ export default {
   name: 'Paralyzing Shout',
   range: 8,
   target: 'area',
-  version: '6.500'
+  version: '6.540'
 };

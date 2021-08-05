@@ -6,5 +6,5 @@ export default {
   id: 'yagas-gift',
   name: "Yaga's Gift",
   target: 'self',
-  version: '6.500'
+  version: '6.540'
 };

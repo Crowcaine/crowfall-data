@@ -7,5 +7,5 @@ export default {
   name: 'Flintlock Shot',
   range: 15,
   target: 'reticle',
-  version: '6.500'
+  version: '6.540'
 };

@@ -1,14 +1,12 @@
 export default {
   description: '',
-  grants: [
-    'stat:health:5300',
-    'proficiency:mail',
-    'proficiency:leather',
-    'proficiency:great-sword'
-  ],
   id: 'templar',
   name: 'Templar',
+  proficiencies: ['leather', 'mail', 'great-sword'],
   races: ['human', 'nethari', 'elken'],
+  stats: {
+    health: 5300
+  },
   talents: {
     a1: 'talent:holy-warrior-righteous-stand',
     b1: 'talent:indictment',
@@ -50,5 +48,6 @@ export default {
     l8: 'domain:protection',
     l9: 'domain:justice'
   },
-  version: '6.500'
+  type: 'class',
+  version: '6.540'
 };

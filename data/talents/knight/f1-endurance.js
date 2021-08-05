@@ -2,8 +2,9 @@ export default {
   class: 'knight',
   description:
     'This talent grants the [power:endurance] passive power.',
-  grants: ['power:endurance'],
   id: 'endurance',
   name: 'Endurance',
-  version: '6.500'
+  powers: ['endurance'],
+  type: 'talent',
+  version: '6.540'
 };

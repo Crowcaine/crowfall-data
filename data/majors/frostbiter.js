@@ -1,14 +1,13 @@
 export default {
   description: '',
-  grants: [
-    'stat:armor-penetration-ice:2',
-    'stat:damage-ice:2',
-    'power:decay',
-    'power:rotting-frost'
-  ],
   id: 'frostbiter',
   name: 'Frostbiter',
+  powers: ['decay', 'rotting-frost'],
   requirements: ['domain:frost'],
+  stats: {
+    'armor-penetration-ice': 2,
+    'damage-ice': 2
+  },
   type: 'major',
-  version: '6.530'
+  version: '6.540'
 };

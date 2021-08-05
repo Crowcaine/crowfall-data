@@ -8,5 +8,5 @@ export default {
   id: 'freezing-blast',
   name: 'Freezing Blast',
   target: 'rectangle',
-  version: '6.500'
+  version: '6.540'
 };

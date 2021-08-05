@@ -1,18 +1,17 @@
 export default {
   description: '',
-  grants: [
-    'stat:anti-critical-strike:3',
-    'stat:barrier:100',
-    'power:hunker-down',
-    'power:courage'
-  ],
   id: 'commander',
   name: 'Commander',
+  powers: ['hunker-down', 'courage'],
   requirements: [
     'race:high-elf',
     'domain:protection',
     'domain:music'
   ],
+  stats: {
+    'anti-critical-strike': 3,
+    barrier: 100
+  },
   type: 'major',
-  version: '6.530'
+  version: '6.540'
 };

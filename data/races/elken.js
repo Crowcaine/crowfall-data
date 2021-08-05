@@ -1,18 +1,21 @@
 export default {
-  grants: [
-    'stat:constitution:28',
-    'stat:dexterity:14',
-    'stat:intellect:10',
-    'stat:spirit:12',
-    'stat:strength:26',
-    'power:gestalt',
-    'power:head-butt',
-    'power:gaeas-tears',
-    'power:tannin-techniques',
-    'power:trailmaster',
-    'power:follow-through'
-  ],
   id: 'elken',
   name: 'Elken',
+  powers: [
+    'gaeas-tears',
+    'gestalt',
+    'head-butt',
+    'tannin-techniques',
+    'trailmaster',
+    'follow-through'
+  ],
+  stats: {
+    constitution: 28,
+    dexterity: 14,
+    intellect: 10,
+    spirit: 12,
+    strength: 26
+  },
+  type: 'race',
   version: '6.540'
 };

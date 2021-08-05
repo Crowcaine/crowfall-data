@@ -1,14 +1,13 @@
 export default {
   description: '',
-  grants: [
-    'stat:blocking-big-hit-cost-reduction:8',
-    'stat:stamina:10',
-    'power:get-behind-me',
-    'power:molon-labe'
-  ],
   id: 'stalwart',
   name: 'Stalwart',
+  powers: ['get-behind-me', 'molon-labe'],
   requirements: ['class:cleric', 'class:knight'],
+  stats: {
+    'blocking-big-hit-cost-reduction': 8,
+    stamina: 10
+  },
   type: 'major',
-  version: '6.530'
+  version: '6.540'
 };

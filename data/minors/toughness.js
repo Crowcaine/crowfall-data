@@ -1,8 +1,8 @@
 export default {
   description: '',
-  grants: ['stat:resistance-physical:300', 'power:toughness'],
   id: 'toughness',
   name: 'Toughness',
+  powers: ['toughness'],
   requirements: [
     'class:templar',
     'race:centaur',
@@ -10,6 +10,9 @@ export default {
     'domain:light',
     'domain:music'
   ],
+  stats: {
+    'resistance-physical': 300
+  },
   type: 'minor',
-  version: '6.530'
+  version: '6.540'
 };

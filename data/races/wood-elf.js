@@ -1,17 +1,20 @@
 export default {
-  grants: [
-    'stat:constitution:21',
-    'stat:dexterity:32',
-    'stat:intellect:11',
-    'stat:spirit:20',
-    'stat:strength:16',
-    'power:camouflage',
-    'power:shaper-of-wood',
-    'power:reflection-of-nature',
-    'power:nature-resistance',
-    'power:trailblazer'
-  ],
   id: 'wood-elf',
   name: 'Wood-Elf',
+  powers: [
+    'camouflage',
+    'nature-resistance',
+    'reflection-of-nature',
+    'shaper-of-wood',
+    'trailblazer'
+  ],
+  stats: {
+    constitution: 21,
+    dexterity: 32,
+    intellect: 11,
+    spirit: 20,
+    strength: 16
+  },
+  type: 'race',
   version: '6.540'
 };

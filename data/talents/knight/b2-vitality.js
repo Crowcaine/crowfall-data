@@ -1,13 +1,14 @@
 export default {
   class: 'knight',
-  grants: [
-    'stat:strength:30',
-    'stat:dexterity:5',
-    'stat:constitution:10',
-    'stat:critical-damage:5',
-    'stat:health:125'
-  ],
   id: 'vitality',
   name: 'Vitality',
-  version: '6.500'
+  stats: {
+    constitution: 10,
+    'critical-damage': 5,
+    dexterity: 5,
+    health: 125,
+    strength: 30
+  },
+  type: 'talent',
+  version: '6.540'
 };

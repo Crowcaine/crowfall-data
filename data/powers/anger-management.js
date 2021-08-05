@@ -6,5 +6,5 @@ export default {
   id: 'anger-management',
   name: 'Anger Management',
   target: 'self',
-  version: '6.500'
+  version: '6.540'
 };

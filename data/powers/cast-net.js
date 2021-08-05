@@ -12,5 +12,5 @@ export default {
   name: 'Cast Net',
   range: 30,
   target: 'reticle',
-  version: '6.500'
+  version: '6.540'
 };

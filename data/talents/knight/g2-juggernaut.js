@@ -2,8 +2,9 @@ export default {
   class: 'knight',
   description:
     'This talent grants the [power:juggernaut] passive power.',
-  grants: ['power:juggernaut'],
   id: 'juggernaut',
   name: 'Juggernaut',
-  version: '6.500'
+  powers: ['juggernaut'],
+  type: 'talent',
+  version: '6.540'
 };

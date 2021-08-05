@@ -6,5 +6,5 @@ export default {
   name: 'Repair Siege Engine',
   range: 50,
   target: 'reticle',
-  version: '6.530'
+  version: '6.540'
 };

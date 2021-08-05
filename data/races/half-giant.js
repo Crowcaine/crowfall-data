@@ -1,18 +1,21 @@
 export default {
-  grants: [
-    'stat:constitution:24',
-    'stat:dexterity:10',
-    'stat:intellect:12',
-    'stat:spirit:14',
-    'stat:strength:40',
-    'power:backhand',
-    'power:blood-of-the-giant',
-    'power:maken-me-mad',
-    'power:gigantism',
-    'power:sticks-and-stones',
-    'power:brawny'
-  ],
   id: 'half-giant',
   name: 'Half-Giant',
-  version: '6.400'
+  powers: [
+    'backhand',
+    'blood-of-the-giant',
+    'gigantism',
+    'maken-me-mad',
+    'sticks-and-stones',
+    'brawny'
+  ],
+  stats: {
+    constitution: 24,
+    dexterity: 10,
+    intellect: 12,
+    spirit: 14,
+    strength: 40
+  },
+  type: 'race',
+  version: '6.540'
 };

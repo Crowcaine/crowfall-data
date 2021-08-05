@@ -1,14 +1,15 @@
 export default {
   class: 'frostweaver',
-  grants: [
-    'stat:intellect:10',
-    'stat:spirit:20',
-    'stat:constitution:40',
-    'stat:resistance-all:300',
-    'stat:personal-damage-modifier:5',
-    'stat:health:250'
-  ],
   id: 'solidify',
   name: 'Solidify',
-  version: '6.500'
+  stats: {
+    constitution: 40,
+    health: 250,
+    intellect: 10,
+    'personal-damage-modifier': 5,
+    'resistance-all': 300,
+    spirit: 20
+  },
+  type: 'talent',
+  version: '6.540'
 };

@@ -7,5 +7,5 @@ export default {
   name: 'Cheap Shots',
   range: 15,
   target: 'ray',
-  version: '6.500'
+  version: '6.540'
 };

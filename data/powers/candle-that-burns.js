@@ -8,5 +8,5 @@ export default {
   id: 'candle-that-burns',
   name: 'Candle that Burns',
   target: 'self',
-  version: '6.530'
+  version: '6.540'
 };

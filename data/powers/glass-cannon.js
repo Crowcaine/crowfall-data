@@ -5,5 +5,5 @@ export default {
   id: 'glass-cannon',
   name: 'Glass Cannon',
   target: 'self',
-  version: '6.530'
+  version: '6.540'
 };

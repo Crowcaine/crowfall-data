@@ -10,5 +10,5 @@ export default {
   name: 'Faerie Flames',
   range: 35,
   target: 'reticle',
-  version: '6.530'
+  version: '6.540'
 };

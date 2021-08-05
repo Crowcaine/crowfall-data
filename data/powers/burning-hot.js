@@ -5,5 +5,5 @@ export default {
   id: 'burning-hot',
   name: 'Burning Hot',
   target: 'self',
-  version: '6.500'
+  version: '6.540'
 };

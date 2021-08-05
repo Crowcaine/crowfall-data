@@ -2,8 +2,9 @@ export default {
   class: 'champion',
   description:
     'This talent grants the [power:demoralizing-shout] power.',
-  grants: ['power:demoralizing-shout'],
   id: 'demoralizing-shout',
   name: 'Demoralizing Shout',
-  version: '6.500'
+  powers: ['demoralizing-shout'],
+  type: 'talent',
+  version: '6.540'
 };

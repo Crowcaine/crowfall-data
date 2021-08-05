@@ -8,5 +8,5 @@ export default {
   name: 'Blinding Light',
   radius: 5,
   target: 'area',
-  version: '6.500'
+  version: '6.540'
 };

@@ -9,5 +9,5 @@ export default {
   name: 'Righteous Damnation',
   range: 25,
   target: 'reticle',
-  version: '6.500'
+  version: '6.540'
 };

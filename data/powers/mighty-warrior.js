@@ -9,5 +9,5 @@ export default {
   id: 'mighty-warrior',
   name: 'Mighty Warrior',
   target: 'self',
-  version: '6.500'
+  version: '6.540'
 };

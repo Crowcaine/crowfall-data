@@ -1,8 +1,9 @@
 export default {
   class: 'druid',
   description: 'This talent grants the [power:healing-rain] power.',
-  grants: ['power:healing-rain'],
   id: 'healing-rain',
   name: 'Healing Rain',
-  version: '6.530'
+  powers: ['healing-rain'],
+  type: 'talent',
+  version: '6.540'
 };

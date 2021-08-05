@@ -1,8 +1,9 @@
 export default {
   class: 'duelist',
   description: 'This talent grants the [power:dynamite] power.',
-  grants: ['power:dynamite'],
   id: 'dynamite',
   name: 'Dynamite',
-  version: '6.500'
+  powers: ['dynamite'],
+  type: 'talent',
+  version: '6.540'
 };

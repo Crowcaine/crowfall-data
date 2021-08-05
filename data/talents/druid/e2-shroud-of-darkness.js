@@ -2,8 +2,9 @@ export default {
   class: 'druid',
   description:
     'This talent grants the [power:shroud-of-darkness] power.',
-  grants: ['power:shroud-of-darkness'],
   id: 'shroud-of-darkness',
   name: 'Shroud of Darkness',
-  version: '6.530'
+  powers: ['shroud-of-darkness'],
+  type: 'talent',
+  version: '6.540'
 };

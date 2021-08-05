@@ -1,14 +1,13 @@
 export default {
   description: '',
-  grants: [
-    'stat:damage-electricity:2',
-    'stat:resistance-organic:300',
-    'power:kinetic-boost',
-    'power:root-stake'
-  ],
   id: 'kinetic-bloomer',
   name: 'Kinetic Bloomer',
+  powers: ['kinetic-boost', 'root-stake'],
   requirements: ['class:druid'],
+  stats: {
+    'damage-electricity': 2,
+    'resistance-organic': 300
+  },
   type: 'major',
-  version: '6.530'
+  version: '6.540'
 };

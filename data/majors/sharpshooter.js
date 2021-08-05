@@ -1,21 +1,15 @@
 export default {
   description: '',
-  grants: [
-    'stat:movement-speed-damage:5',
-    'stat:ranged-distance:5',
-    'power:binding-arrows',
-    'power:all-clear',
-    'proficiency:arrows',
-    'proficiency:compound-bow',
-    'proficiency:exotic-arrows',
-    'proficiency:quiver',
-    'proficiency:recurve-bow',
-    'slot:ranged',
-    'slot:ammo',
-    'tray:ranged'
-  ],
   id: 'sharpshooter',
   name: 'Sharpshooter',
+  powers: ['binding-arrows', 'all-clear'],
+  proficiencies: [
+    'arrows',
+    'compound-bow',
+    'exotic-arrows',
+    'quiver',
+    'recurve-bow'
+  ],
   requirements: [
     'class:assassin',
     'class:champion',
@@ -23,6 +17,12 @@ export default {
     'class:myrmidon',
     'class:ranger'
   ],
+  slots: ['ranged', 'ammo'],
+  stats: {
+    'movement-speed-damage': 5,
+    'ranged-distance': 5
+  },
+  trays: ['ranged'],
   type: 'major',
   version: '6.540'
 };

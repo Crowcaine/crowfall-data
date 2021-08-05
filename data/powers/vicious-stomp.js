@@ -14,5 +14,5 @@ export default {
   name: 'Vicious Stomp',
   range: 5,
   target: 'reticle',
-  version: '6.500'
+  version: '6.540'
 };

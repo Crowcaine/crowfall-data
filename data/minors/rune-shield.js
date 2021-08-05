@@ -1,13 +1,16 @@
 export default {
   description: '',
-  grants: ['stat:support-power:100', 'power:rune-shield'],
   id: 'rune-shield',
   name: 'Rune Shield',
+  powers: ['rune-shield'],
   requirements: [
     'class:frostweaver',
     'domain:protection',
     'domain:justice'
   ],
+  stats: {
+    'support-power': 100
+  },
   type: 'minor',
-  version: '6.530'
+  version: '6.540'
 };

@@ -6,5 +6,5 @@ export default {
   id: 'oath-of-will',
   name: 'Oath of Will',
   target: 'self',
-  version: '6.500'
+  version: '6.540'
 };

@@ -1,8 +1,13 @@
 export default {
   class: 'duelist',
   description: 'This talent grants the [power:keen-guard] power.',
-  grants: ['power:keen-guard', 'stat:stealth:25', 'stat:stamina:15'],
   id: 'keen-guard',
   name: 'Keen Guard',
-  version: '6.500'
+  powers: ['keen-guard'],
+  stats: {
+    stamina: 15,
+    stealth: 25
+  },
+  type: 'talent',
+  version: '6.540'
 };

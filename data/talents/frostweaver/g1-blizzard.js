@@ -2,8 +2,9 @@ export default {
   class: 'frostweaver',
   description:
     'This talent grants the [power:blizzard] passive power.',
-  grants: ['power:blizzard'],
   id: 'blizzard',
   name: 'Blizzard',
-  version: '6.500'
+  powers: ['blizzard'],
+  type: 'talent',
+  version: '6.540'
 };

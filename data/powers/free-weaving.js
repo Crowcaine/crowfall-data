@@ -13,5 +13,5 @@ export default {
   id: 'free-weaving',
   name: 'Free Weaving',
   target: 'self',
-  version: '6.400'
+  version: '6.540'
 };

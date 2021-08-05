@@ -1,14 +1,12 @@
 export default {
   description: '',
-  grants: [
-    'stat:health:500',
-    'stat:resistance-physical:300',
-    'power:shield-siege-engine',
-    'power:bolster-siege-engine',
-    'power:repair-siege-engine'
-  ],
   id: 'siege-engineer',
   name: 'Siege Engineer',
+  powers: [
+    'bolster-siege-engine',
+    'shield-siege-engine',
+    'repair-siege-engine'
+  ],
   requirements: [
     'class:assassin',
     'class:champion',
@@ -22,6 +20,10 @@ export default {
     'class:ranger',
     'class:templar'
   ],
+  stats: {
+    health: 500,
+    'resistance-physical': 300
+  },
   type: 'major',
-  version: '6.530'
+  version: '6.540'
 };

@@ -1,14 +1,13 @@
 export default {
   description: '',
-  grants: [
-    'stat:attack-power:50',
-    'stat:ranged-distance:5',
-    'power:shrivel',
-    'power:soul-steal'
-  ],
   id: 'corrupted-soul',
   name: 'Corrupted Soul',
+  powers: ['shrivel', 'soul-steal'],
   requirements: ['domain:dark'],
+  stats: {
+    'attack-power': 50,
+    'ranged-distance': 5
+  },
   type: 'major',
-  version: '6.530'
+  version: '6.540'
 };

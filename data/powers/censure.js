@@ -7,5 +7,5 @@ export default {
   name: 'Censure',
   range: 20,
   target: 'reticle',
-  version: '6.500'
+  version: '6.540'
 };

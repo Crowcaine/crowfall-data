@@ -1,8 +1,8 @@
 export default {
   description: '',
-  grants: ['stat:attack-power:50', 'power:weapon-finesse'],
   id: 'weapon-finesse',
   name: 'Weapon Finesse',
+  powers: ['weapon-finesse'],
   requirements: [
     'class:confessor',
     'class:myrmidon',
@@ -11,6 +11,9 @@ export default {
     'domain:storm',
     'domain:protection'
   ],
+  stats: {
+    'attack-power': 50
+  },
   type: 'minor',
-  version: '6.530'
+  version: '6.540'
 };

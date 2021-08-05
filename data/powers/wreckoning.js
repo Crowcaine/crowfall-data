@@ -10,5 +10,5 @@ export default {
   name: 'Wreckoning',
   radius: 12,
   target: 'area',
-  version: '6.530'
+  version: '6.540'
 };

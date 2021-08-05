@@ -10,5 +10,5 @@ export default {
   name: 'Warp Weapons',
   range: 15,
   target: 'ray',
-  version: '6.530'
+  version: '6.540'
 };

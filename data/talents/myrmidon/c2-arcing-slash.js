@@ -1,8 +1,9 @@
 export default {
   class: 'myrmidon',
   description: 'This talent grants the [power:arcing-slash] power.',
-  grants: ['power:arcing-slash'],
   id: 'arcing-slash',
   name: 'Arcing Slash',
-  version: '6.500'
+  powers: ['arcing-slash'],
+  type: 'talent',
+  version: '6.540'
 };

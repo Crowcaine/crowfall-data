@@ -5,5 +5,5 @@ export default {
   id: 'cold-to-the-touch',
   name: 'Cold to the Touch',
   target: 'self',
-  version: '6.500'
+  version: '6.540'
 };

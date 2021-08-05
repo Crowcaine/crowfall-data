@@ -11,5 +11,5 @@ export default {
   name: 'Whirling Pain',
   radius: 5,
   target: 'sphere',
-  version: '6.500'
+  version: '6.540'
 };

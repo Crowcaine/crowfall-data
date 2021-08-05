@@ -9,5 +9,5 @@ export default {
   name: 'Rapid Shots',
   range: 15,
   target: 'ray',
-  version: '6.500'
+  version: '6.540'
 };

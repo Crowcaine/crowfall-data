@@ -1,14 +1,13 @@
 export default {
   description: '',
-  grants: [
-    'stat:anti-critical-strike:3',
-    'stat:resistance-elemental:300',
-    'power:neutralize-elements',
-    'power:supreme-element'
-  ],
   id: 'elementalist',
   name: 'Elementalist',
+  powers: ['neutralize-elements', 'supreme-element'],
   requirements: ['domain:fire', 'domain:frost', 'domain:music'],
+  stats: {
+    'anti-critical-strike': 3,
+    'resistance-elemental': 300
+  },
   type: 'major',
-  version: '6.530'
+  version: '6.540'
 };

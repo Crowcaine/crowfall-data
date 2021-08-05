@@ -5,5 +5,5 @@ export default {
   id: 'draining-blades',
   name: 'Draining Blades',
   target: 'self',
-  version: '6.500'
+  version: '6.540'
 };

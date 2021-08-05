@@ -11,5 +11,5 @@ export default {
   name: 'Water Spirits',
   radius: 7,
   target: 'area',
-  version: '6.530'
+  version: '6.540'
 };

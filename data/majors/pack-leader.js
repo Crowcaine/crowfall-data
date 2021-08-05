@@ -1,14 +1,13 @@
 export default {
   description: '',
-  grants: [
-    'stat:critical-healing-chance:2',
-    'stat:healing:3',
-    'power:form-life',
-    'power:pack-avatar'
-  ],
   id: 'pack-leader',
   name: 'Pack Leader',
+  powers: ['form-life', 'pack-avatar'],
   requirements: ['race:half-elf', 'domain:light', 'domain:nature'],
+  stats: {
+    'critical-healing-chance': 2,
+    healing: 3
+  },
   type: 'major',
-  version: '6.530'
+  version: '6.540'
 };

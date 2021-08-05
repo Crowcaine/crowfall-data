@@ -1,8 +1,9 @@
 export default {
   class: 'duelist',
   description: 'This talent grants the [power:cheap-shots] power.',
-  grants: ['power:cheap-shots'],
   id: 'cheap-shots',
   name: 'Cheap Shots',
-  version: '6.500'
+  powers: ['cheap-shots'],
+  type: 'talent',
+  version: '6.540'
 };

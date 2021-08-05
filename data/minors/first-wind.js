@@ -1,9 +1,12 @@
 export default {
   description: '',
-  grants: ['stat:health:500', 'power:first-wind'],
   id: 'first-wind',
   name: 'First Wind',
+  powers: ['first-wind'],
   requirements: ['domain:light', 'domain:storm', 'domain:death'],
+  stats: {
+    health: 500
+  },
   type: 'minor',
-  version: '6.530'
+  version: '6.540'
 };

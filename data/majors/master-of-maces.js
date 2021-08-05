@@ -1,14 +1,13 @@
 export default {
   description: '',
-  grants: [
-    'stat:armor-penetration-crushing:2',
-    'stat:damage-crushing:2',
-    'power:skullcracker',
-    'power:will-of-the-stoneborn'
-  ],
   id: 'master-of-maces',
   name: 'Master of Maces',
+  powers: ['skullcracker', 'will-of-the-stoneborn'],
   requirements: ['class:cleric', 'class:knight', 'class:myrmidon'],
+  stats: {
+    'armor-penetration-crushing': 2,
+    'damage-crushing': 2
+  },
   type: 'major',
-  version: '6.530'
+  version: '6.540'
 };

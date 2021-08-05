@@ -1,15 +1,16 @@
 export default {
   class: 'cleric',
-  grants: [
-    'stat:intellect:10',
-    'stat:spirit:40',
-    'stat:constitution:20',
-    'stat:critical-healing-chance:5',
-    'stat:anti-critical-strike:6',
-    'stat:resistance-all:300',
-    'stat:max-mana:300'
-  ],
   id: 'empathy',
   name: 'Empathy',
-  version: '6.500'
+  stats: {
+    'anti-critical-strike': 6,
+    constitution: 20,
+    'critical-healing-chance': 5,
+    intellect: 10,
+    'max-mana': 300,
+    'resistance-all': 300,
+    spirit: 40
+  },
+  type: 'talent',
+  version: '6.540'
 };

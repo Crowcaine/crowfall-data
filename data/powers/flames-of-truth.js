@@ -13,5 +13,5 @@ export default {
   name: 'Flames of Truth',
   range: 25,
   target: 'sphere',
-  version: '6.400'
+  version: '6.540'
 };

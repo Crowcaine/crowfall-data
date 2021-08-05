@@ -5,5 +5,5 @@ export default {
   id: 'resourceful-tactics',
   name: 'Resourceful Tactics',
   target: 'self',
-  version: '6.500'
+  version: '6.540'
 };

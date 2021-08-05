@@ -9,5 +9,5 @@ export default {
   id: 'in-the-fray',
   name: 'In the Fray',
   target: 'self',
-  version: '6.530'
+  version: '6.540'
 };

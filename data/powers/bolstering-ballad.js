@@ -7,5 +7,5 @@ export default {
   name: 'Bolstering Ballad',
   radius: 50,
   target: 'self',
-  version: '6.530'
+  version: '6.540'
 };

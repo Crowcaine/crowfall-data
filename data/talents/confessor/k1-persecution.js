@@ -1,12 +1,13 @@
 export default {
   class: 'confessor',
-  grants: [
-    'stat:critical-strike:5',
-    'stat:critical-damage:5',
-    'stat:damage-fire:13',
-    'stat:damage-fire-cap:10'
-  ],
   id: 'persecution',
   name: 'Persecution',
-  version: '6.500'
+  stats: {
+    'critical-damage': 5,
+    'critical-strike': 5,
+    'damage-fire': 13,
+    'damage-fire-cap': 10
+  },
+  type: 'talent',
+  version: '6.540'
 };

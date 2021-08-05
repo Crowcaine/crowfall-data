@@ -14,5 +14,5 @@ export default {
   id: 'hellfire-shield',
   name: 'Hellfire Shield',
   target: 'self',
-  version: '6.400'
+  version: '6.540'
 };

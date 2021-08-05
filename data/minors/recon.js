@@ -1,9 +1,12 @@
 export default {
   description: '',
-  grants: ['stat:movement-speed-stealth:5', 'power:recon'],
   id: 'recon',
   name: 'Recon',
+  powers: ['recon'],
   requirements: ['domain:shadow', 'domain:dark'],
+  stats: {
+    'movement-speed-stealth': 5
+  },
   type: 'minor',
-  version: '6.530'
+  version: '6.540'
 };

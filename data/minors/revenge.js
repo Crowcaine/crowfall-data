@@ -1,9 +1,12 @@
 export default {
   description: '',
-  grants: ['stat:health:500', 'power:revenge'],
   id: 'revenge',
   name: 'Revenge',
+  powers: ['revenge'],
   requirements: ['domain:light', 'domain:frost'],
+  stats: {
+    health: 500
+  },
   type: 'minor',
-  version: '6.530'
+  version: '6.540'
 };

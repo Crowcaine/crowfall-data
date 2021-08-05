@@ -7,5 +7,5 @@ export default {
   id: 'ritual-sacrifice',
   name: 'Ritual Sacrifice',
   target: 'self',
-  version: '6.530'
+  version: '6.540'
 };

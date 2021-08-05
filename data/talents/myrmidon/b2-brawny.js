@@ -1,13 +1,14 @@
 export default {
   class: 'myrmidon',
-  grants: [
-    'stat:strength:30',
-    'stat:dexterity:5',
-    'stat:constitution:10',
-    'stat:personal-healing-modifier:5',
-    'stat:health:125'
-  ],
   id: 'brawny',
   name: 'Brawny',
-  version: '6.500'
+  stats: {
+    constitution: 10,
+    dexterity: 5,
+    health: 125,
+    'personal-healing-modifier': 5,
+    strength: 30
+  },
+  type: 'talent',
+  version: '6.540'
 };

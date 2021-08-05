@@ -12,5 +12,5 @@ export default {
   maxTargets: 5,
   name: 'Shield Bash',
   target: 'sphere',
-  version: '6.400'
+  version: '6.540'
 };

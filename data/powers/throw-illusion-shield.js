@@ -10,5 +10,5 @@ export default {
   name: 'Throw Illusion Shield',
   range: 15,
   target: 'cone',
-  version: '6.530'
+  version: '6.540'
 };

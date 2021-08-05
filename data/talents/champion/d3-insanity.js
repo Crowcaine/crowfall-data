@@ -1,8 +1,9 @@
 export default {
   class: 'champion',
   description: 'This talent grants the [power:insanity] power.',
-  grants: ['power:insanity'],
   id: 'insanity',
   name: 'Insanity',
-  version: '6.500'
+  powers: ['insanity'],
+  type: 'talent',
+  version: '6.540'
 };

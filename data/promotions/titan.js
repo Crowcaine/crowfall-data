@@ -10,10 +10,13 @@ export default {
     'power:whirlwind':
       'causes increased damage and grants a stacking buff per hit increasing fury regeneration'
   },
-  grants: ['mastery:axe', 'mastery:mace', 'stat:attack-power:200'],
   id: 'titan',
+  masteries: ['axe', 'mace'],
   name: 'Titan',
+  stats: {
+    'attack-power': 200
+  },
   tags: ['melee'],
   type: 'promotion',
-  version: '6.500'
+  version: '6.540'
 };

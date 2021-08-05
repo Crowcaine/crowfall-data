@@ -2,8 +2,9 @@ export default {
   class: 'knight',
   description:
     'This talent grants the [power:redirected-strikes] power.',
-  grants: ['power:redirected-strikes'],
   id: 'redirected-strikes',
   name: 'Redirected Strikes',
-  version: '6.500'
+  powers: ['redirected-strikes'],
+  type: 'talent',
+  version: '6.540'
 };

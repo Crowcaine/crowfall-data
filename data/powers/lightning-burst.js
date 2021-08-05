@@ -12,5 +12,5 @@ export default {
   id: 'lightning-burst',
   name: 'Lightning Burst',
   target: 'ray',
-  version: '6.530'
+  version: '6.540'
 };

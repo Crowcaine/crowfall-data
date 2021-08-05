@@ -6,5 +6,5 @@ export default {
   id: 'fly-you-fools',
   name: 'Fly You Fools',
   target: 'self',
-  version: '6.530'
+  version: '6.540'
 };

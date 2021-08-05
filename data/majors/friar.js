@@ -1,19 +1,18 @@
 export default {
   description: '',
-  grants: [
-    'stat:healing:3',
-    'stat:support-power:100',
-    'power:chain-heal',
-    'power:fortuitous-blessings'
-  ],
   id: 'friar',
   name: 'Friar',
+  powers: ['chain-heal', 'fortuitous-blessings'],
   requirements: [
     'class:frostweaver',
     'domain:light',
     'domain:fire',
     'domain:justice'
   ],
+  stats: {
+    healing: 3,
+    'support-power': 100
+  },
   type: 'major',
-  version: '6.530'
+  version: '6.540'
 };

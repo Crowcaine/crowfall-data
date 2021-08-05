@@ -1,14 +1,13 @@
 export default {
   description: '',
-  grants: [
-    'stat:critical-strike:2',
-    'stat:resistance-physical:300',
-    'power:invincible-warrior',
-    'power:gash'
-  ],
   id: 'reaver',
   name: 'Reaver',
+  powers: ['invincible-warrior', 'gash'],
   requirements: ['class:champion'],
+  stats: {
+    'critical-strike': 2,
+    'resistance-physical': 300
+  },
   type: 'major',
   version: '6.540'
 };

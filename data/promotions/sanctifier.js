@@ -10,16 +10,15 @@ export default {
     'power:hellfire-aura':
       'has increased damage and hits up 7 targets'
   },
-  grants: [
-    'proficiency:mail',
-    'proficiency:plate',
-    'mastery:book',
-    'stat:health:750',
-    'stat:max-mana:450'
-  ],
   id: 'sanctifier',
+  masteries: ['book'],
   name: 'Sanctifier',
+  proficiencies: ['mail', 'plate'],
+  stats: {
+    health: 750,
+    'max-mana': 450
+  },
   tags: ['melee', 'defense'],
   type: 'promotion',
-  version: '6.500'
+  version: '6.540'
 };

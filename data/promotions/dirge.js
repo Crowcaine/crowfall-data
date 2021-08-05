@@ -10,18 +10,16 @@ export default {
     'power:peppershot-box':
       'applies root and reduces enemy piercing when activated with five pips'
   },
-  grants: [
-    'proficiency:mail',
-    'proficiency:plate',
-    'mastery:pistol',
-    'mastery:rapier',
-    'stat:attack-power:150',
-    'stat:health:1200',
-    'stat:hard-control-intensity:21'
-  ],
   id: 'dirge',
+  masteries: ['pistol', 'rapier'],
   name: 'Dirge',
+  proficiencies: ['mail', 'plate'],
+  stats: {
+    'attack-power': 150,
+    'hard-control-intensity': 21,
+    health: 1200
+  },
   tags: ['melee', 'control'],
   type: 'promotion',
-  version: '6.500'
+  version: '6.540'
 };

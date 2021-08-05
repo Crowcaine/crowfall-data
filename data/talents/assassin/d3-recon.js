@@ -1,8 +1,9 @@
 export default {
   class: 'assassin',
   description: 'This talent grants the [power:recon] power.',
-  grants: ['power:recon'],
   id: 'recon',
   name: 'Recon',
-  version: '6.500'
+  powers: ['recon'],
+  type: 'talent',
+  version: '6.540'
 };

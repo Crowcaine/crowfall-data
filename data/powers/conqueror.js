@@ -5,5 +5,5 @@ export default {
   id: 'conqueror',
   name: 'Conqueror',
   target: 'self',
-  version: '6.500'
+  version: '6.540'
 };

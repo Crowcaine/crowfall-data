@@ -2,8 +2,9 @@ export default {
   class: 'assassin',
   description:
     'This talent grants the [power:dagger-storm] passive power.',
-  grants: ['power:dagger-storm'],
   id: 'dagger-storm',
   name: 'Dagger Storm',
-  version: '6.500'
+  powers: ['dagger-storm'],
+  type: 'talent',
+  version: '6.540'
 };

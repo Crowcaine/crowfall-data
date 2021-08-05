@@ -11,5 +11,5 @@ export default {
   name: 'Skullcracker',
   range: 5,
   target: 'cone',
-  version: '6.530'
+  version: '6.540'
 };

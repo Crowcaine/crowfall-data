@@ -1,14 +1,13 @@
 export default {
   description: '',
-  grants: [
-    'stat:armor-penetration-electricity:2',
-    'stat:damage-electricity:2',
-    'power:banner-of-storms',
-    'power:haunt'
-  ],
   id: 'blitzer',
   name: 'Blitzer',
+  powers: ['banner-of-storms', 'haunt'],
   requirements: ['class:druid', 'domain:storm'],
+  stats: {
+    'armor-penetration-electricity': 2,
+    'damage-electricity': 2
+  },
   type: 'major',
-  version: '6.530'
+  version: '6.540'
 };

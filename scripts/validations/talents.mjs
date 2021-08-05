@@ -55,49 +55,19 @@ let writeDir = './data/talents';
         );
       }
 
-      if (!fileContent.grants) {
-        log('error', `grants is missing from ${expectedFile}`);
-        return;
-      }
+      const hasPowers = fileContent.powers?.length;
 
-      const hasPowerGrant = fileContent.grants.some((g) =>
-        g.startsWith('power')
-      );
-
-      if (hasPowerGrant && !fileContent.description) {
+      if (hasPowers && !fileContent.description) {
         log(
           'error',
-          `grants found, but no description on ${expectedFile}`
+          `powers found, but no description on ${expectedFile}`
         );
         return;
       }
 
-      fileContent.grants.forEach((s) => {
-        const prefix = s.split(':')[0];
-        const invalid =
-          [
-            'stat',
-            'power',
-            'proficiency',
-            'equipment',
-            'slot'
-          ].indexOf(prefix) === -1;
+      const allStats = fileContent.stats || {};
 
-        if (invalid) {
-          log(
-            'error',
-            `invalid grant ${prefix} prefix on ${expectedFile}`
-          );
-        }
-      });
-
-      const allStats = fileContent.grants.filter((g) =>
-        g.startsWith('stat')
-      );
-
-      allStats.forEach((s) => {
-        const stat = s.split(':')[1];
-        const value = s.split(':')[2];
+      Object.entries(allStats).forEach(([key, value]) => {
 
         if (!value) {
           log(
@@ -105,15 +75,10 @@ let writeDir = './data/talents';
             `stat ${stat} missing value on ${expectedFile}`
           );
         }
-
-        if (stat === 'critical-heal-chance') {
-          console.log(stat);
-        }
-
-        if (!stats[stat]) {
+        if (!stats[key]) {
           log(
             'error',
-            `stat ${stat} in ${expectedFile} does not exist`
+            `stat ${key} in ${expectedFile} does not exist`
           );
         }
       });

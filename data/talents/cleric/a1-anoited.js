@@ -2,8 +2,9 @@ export default {
   class: 'cleric',
   description:
     'This talent grants the [power:flash-of-light] and [power:holy-symbol] powers.',
-  grants: ['power:flash-of-light', 'power:holy-symbol'],
   id: 'anoited',
   name: 'Anoited',
-  version: '6.500'
+  powers: ['flash-of-light', 'holy-symbol'],
+  type: 'talent',
+  version: '6.540'
 };

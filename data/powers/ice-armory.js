@@ -10,5 +10,5 @@ export default {
   radius: 2,
   range: 30,
   target: 'reticle',
-  version: '6.400'
+  version: '6.540'
 };

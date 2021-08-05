@@ -5,5 +5,5 @@ export default {
   id: 'endurance',
   name: 'Endurance',
   target: 'self',
-  version: '6.500'
+  version: '6.540'
 };

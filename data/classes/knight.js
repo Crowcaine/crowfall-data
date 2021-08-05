@@ -1,19 +1,18 @@
 export default {
   description: '',
-  grants: [
-    'stat:health:5300',
-    'proficiency:mail',
-    'proficiency:leather',
-    'proficiency:axe',
-    'proficiency:buckler',
-    'proficiency:long-sword',
-    'proficiency:mace',
-    'proficiency:medium-shield',
-    'proficiency:short-shield',
-    'power:chain-attack'
-  ],
   id: 'knight',
   name: 'Knight',
+  powers: ['chain-attack'],
+  proficiencies: [
+    'axe',
+    'buckler',
+    'leather',
+    'long-sword',
+    'mace',
+    'mail',
+    'medium-shield',
+    'short-shield'
+  ],
   races: [
     'centaur',
     'elken',
@@ -23,6 +22,9 @@ export default {
     'human',
     'stoneborn'
   ],
+  stats: {
+    health: 5300
+  },
   talents: {
     a1: 'talent:board-and-board',
     b1: 'talent:martial-weaponry',
@@ -64,5 +66,6 @@ export default {
     l8: 'domain:justice',
     l9: 'domain:nature'
   },
-  version: '6.500'
+  type: 'class',
+  version: '6.540'
 };

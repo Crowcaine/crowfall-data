@@ -1,14 +1,13 @@
 export default {
   description: '',
-  grants: [
-    'stat:anti-critical-strike:3',
-    'stat:health:500',
-    'power:spite',
-    'power:escapology'
-  ],
   id: 'tubthumper',
   name: 'Tubthumper',
+  powers: ['spite', 'escapology'],
   requirements: ['class:duelist', 'domain:war', 'domain:wind'],
+  stats: {
+    'anti-critical-strike': 3,
+    health: 500
+  },
   type: 'major',
-  version: '6.530'
+  version: '6.540'
 };

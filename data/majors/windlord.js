@@ -1,14 +1,13 @@
 export default {
   description: '',
-  grants: [
-    'stat:health:500',
-    'stat:movement-speed-combat:2',
-    'power:pursuit',
-    'power:first-wind'
-  ],
   id: 'windlord',
   name: 'Windlord',
+  powers: ['pursuit', 'first-wind'],
   requirements: ['domain:wind', 'domain:dark'],
+  stats: {
+    health: 500,
+    'movement-speed-combat': 2
+  },
   type: 'major',
-  version: '6.530'
+  version: '6.540'
 };

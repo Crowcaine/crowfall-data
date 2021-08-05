@@ -7,5 +7,5 @@ export default {
   name: 'Ice Sunder',
   radius: 5,
   target: 'self',
-  version: '6.500'
+  version: '6.540'
 };

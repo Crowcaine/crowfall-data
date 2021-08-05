@@ -1,15 +1,16 @@
 export default {
   class: 'cleric',
-  grants: [
-    'stat:strength:20',
-    'stat:dexterity:10',
-    'stat:intellect:40',
-    'stat:critical-strike:3',
-    'stat:critical-damage:10',
-    'stat:max-mana:300',
-    'stat:basic-attack-cost-reduction:9'
-  ],
   id: 'malediction',
   name: 'Malediction',
-  version: '6.500'
+  stats: {
+    'basic-attack-cost-reduction': 9,
+    'critical-damage': 10,
+    'critical-strike': 3,
+    dexterity: 10,
+    intellect: 40,
+    'max-mana': 300,
+    strength: 20
+  },
+  type: 'talent',
+  version: '6.540'
 };

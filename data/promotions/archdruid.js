@@ -9,20 +9,19 @@ export default {
       'converts heal orbs into exploding orbs that deal damage to nearby enemies',
     'power:grasping-roots': 'applies blackmantle'
   },
-  grants: [
-    'tray:life',
-    'proficiency:mystical-staff',
-    'proficiency:mail',
-    'mastery:mystical-staff',
-    'power:essence-scram',
-    'stat:attack-power:100',
-    'stat:support-power:200',
-    'stat:health:1500',
-    'stat:basic-attack-damage:10'
-  ],
   id: 'archdruid',
+  masteries: ['mystical-staff'],
   name: 'Archdruid',
+  powers: ['essence-scram'],
+  proficiencies: ['mystical-staff', 'mail'],
+  stats: {
+    'attack-power': 100,
+    'basic-attack-damage': 10,
+    health: 1500,
+    'support-power': 200
+  },
   tags: ['ranged', 'healing'],
+  trays: ['life'],
   type: 'promotion',
-  version: '6.530'
+  version: '6.540'
 };

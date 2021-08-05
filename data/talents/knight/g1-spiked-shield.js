@@ -2,8 +2,9 @@ export default {
   class: 'knight',
   description:
     'This talent grants the [power:spiked-shield] passive power.',
-  grants: ['power:spiked-shield'],
   id: 'spiked-shield',
   name: 'Spiked Shield',
-  version: '6.500'
+  powers: ['spiked-shield'],
+  type: 'talent',
+  version: '6.540'
 };

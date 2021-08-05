@@ -1,14 +1,13 @@
 export default {
   description: '',
-  grants: [
-    'stat:armor-penetration-ice:2',
-    'stat:resistance-ice:300',
-    'power:brittle-armor',
-    'power:freezing-storm'
-  ],
   id: 'tundra-mage',
   name: 'Tundra Mage',
+  powers: ['brittle-armor', 'freezing-storm'],
   requirements: ['domain:frost'],
+  stats: {
+    'armor-penetration-ice': 2,
+    'resistance-ice': 300
+  },
   type: 'major',
-  version: '6.530'
+  version: '6.540'
 };

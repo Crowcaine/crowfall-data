@@ -8,16 +8,15 @@ export default {
       'has its cost reduced to 300 and applies knockdown',
     'power:whirling-pain': 'applies slow then suppress'
   },
-  grants: [
-    'mastery:great-axe',
-    'mastery:great-mace',
-    'stat:hard-control-intensity:21',
-    'stat:movement-control-intensity:21',
-    'stat:attack-control-intensity:21'
-  ],
   id: 'barbarian',
+  masteries: ['great-axe', 'great-mace'],
   name: 'Barbarian',
+  stats: {
+    'attack-control-intensity': 21,
+    'hard-control-intensity': 21,
+    'movement-control-intensity': 21
+  },
   tags: ['melee', 'control'],
   type: 'promotion',
-  version: '6.500'
+  version: '6.540'
 };

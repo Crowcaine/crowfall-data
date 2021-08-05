@@ -5,5 +5,5 @@ export default {
   id: 'executioner',
   name: 'Executioner',
   target: 'self',
-  version: '6.530'
+  version: '6.540'
 };

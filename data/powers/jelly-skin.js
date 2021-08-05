@@ -9,5 +9,5 @@ export default {
   id: 'jelly-skin',
   name: 'Jelly Skin',
   target: 'self',
-  version: '6.530'
+  version: '6.540'
 };

@@ -1,14 +1,13 @@
 export default {
   description: '',
-  grants: [
-    'stat:blocking-big-hit-cost-reduction:8',
-    'stat:resistance-physical:300',
-    'power:brutal-slam',
-    'power:shieldmanship'
-  ],
   id: 'shieldmaster',
   name: 'Shieldmaster',
+  powers: ['brutal-slam', 'shieldmanship'],
   requirements: ['class:knight'],
+  stats: {
+    'blocking-big-hit-cost-reduction': 8,
+    'resistance-physical': 300
+  },
   type: 'major',
-  version: '6.400'
+  version: '6.540'
 };

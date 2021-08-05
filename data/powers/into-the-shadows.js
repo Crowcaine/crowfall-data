@@ -6,5 +6,5 @@ export default {
   id: 'into-the-shadows',
   name: 'Into the Shadows',
   target: 'self',
-  version: '6.500'
+  version: '6.540'
 };

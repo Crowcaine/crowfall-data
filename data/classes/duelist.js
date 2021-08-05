@@ -1,15 +1,14 @@
 export default {
   description: '',
-  grants: [
-    'stat:health:5300',
-    'slot:off-hand-pistol',
-    'proficiency:rapier',
-    'proficiency:leather',
-    'power:saltpeter-rounds'
-  ],
   id: 'duelist',
   name: 'Duelist',
+  powers: ['saltpeter-rounds'],
+  proficiencies: ['rapier', 'leather'],
   races: ['guinecean'],
+  slots: ['off-hand-pistol'],
+  stats: {
+    health: 5300
+  },
   talents: {
     a1: 'talent:swashbuckler',
     b1: 'talent:tenacity',
@@ -51,5 +50,6 @@ export default {
     l8: 'domain:shadow',
     l9: 'domain:wind'
   },
-  version: '6.500'
+  type: 'class',
+  version: '6.540'
 };

@@ -5,5 +5,5 @@ export default {
   id: 'force-of-nature',
   name: 'Force of Nature',
   target: 'self',
-  version: '6.530'
+  version: '6.540'
 };

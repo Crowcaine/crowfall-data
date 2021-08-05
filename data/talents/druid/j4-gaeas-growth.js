@@ -1,8 +1,9 @@
 export default {
   class: 'druid',
   description: 'This talent grants the [power:gaeas-growth] power.',
-  grants: ['power:gaeas-growth'],
   id: 'gaeas-growth',
   name: "Gaea's Growth",
-  version: '6.530'
+  powers: ['gaeas-growth'],
+  type: 'talent',
+  version: '6.540'
 };

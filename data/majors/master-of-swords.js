@@ -1,14 +1,13 @@
 export default {
   description: '',
-  grants: [
-    'stat:damage-slashing:2',
-    'stat:resistance-slashing:300',
-    'power:critical-hack',
-    'power:iron-skin'
-  ],
   id: 'master-of-swords',
   name: 'Master of Swords',
+  powers: ['critical-hack', 'iron-skin'],
   requirements: ['class:assassin', 'class:knight', 'class:ranger'],
+  stats: {
+    'damage-slashing': 2,
+    'resistance-slashing': 300
+  },
   type: 'major',
   version: '6.540'
 };

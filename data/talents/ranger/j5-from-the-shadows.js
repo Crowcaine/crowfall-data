@@ -2,8 +2,9 @@ export default {
   class: 'ranger',
   description:
     'This talent grants the [power:from-the-shadows] passive power.',
-  grants: ['power:from-the-shadows'],
   id: 'from-the-shadows',
   name: 'From the Shadows',
-  version: '6.500'
+  powers: ['from-the-shadows'],
+  type: 'talent',
+  version: '6.540'
 };

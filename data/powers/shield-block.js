@@ -9,5 +9,5 @@ export default {
   id: 'shield-block',
   name: 'Shield Block',
   target: 'self',
-  version: '6.500'
+  version: '6.540'
 };

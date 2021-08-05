@@ -1,9 +1,12 @@
 export default {
   description: '',
-  grants: ['stat:attack-power:50', 'power:supreme-element'],
   id: 'supreme-element',
   name: 'Supreme Element',
+  powers: ['supreme-element'],
   requirements: ['class:druid', 'domain:wind'],
+  stats: {
+    'attack-power': 50
+  },
   type: 'minor',
-  version: '6.530'
+  version: '6.540'
 };

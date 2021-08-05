@@ -9,18 +9,17 @@ export default {
       'heals any friendlies in an area with a chance to spawn healing orbs for each ally healed',
     'power:grasping-roots': 'spawns healing orbs for every enemy hit'
   },
-  grants: [
-    'tray:life',
-    'proficiency:mystical-staff',
-    'proficiency:mail',
-    'mastery:mystical-staff',
-    'power:essence-scram',
-    'stat:support-power:400',
-    'stat:critical-healing-chance:5'
-  ],
   id: 'earthkeeper',
+  masteries: ['mystical-staff'],
   name: 'Earthkeeper',
+  powers: ['essence-scram'],
+  proficiencies: ['mystical-staff', 'mail'],
+  stats: {
+    'critical-healing-chance': 5,
+    'support-power': 400
+  },
   tags: ['healing'],
+  trays: ['life'],
   type: 'promotion',
-  version: '6.530'
+  version: '6.540'
 };

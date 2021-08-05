@@ -5,5 +5,5 @@ export default {
   id: 'fortuitous-blessings',
   name: 'Fortuitous Blessings',
   target: 'self',
-  version: '6.530'
+  version: '6.540'
 };

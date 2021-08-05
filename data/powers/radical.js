@@ -5,5 +5,5 @@ export default {
   id: 'radical',
   name: 'Radical',
   target: 'self',
-  version: '6.500'
+  version: '6.540'
 };

@@ -1,17 +1,20 @@
 export default {
-  grants: [
-    'stat:constitution:40',
-    'stat:dexterity:10',
-    'stat:intellect:12',
-    'stat:spirit:17',
-    'stat:strength:21',
-    'power:stone-skin',
-    'power:high-forge-apprentice',
-    'power:i-get-knocked-down',
-    'power:blood-of-the-mountain',
-    'power:coagulation'
-  ],
   id: 'stoneborn',
   name: 'Stoneborn',
+  powers: [
+    'blood-of-the-mountain',
+    'high-forge-apprentice',
+    'i-get-knocked-down',
+    'stone-skin',
+    'coagulation'
+  ],
+  stats: {
+    constitution: 40,
+    dexterity: 10,
+    intellect: 12,
+    spirit: 17,
+    strength: 21
+  },
+  type: 'race',
   version: '6.540'
 };

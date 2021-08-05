@@ -1,15 +1,12 @@
 export default {
   description: '',
-  grants: [
-    'stat:health:5300',
-    'proficiency:leather',
-    'proficiency:axe',
-    'proficiency:dagger',
-    'proficiency:mace'
-  ],
   id: 'assassin',
   name: 'Assassin',
+  proficiencies: ['axe', 'dagger', 'leather', 'mace'],
   races: ['fae', 'half-elf', 'high-elf', 'nethari'],
+  stats: {
+    health: 5300
+  },
   talents: {
     a1: 'talent:tools-of-the-trade',
     b1: 'talent:brutal-fury',
@@ -51,5 +48,6 @@ export default {
     l8: 'domain:plague',
     l9: 'domain:death'
   },
-  version: '6.500'
+  type: 'class',
+  version: '6.540'
 };

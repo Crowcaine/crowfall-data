@@ -1,8 +1,9 @@
 export default {
   class: 'duelist',
   description: 'This talent grants the [power:recon-duelist] power.',
-  grants: ['power:recon-duelist'],
   id: 'recon',
   name: 'Recon',
-  version: '6.500'
+  powers: ['recon-duelist'],
+  type: 'talent',
+  version: '6.540'
 };

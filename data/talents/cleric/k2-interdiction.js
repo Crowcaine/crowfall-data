@@ -1,13 +1,14 @@
 export default {
   class: 'cleric',
-  grants: [
-    'stat:final-mitigation-cap:15',
-    'stat:damage-fire:5',
-    'stat:damage-fire-cap:5',
-    'stat:damage-holy:5',
-    'stat:damage-holy-cap:5'
-  ],
   id: 'interdiction',
   name: 'Interdiction',
-  version: '6.500'
+  stats: {
+    'damage-fire': 5,
+    'damage-fire-cap': 5,
+    'damage-holy': 5,
+    'damage-holy-cap': 5,
+    'final-mitigation-cap': 15
+  },
+  type: 'talent',
+  version: '6.540'
 };

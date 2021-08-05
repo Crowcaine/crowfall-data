@@ -8,5 +8,5 @@ export default {
   id: 'dynamite',
   name: 'Dynamite',
   target: 'self',
-  version: '6.500'
+  version: '6.540'
 };

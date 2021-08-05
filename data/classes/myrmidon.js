@@ -1,15 +1,12 @@
 export default {
   description: '',
-  grants: [
-    'stat:health:5300',
-    'proficiency:mail',
-    'proficiency:leather',
-    'proficiency:axe',
-    'proficiency:mace'
-  ],
   id: 'myrmidon',
   name: 'Myrmidon',
+  proficiencies: ['axe', 'leather', 'mail', 'mace'],
   races: ['half-giant', 'minotaur', 'stoneborn'],
+  stats: {
+    health: 5300
+  },
   talents: {
     a1: 'talent:berserk-neck-slash',
     b1: 'talent:solid-muscle',
@@ -51,5 +48,6 @@ export default {
     l8: 'domain:war',
     l9: 'domain:battle'
   },
-  version: '6.500'
+  type: 'class',
+  version: '6.540'
 };

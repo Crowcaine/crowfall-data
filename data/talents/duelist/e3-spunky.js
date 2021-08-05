@@ -1,14 +1,15 @@
 export default {
   class: 'duelist',
-  grants: [
-    'stat:dexterity:40',
-    'stat:intellect:10',
-    'stat:constitution:20',
-    'stat:resistance-all:300',
-    'stat:control-defense:21',
-    'stat:health:200'
-  ],
   id: 'spunky',
   name: 'Spunky',
-  version: '6.500'
+  stats: {
+    constitution: 20,
+    'control-defense': 21,
+    dexterity: 40,
+    health: 200,
+    intellect: 10,
+    'resistance-all': 300
+  },
+  type: 'talent',
+  version: '6.540'
 };

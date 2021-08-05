@@ -1,14 +1,13 @@
 export default {
   description: '',
-  grants: [
-    'stat:armor-penetration-ice:2',
-    'stat:resistance-ice:300',
-    'power:ice-armory',
-    'power:ice-devourer'
-  ],
   id: 'ice-armorer',
   name: 'Ice Armorer',
+  powers: ['ice-armory', 'ice-devourer'],
   requirements: ['class:frostweaver'],
+  stats: {
+    'armor-penetration-ice': 2,
+    'resistance-ice': 300
+  },
   type: 'major',
-  version: '6.400'
+  version: '6.540'
 };

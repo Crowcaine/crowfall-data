@@ -2,13 +2,14 @@ export default {
   class: 'ranger',
   description:
     'This talent grants the [power:concussive-trap] power.',
-  grants: [
-    'power:concussive-trap',
-    'stat:stamina:15',
-    'stat:max-energy:400',
-    'stat:perception:45'
-  ],
   id: 'hunting-party',
   name: 'Hunting Party',
-  version: '6.500'
+  powers: ['concussive-trap'],
+  stats: {
+    'max-energy': 400,
+    perception: 45,
+    stamina: 15
+  },
+  type: 'talent',
+  version: '6.540'
 };

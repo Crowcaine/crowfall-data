@@ -2,8 +2,9 @@ export default {
   class: 'champion',
   description:
     'This talent grants the [power:pit-fighter] passive power.',
-  grants: ['power:pit-fighter'],
   id: 'pit-fighter',
   name: 'Pit Fighter',
-  version: '6.500'
+  powers: ['pit-fighter'],
+  type: 'talent',
+  version: '6.540'
 };

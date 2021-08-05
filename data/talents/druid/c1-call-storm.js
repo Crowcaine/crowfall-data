@@ -1,8 +1,9 @@
 export default {
   class: 'druid',
   description: 'This talent grants the [power:call-storm] power.',
-  grants: ['power:call-storm'],
   id: 'call-storm',
   name: 'Call Storm',
-  version: '6.530'
+  powers: ['call-storm'],
+  type: 'talent',
+  version: '6.540'
 };

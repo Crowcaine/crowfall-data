@@ -1,14 +1,13 @@
 export default {
   description: '',
-  grants: [
-    'stat:armor-penetration-ice:2',
-    'stat:damage-ice:2',
-    'power:frigid-ground',
-    'power:harsh-elements'
-  ],
   id: 'frozen-dancer',
   name: 'Frozen Dancer',
+  powers: ['frigid-ground', 'harsh-elements'],
   requirements: ['class:frostweaver', 'domain:frost'],
+  stats: {
+    'armor-penetration-ice': 2,
+    'damage-ice': 2
+  },
   type: 'major',
-  version: '6.530'
+  version: '6.540'
 };

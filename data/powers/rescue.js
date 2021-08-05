@@ -10,5 +10,5 @@ export default {
   name: 'Rescue',
   radius: 35,
   target: 'reticle',
-  version: '6.530'
+  version: '6.540'
 };

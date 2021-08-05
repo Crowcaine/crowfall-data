@@ -11,5 +11,5 @@ export default {
   name: 'Iron Hide',
   range: 5,
   target: 'area',
-  version: '6.500'
+  version: '6.540'
 };

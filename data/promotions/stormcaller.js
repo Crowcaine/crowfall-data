@@ -10,15 +10,14 @@ export default {
     'power:grasping-roots':
       'increasaes elemental damage taken by ensnared enemies'
   },
-  grants: [
-    'proficiency:buckler',
-    'mastery:buckler',
-    'mastery:buckler',
-    'stat:attack-power:200'
-  ],
   id: 'stormcaller',
+  masteries: ['buckler', 'buckler'],
   name: 'Stormcaller',
+  proficiencies: ['buckler'],
+  stats: {
+    'attack-power': 200
+  },
   tags: ['ranged'],
   type: 'promotion',
-  version: '6.530'
+  version: '6.540'
 };

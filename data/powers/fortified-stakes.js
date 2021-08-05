@@ -5,5 +5,5 @@ export default {
   id: 'fortified-stakes',
   name: 'Fortified Stakes',
   target: 'self',
-  version: '6.530'
+  version: '6.540'
 };

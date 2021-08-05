@@ -47,12 +47,10 @@ const targetTypes = new Set([
   // find all power grants in talents, majors and minors
   for (let file of allFilesWithGrants) {
     const content = (await import(`../../${file}`)).default;
-    const grants = content.grants
-      .filter((name) => name.startsWith('power'))
-      .map((p) => p.replace('power:', ''));
+    const powers = content.powers || [];
 
-    if (grants.length) {
-      grants.map((g) => powerGrantsSet.add(g));
+    if (powers.length) {
+      powers.map((g) => powerGrantsSet.add(g));
     }
   }
 

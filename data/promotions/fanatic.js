@@ -9,14 +9,14 @@ export default {
       'adds damage bonus to basic attacks for 12 seconds',
     'power:fire-tornadoes': 'hit enemies up to 4 times'
   },
-  grants: [
-    'mastery:book',
-    'stat:attack-power:200',
-    'stat:max-mana:150'
-  ],
   id: 'fanatic',
+  masteries: ['book'],
   name: 'Fanatic',
+  stats: {
+    'attack-power': 200,
+    'max-mana': 150
+  },
   tags: ['ranged'],
   type: 'promotion',
-  version: '6.500'
+  version: '6.540'
 };

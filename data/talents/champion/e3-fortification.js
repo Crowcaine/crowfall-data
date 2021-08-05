@@ -1,14 +1,15 @@
 export default {
   class: 'champion',
-  grants: [
-    'stat:strength:40',
-    'stat:dexterity:10',
-    'stat:constitution:20',
-    'stat:resistance-all:300',
-    'stat:final-mitigation-cap:300',
-    'stat:health:300'
-  ],
   id: 'fortification',
   name: 'Fortification',
-  version: '6.500'
+  stats: {
+    constitution: 20,
+    dexterity: 10,
+    'final-mitigation-cap': 300,
+    health: 300,
+    'resistance-all': 300,
+    strength: 40
+  },
+  type: 'talent',
+  version: '6.540'
 };

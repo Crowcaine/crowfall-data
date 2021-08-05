@@ -1,17 +1,19 @@
 export default {
   description: '',
-  grants: [
-    'stat:health:4550',
-    'proficiency:leather',
-    'proficiency:axe',
-    'proficiency:bow',
-    'proficiency:mace',
-    'proficiency:recurve-bow',
-    'proficiency:short-sword'
-  ],
   id: 'ranger',
   name: 'Ranger',
+  proficiencies: [
+    'axe',
+    'bow',
+    'leather',
+    'mace',
+    'recurve-bow',
+    'short-sword'
+  ],
   races: ['elken', 'half-elf', 'human', 'minotaur', 'wood-elf'],
+  stats: {
+    health: 4550
+  },
   talents: {
     a1: 'talent:ranger-savvy',
     b1: 'talent:military-training',
@@ -53,5 +55,6 @@ export default {
     l8: 'domain:dark',
     l9: 'domain:plague'
   },
-  version: '6.500'
+  type: 'class',
+  version: '6.540'
 };

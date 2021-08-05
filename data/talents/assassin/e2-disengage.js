@@ -1,8 +1,9 @@
 export default {
   class: 'assassin',
   description: 'This talent grants the [power:disengage] power.',
-  grants: ['power:disengage'],
   id: 'disengage',
   name: 'Disengage',
-  version: '6.500'
+  powers: ['disengage'],
+  type: 'talent',
+  version: '6.540'
 };

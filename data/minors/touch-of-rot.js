@@ -1,9 +1,12 @@
 export default {
   description: '',
-  grants: ['stat:damage-poison:2', 'power:touch-of-rot'],
   id: 'touch-of-rot',
   name: 'Touch of Rot',
+  powers: ['touch-of-rot'],
   requirements: ['domain:plague'],
+  stats: {
+    'damage-poison': 2
+  },
   type: 'minor',
   version: '6.540'
 };

@@ -1,9 +1,12 @@
 export default {
   description: '',
-  grants: ['stat:attack-power:50', 'power:dispel'],
   id: 'dispel',
   name: 'Dispel',
+  powers: ['dispel'],
   requirements: ['domain:justice', 'domain:protection'],
+  stats: {
+    'attack-power': 50
+  },
   type: 'minor',
-  version: '6.530'
+  version: '6.540'
 };

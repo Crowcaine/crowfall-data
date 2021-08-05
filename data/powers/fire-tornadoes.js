@@ -10,5 +10,5 @@ export default {
   name: 'Fire Tornadoes',
   radius: 3,
   target: 'sphere',
-  version: '6.500'
+  version: '6.540'
 };

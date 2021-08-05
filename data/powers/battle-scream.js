@@ -10,5 +10,5 @@ export default {
   name: 'Battle Scream',
   range: 5,
   target: 'area',
-  version: '6.500'
+  version: '6.540'
 };

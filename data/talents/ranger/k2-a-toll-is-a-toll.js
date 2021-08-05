@@ -1,15 +1,16 @@
 export default {
   class: 'ranger',
-  grants: [
-    'stat:critical-damage:5',
-    'stat:power-damage-melee:3',
-    'stat:damage-piercing:10',
-    'stat:damage-piercing-cap:10',
-    'stat:damage-slashing:10',
-    'stat:damage-slashing-cap:10',
-    'stat:final-mitigation-cap:10'
-  ],
   id: 'a-toll-is-a-toll',
   name: 'A Toll is a Toll',
-  version: '6.500'
+  stats: {
+    'critical-damage': 5,
+    'damage-piercing': 10,
+    'damage-piercing-cap': 10,
+    'damage-slashing': 10,
+    'damage-slashing-cap': 10,
+    'final-mitigation-cap': 10,
+    'power-damage-melee': 3
+  },
+  type: 'talent',
+  version: '6.540'
 };

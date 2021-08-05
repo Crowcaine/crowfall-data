@@ -1,14 +1,15 @@
 export default {
   class: 'frostweaver',
-  grants: [
-    'stat:critical-damage:5',
-    'stat:personal-damage-modifier:4.5',
-    'stat:damage-ice:10',
-    'stat:damage-ice-cap:10',
-    'stat:final-mitigation-cap:25',
-    'stat:ice-storage-cap:1'
-  ],
   id: 'frozen-solid',
   name: 'Frozen Solid',
-  version: '6.500'
+  stats: {
+    'critical-damage': 5,
+    'damage-ice': 10,
+    'damage-ice-cap': 10,
+    'final-mitigation-cap': 25,
+    'ice-storage-cap': 1,
+    'personal-damage-modifier': 4.5
+  },
+  type: 'talent',
+  version: '6.540'
 };

@@ -10,5 +10,5 @@ export default {
   name: 'Lament of Sadness',
   radius: 5,
   target: 'pbae',
-  version: '6.530'
+  version: '6.540'
 };

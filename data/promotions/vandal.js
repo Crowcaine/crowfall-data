@@ -8,19 +8,17 @@ export default {
     'power:kidney-shot':
       'applies the Kiss of Death debuff to the targets which increases all incoming damage by 10% for 6 seconds'
   },
-  grants: [
-    'mastery:axe',
-    'mastery:dagger',
-    'mastery:mace',
-    'stat:attack-power:150',
-    'stat:damage-poison:30',
-    'stat:damage-poison-cap:10',
-    'stat:hard-crowd-control:18',
-    'stat:movement-control-intensity:18'
-  ],
   id: 'vandal',
+  masteries: ['axe', 'dagger', 'mace'],
   name: 'Vandal',
+  stats: {
+    'attack-power': 150,
+    'damage-poison': 30,
+    'damage-poison-cap': 10,
+    'hard-crowd-control': 18,
+    'movement-control-intensity': 18
+  },
   tags: ['melee', 'control'],
   type: 'promotion',
-  version: '6.500'
+  version: '6.540'
 };

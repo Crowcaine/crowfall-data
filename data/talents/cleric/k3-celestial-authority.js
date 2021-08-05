@@ -1,13 +1,14 @@
 export default {
   class: 'cleric',
-  grants: [
-    'stat:critical-healing-chance:5',
-    'stat:critical-healing-amount:5',
-    'stat:final-mitigation-cap:15',
-    'stat:damage-holy:10',
-    'stat:damage-holy-cap:10'
-  ],
   id: 'celestial-authority',
   name: 'Celestial Authority',
-  version: '6.500'
+  stats: {
+    'critical-healing-amount': 5,
+    'critical-healing-chance': 5,
+    'damage-holy': 10,
+    'damage-holy-cap': 10,
+    'final-mitigation-cap': 15
+  },
+  type: 'talent',
+  version: '6.540'
 };

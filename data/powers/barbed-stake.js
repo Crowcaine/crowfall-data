@@ -11,5 +11,5 @@ export default {
   name: 'Barbed Stake',
   radius: 10,
   target: 'self',
-  version: '6.530'
+  version: '6.540'
 };

@@ -2,8 +2,9 @@ export default {
   class: 'confessor',
   description:
     'This talent grants the [power:flames-of-truth] power.',
-  grants: ['power:flames-of-truth'],
   id: 'flames-of-truth',
   name: 'Flames of Truth',
-  version: '6.500'
+  powers: ['flames-of-truth'],
+  type: 'talent',
+  version: '6.540'
 };

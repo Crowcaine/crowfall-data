@@ -6,5 +6,5 @@ export default {
   id: 'pit-fighter',
   name: 'Pit Fighter',
   target: 'self',
-  version: '6.500'
+  version: '6.540'
 };

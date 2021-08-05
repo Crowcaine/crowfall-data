@@ -8,21 +8,23 @@ export default {
     'power:pursuit':
       'stuns the next target hit by a shield attack within the nest 8 seconds'
   },
-  grants: [
-    'mastery:axe',
-    'mastery:long-sword',
-    'mastery:mace',
-    'mastery:short-sword',
-    'mastery:buckler',
-    'mastery:medium-shield',
-    'mastery:plate',
-    'stat:health:200',
-    'stat:hard-control-intensity:18',
-    'stat:movement-control-crowd:18'
-  ],
   id: 'sentinel',
+  masteries: [
+    'axe',
+    'buckler',
+    'long-sword',
+    'mace',
+    'medium-shield',
+    'short-sword',
+    'plate'
+  ],
   name: 'Sentinel',
+  stats: {
+    'hard-control-intensity': 18,
+    health: 200,
+    'movement-control-crowd': 18
+  },
   tags: ['melee', 'control'],
   type: 'promotion',
-  version: '6.500'
+  version: '6.540'
 };

@@ -1,14 +1,13 @@
 export default {
   description: '',
-  grants: [
-    'stat:damage-high-health:5',
-    'stat:stealth:15',
-    'power:call-darkness',
-    'power:study-target'
-  ],
   id: 'black-mask',
   name: 'Black Mask',
+  powers: ['call-darkness', 'study-target'],
   requirements: ['domain:shadow', 'domain:death'],
+  stats: {
+    'damage-high-health': 5,
+    stealth: 15
+  },
   type: 'major',
   version: '6.540'
 };

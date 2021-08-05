@@ -9,15 +9,15 @@ export default {
     'power:volatile-ice-weave':
       "explodes twice as fast reduces the enemy's anti-critical strike."
   },
-  grants: [
-    'mastery:frostcaster',
-    'stat:attack-power:200',
-    'stat:max-mana:150',
-    'stat:ice-storage-cap:1'
-  ],
   id: 'archmage',
+  masteries: ['frostcaster'],
   name: 'Archmage',
+  stats: {
+    'attack-power': 200,
+    'ice-storage-cap': 1,
+    'max-mana': 150
+  },
   tags: ['ranged'],
   type: 'promotion',
-  version: '6.500'
+  version: '6.540'
 };

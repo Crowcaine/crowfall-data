@@ -8,5 +8,5 @@ export default {
   name: 'Rapid Fire',
   range: 15,
   target: 'reticle',
-  version: '6.500'
+  version: '6.540'
 };

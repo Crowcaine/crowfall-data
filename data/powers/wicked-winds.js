@@ -11,5 +11,5 @@ export default {
   name: 'Wicked Winds',
   radius: 4,
   target: 'reticle',
-  version: '6.530'
+  version: '6.540'
 };

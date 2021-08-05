@@ -1,16 +1,15 @@
 export default {
   description: '',
-  grants: [
-    'stat:anti-critical-strike:3',
-    'stat:resistance-piercing:300',
-    'power:shield-slam',
-    'power:brutal-slam',
-    'proficiency:buckler',
-    'slot:shield'
-  ],
   id: 'shield-fighter',
   name: 'Shield Fighter',
+  powers: ['shield-slam', 'brutal-slam'],
+  proficiencies: ['buckler'],
   requirements: ['class:cleric', 'class:druid'],
+  slots: ['shield'],
+  stats: {
+    'anti-critical-strike': 3,
+    'resistance-piercing': 300
+  },
   type: 'major',
-  version: '6.530'
+  version: '6.540'
 };

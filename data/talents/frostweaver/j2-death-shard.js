@@ -1,8 +1,9 @@
 export default {
   class: 'frostweaver',
   description: 'This talent grants the [power:death-shard] power.',
-  grants: ['power:death-shard'],
   id: 'death-shard',
   name: 'Death Shard',
-  version: '6.500'
+  powers: ['death-shard'],
+  type: 'talent',
+  version: '6.540'
 };

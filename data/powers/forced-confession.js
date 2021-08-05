@@ -9,5 +9,5 @@ export default {
   name: 'Forced Confession',
   range: 25,
   target: 'sphere',
-  version: '6.500'
+  version: '6.540'
 };

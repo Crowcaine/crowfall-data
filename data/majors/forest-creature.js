@@ -1,14 +1,13 @@
 export default {
   description: '',
-  grants: [
-    'stat:critical-healing-chance:2',
-    'stat:support-power:100',
-    'power:pixie-dust',
-    'power:slow-stake'
-  ],
   id: 'forest-creature',
   name: 'Forest Creature',
+  powers: ['pixie-dust', 'slow-stake'],
   requirements: ['race:wood-elf', 'race:elken', 'domain:nature'],
+  stats: {
+    'critical-healing-chance': 2,
+    'support-power': 100
+  },
   type: 'major',
-  version: '6.530'
+  version: '6.540'
 };

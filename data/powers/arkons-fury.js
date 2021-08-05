@@ -10,5 +10,5 @@ export default {
   name: "Arkon's Fury",
   range: 25,
   target: 'rectangle',
-  version: '6.530'
+  version: '6.540'
 };

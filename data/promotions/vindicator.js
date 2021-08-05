@@ -9,14 +9,14 @@ export default {
       'increases holy damage and your movement speed in combat while active',
     'power:judgement': 'activation cost is reduced by 1 Pip'
   },
-  grants: [
-    'mastery:great-sword',
-    'stat:attack-power:200',
-    'stat:health:400'
-  ],
   id: 'vindicator',
+  masteries: ['great-sword'],
   name: 'Vindicator',
+  stats: {
+    'attack-power': 200,
+    health: 400
+  },
   tags: ['melee'],
   type: 'promotion',
-  version: '6.500'
+  version: '6.540'
 };

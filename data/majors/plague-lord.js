@@ -1,14 +1,13 @@
 export default {
   description: '',
-  grants: [
-    'stat:damage-low-health:5',
-    'stat:damage-poison:2',
-    'power:festering-wounds',
-    'power:contagion'
-  ],
   id: 'plague-lord',
   name: 'Plague Lord',
+  powers: ['festering-wounds', 'contagion'],
   requirements: ['domain:plague'],
+  stats: {
+    'damage-low-health': 5,
+    'damage-poison': 2
+  },
   type: 'major',
   version: '6.540'
 };

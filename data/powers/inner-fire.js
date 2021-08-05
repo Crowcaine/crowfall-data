@@ -6,5 +6,5 @@ export default {
   maxTargets: 5,
   name: 'Inner Fire',
   target: 'self',
-  version: '6.500'
+  version: '6.540'
 };

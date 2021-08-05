@@ -11,5 +11,5 @@ export default {
   name: 'Black Ice',
   radius: 10,
   target: 'rectangle',
-  version: '6.500'
+  version: '6.540'
 };

@@ -1,17 +1,20 @@
 export default {
-  grants: [
-    'stat:constitution:10',
-    'stat:dexterity:21',
-    'stat:intellect:20',
-    'stat:spirit:18',
-    'stat:strength:11',
-    'power:bandits-armor',
-    'power:past-lives',
-    'power:trailblazer',
-    'power:lay-of-the-land',
-    'power:wildkins-retort'
-  ],
   id: 'half-elf',
   name: 'Half-Elf',
+  powers: [
+    'bandits-armor',
+    'lay-of-the-land',
+    'past-lives',
+    'trailblazer',
+    'wildkins-retort'
+  ],
+  stats: {
+    constitution: 10,
+    dexterity: 21,
+    intellect: 20,
+    spirit: 18,
+    strength: 11
+  },
+  type: 'race',
   version: '6.540'
 };

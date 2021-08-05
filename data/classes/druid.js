@@ -1,13 +1,12 @@
 export default {
   description: '',
-  grants: [
-    'stat:health:4550',
-    'proficiency:leather',
-    'proficiency:mystical-sickle'
-  ],
   id: 'druid',
   name: 'Druid',
+  proficiencies: ['leather', 'mystical-sickle'],
   races: ['fae', 'half-elf', 'wood-elf'],
+  stats: {
+    health: 4550
+  },
   talents: {
     a1: 'talent:magic-dance',
     b1: 'talent:potential-energy',
@@ -49,5 +48,6 @@ export default {
     l8: 'domain:protection',
     l9: 'domain:light'
   },
-  version: '6.530'
+  type: 'class',
+  version: '6.540'
 };

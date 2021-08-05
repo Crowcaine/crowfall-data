@@ -1,9 +1,12 @@
 export default {
   description: '',
-  grants: ['stat:stealth:15', 'power:tunnel'],
   id: 'tunnel',
   name: 'Tunnel',
+  powers: ['tunnel'],
   requirements: ['race:guinecean'],
+  stats: {
+    stealth: 15
+  },
   type: 'minor',
   version: '6.540'
 };

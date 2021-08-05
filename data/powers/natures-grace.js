@@ -9,5 +9,5 @@ export default {
   id: 'natures-grace',
   name: "Nature's Grace",
   target: 'self',
-  version: '6.530'
+  version: '6.540'
 };

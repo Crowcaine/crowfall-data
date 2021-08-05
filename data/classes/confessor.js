@@ -1,13 +1,12 @@
 export default {
   description: '',
-  grants: [
-    'stat:health:4550',
-    'proficiency:leather',
-    'proficiency:book'
-  ],
   id: 'confessor',
   name: 'Confessor',
+  proficiencies: ['leather', 'book'],
   races: ['elken', 'high-elf', 'nethari'],
+  stats: {
+    health: 4550
+  },
   talents: {
     a1: 'talent:absolution',
     b1: 'talent:repent',
@@ -49,5 +48,6 @@ export default {
     l8: 'domain:fire',
     l9: 'domain:protection'
   },
-  version: '6.500'
+  type: 'class',
+  version: '6.540'
 };

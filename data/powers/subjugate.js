@@ -7,5 +7,5 @@ export default {
   name: 'Subjugate',
   range: 5,
   target: 'cone',
-  version: '6.500'
+  version: '6.540'
 };

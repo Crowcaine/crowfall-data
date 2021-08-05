@@ -1,14 +1,13 @@
 export default {
   description: '',
-  grants: [
-    'stat:movement-speed-damage:5',
-    'stat:movement-speed-combat:2',
-    'power:forest-step',
-    'power:escapology'
-  ],
   id: 'lightfoot',
   name: 'Lightfoot',
+  powers: ['forest-step', 'escapology'],
   requirements: ['domain:dark'],
+  stats: {
+    'movement-speed-combat': 2,
+    'movement-speed-damage': 5
+  },
   type: 'major',
-  version: '6.530'
+  version: '6.540'
 };

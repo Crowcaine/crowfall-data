@@ -1,14 +1,15 @@
 export default {
   class: 'confessor',
-  grants: [
-    'stat:intellect:40',
-    'stat:spirit:10',
-    'stat:constitution:20',
-    'stat:resistance-all:300',
-    'stat:personal-damage-modifier:3',
-    'stat:health:200'
-  ],
   id: 'flagellation',
   name: 'Flagellation',
-  version: '6.500'
+  stats: {
+    constitution: 20,
+    health: 200,
+    intellect: 40,
+    'personal-damage-modifier': 3,
+    'resistance-all': 300,
+    spirit: 10
+  },
+  type: 'talent',
+  version: '6.540'
 };

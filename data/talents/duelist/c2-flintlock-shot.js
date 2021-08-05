@@ -1,8 +1,9 @@
 export default {
   class: 'duelist',
   description: 'This talent grants the [power:flintlock-shot] power.',
-  grants: ['power:flintlock-shot'],
   id: 'flintlock-shot',
   name: 'Flintlock Shot',
-  version: '6.500'
+  powers: ['flintlock-shot'],
+  type: 'talent',
+  version: '6.540'
 };

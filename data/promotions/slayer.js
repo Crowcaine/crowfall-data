@@ -9,15 +9,14 @@ export default {
       'adds a 1% critical strike and 3% critical damage buff that scales with pips',
     'power:peppershot-box': 'deals 50% more damage'
   },
-  grants: [
-    'mastery:pistol',
-    'mastery:rapier',
-    'stat:attack-power:100',
-    'stat:ranged-distance:9'
-  ],
   id: 'slayer',
+  masteries: ['pistol', 'rapier'],
   name: 'Slayer',
+  stats: {
+    'attack-power': 100,
+    'ranged-distance': 9
+  },
   tags: ['ranged'],
   type: 'promotion',
-  version: '6.500'
+  version: '6.540'
 };

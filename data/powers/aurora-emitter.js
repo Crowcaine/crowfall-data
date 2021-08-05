@@ -11,5 +11,5 @@ export default {
   name: 'Aurora Emitter',
   range: 35,
   target: 'sphere',
-  version: '6.530'
+  version: '6.540'
 };

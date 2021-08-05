@@ -1,14 +1,13 @@
 export default {
   description: '',
-  grants: [
-    'stat:armor-penetration-slashing:2',
-    'stat:damage-slashing:2',
-    'power:blood-strike',
-    'power:blood-price'
-  ],
   id: 'blade-master',
   name: 'Blade Master',
+  powers: ['blood-strike', 'blood-price'],
   requirements: ['domain:war', 'domain:death'],
+  stats: {
+    'armor-penetration-slashing': 2,
+    'damage-slashing': 2
+  },
   type: 'major',
   version: '6.540'
 };

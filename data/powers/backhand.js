@@ -7,5 +7,5 @@ export default {
   name: 'Backhand',
   range: 5,
   target: 'reticle',
-  version: '6.400'
+  version: '6.540'
 };

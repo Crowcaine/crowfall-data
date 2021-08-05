@@ -5,5 +5,5 @@ export default {
   id: 'sturdy',
   name: 'Sturdy',
   target: 'self',
-  version: '6.530'
+  version: '6.540'
 };

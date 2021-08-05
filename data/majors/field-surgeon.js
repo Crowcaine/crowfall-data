@@ -1,14 +1,13 @@
 export default {
   description: '',
-  grants: [
-    'stat:critical-healing-chance:2',
-    'stat:healing:3',
-    'power:rescue',
-    'power:fly-you-fools'
-  ],
   id: 'field-surgeon',
   name: 'Field Surgeon',
+  powers: ['rescue', 'fly-you-fools'],
   requirements: ['domain:light'],
+  stats: {
+    'critical-healing-chance': 2,
+    healing: 3
+  },
   type: 'major',
-  version: '6.530'
+  version: '6.540'
 };

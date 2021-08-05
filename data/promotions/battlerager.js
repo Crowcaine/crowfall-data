@@ -8,16 +8,15 @@ export default {
     'power:neck-slash': 'heals you when used on a bleeding target',
     'power:whirlwind': 'applies a barrier when activated'
   },
-  grants: [
-    'mastery:axe',
-    'mastery:mace',
-    'proficiency:plate',
-    'stat:health:750',
-    'stat:resistance-all:300'
-  ],
   id: 'battlerager',
+  masteries: ['axe', 'mace'],
   name: 'Battlerager',
+  proficiencies: ['plate'],
+  stats: {
+    health: 750,
+    'resistance-all': 300
+  },
   tags: ['melee', 'defense'],
   type: 'promotion',
-  version: '6.500'
+  version: '6.540'
 };

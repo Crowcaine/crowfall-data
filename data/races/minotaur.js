@@ -1,18 +1,21 @@
 export default {
-  grants: [
-    'stat:constitution:32',
-    'stat:dexterity:25',
-    'stat:intellect:10',
-    'stat:spirit:10',
-    'stat:strength:13',
-    'power:gigantism',
-    'power:unbreakable',
-    'power:thick-skin',
-    'power:waste-not-want-not',
-    'power:bloodthirst',
-    'power:bull-rush'
-  ],
   id: 'minotaur',
   name: 'Minotaur',
+  powers: [
+    'bloodthirst',
+    'gigantism',
+    'thick-skin',
+    'unbreakable',
+    'waste-not-want-not',
+    'bull-rush'
+  ],
+  stats: {
+    constitution: 32,
+    dexterity: 25,
+    intellect: 10,
+    spirit: 10,
+    strength: 13
+  },
+  type: 'race',
   version: '6.540'
 };

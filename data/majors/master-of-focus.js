@@ -1,16 +1,15 @@
 export default {
   description: '',
-  grants: [
-    'stat:armor-penetration-fire:2',
-    'stat:armor-penetration-ice:2',
-    'stat:damage-fire:2',
-    'stat:damage-ice:2',
-    'power:chaos-orb',
-    'power:resource-shield'
-  ],
   id: 'master-of-focus',
   name: 'Master of Focus',
+  powers: ['chaos-orb', 'resource-shield'],
   requirements: ['domain:fire', 'domain:frost'],
+  stats: {
+    'armor-penetration-fire': 2,
+    'armor-penetration-ice': 2,
+    'damage-fire': 2,
+    'damage-ice': 2
+  },
   type: 'major',
-  version: '6.530'
+  version: '6.540'
 };

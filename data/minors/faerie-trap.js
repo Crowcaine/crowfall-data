@@ -1,9 +1,12 @@
 export default {
   description: '',
-  grants: ['stat:power-damage-trap:5', 'power:faerie-trap'],
   id: 'faerie-trap',
   name: 'Faerie Trap',
+  powers: ['faerie-trap'],
   requirements: ['domain:dark'],
+  stats: {
+    'power-damage-trap': 5
+  },
   type: 'minor',
-  version: '6.530'
+  version: '6.540'
 };

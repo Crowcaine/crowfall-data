@@ -8,18 +8,14 @@ export default {
       'applies a barrier and increases your [stat:movement-speed-in-combat] when activated',
     'power:twin-surge': 'deals more damage against bleeding targets'
   },
-  grants: [
-    'mastery:recurve-bow',
-    'mastery:axe',
-    'mastery:mace',
-    'mastery:short-sword',
-    'tray:stealth',
-    'tray:energy-regen-all',
-    'stat:attack-power:200'
-  ],
   id: 'brigand',
+  masteries: ['axe', 'mace', 'recurve-bow', 'short-sword'],
   name: 'Brigand',
+  stats: {
+    'attack-power': 200
+  },
   tags: ['melee'],
+  trays: ['stealth', 'energy-regen-all'],
   type: 'promotion',
-  version: '6.500'
+  version: '6.540'
 };

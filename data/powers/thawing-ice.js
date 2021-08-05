@@ -6,5 +6,5 @@ export default {
   id: 'thawing-ice',
   name: 'Thawing Ice',
   target: 'self',
-  version: '6.500'
+  version: '6.540'
 };

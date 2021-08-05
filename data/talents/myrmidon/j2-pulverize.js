@@ -1,8 +1,9 @@
 export default {
   class: 'myrmidon',
   description: 'This talent grants the [power:pulverize] power.',
-  grants: ['power:pulverize'],
   id: 'pulverize',
   name: 'Pulverize',
-  version: '6.500'
+  powers: ['pulverize'],
+  type: 'talent',
+  version: '6.540'
 };

@@ -1,14 +1,13 @@
 export default {
   description: '',
-  grants: [
-    'stat:attack-power:50',
-    'stat:song-duration:2',
-    'power:bolstering-ballad',
-    'power:reprise'
-  ],
   id: 'entertainer',
   name: 'Entertainer',
+  powers: ['bolstering-ballad', 'reprise'],
   requirements: ['domain:music'],
+  stats: {
+    'attack-power': 50,
+    'song-duration': 2
+  },
   type: 'major',
-  version: '6.530'
+  version: '6.540'
 };

@@ -9,5 +9,5 @@ export default {
   id: 'nothing-to-lose',
   name: 'Nothing To Lose',
   target: 'self',
-  version: '6.530'
+  version: '6.540'
 };

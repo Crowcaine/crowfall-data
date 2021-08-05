@@ -9,5 +9,5 @@ export default {
   name: 'Flash of Light',
   range: 20,
   target: 'reticle',
-  version: '6.500'
+  version: '6.540'
 };

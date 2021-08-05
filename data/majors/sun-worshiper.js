@@ -1,14 +1,13 @@
 export default {
   description: '',
-  grants: [
-    'stat:resistance-elemental:300',
-    'stat:support-power:100',
-    'power:chain-heal',
-    'power:cleanse'
-  ],
   id: 'sun-worshiper',
   name: 'Sun Worshiper',
+  powers: ['chain-heal', 'cleanse'],
   requirements: ['race:centaur', 'domain:light', 'domain:fire'],
+  stats: {
+    'resistance-elemental': 300,
+    'support-power': 100
+  },
   type: 'major',
-  version: '6.530'
+  version: '6.540'
 };

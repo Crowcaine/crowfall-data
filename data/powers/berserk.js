@@ -7,5 +7,5 @@ export default {
   id: 'berserk',
   name: 'Berserk',
   target: 'self',
-  version: '6.500'
+  version: '6.540'
 };

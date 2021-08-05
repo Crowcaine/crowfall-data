@@ -9,17 +9,16 @@ export default {
       'has a chance to slow enemies that hit you while active',
     'power:peppershot-box': 'inflicts stun on 5 pips spent'
   },
-  grants: [
-    'mastery:pistol',
-    'mastery:rapier',
-    'stat:attack-power:100',
-    'stat:health:750',
-    'stat:stealth:15',
-    'stat:ranged-distance:9'
-  ],
   id: 'vanguard-scout',
+  masteries: ['pistol', 'rapier'],
   name: 'Vanguard Scout',
+  stats: {
+    'attack-power': 100,
+    health: 750,
+    'ranged-distance': 9,
+    stealth: 15
+  },
   tags: ['melee'],
   type: 'promotion',
-  version: '6.500'
+  version: '6.540'
 };

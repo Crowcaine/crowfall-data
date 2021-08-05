@@ -1,8 +1,9 @@
 export default {
   class: 'confessor',
   description: 'This talent grants the [power:meteor-purge] power.',
-  grants: ['power:meteor-purge'],
   id: 'meteor-purge',
   name: 'Meteor Purge',
-  version: '6.500'
+  powers: ['meteor-purge'],
+  type: 'talent',
+  version: '6.540'
 };

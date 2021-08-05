@@ -2,8 +2,9 @@ export default {
   class: 'druid',
   description:
     'This talent grants the [power:capacitor] passive power.',
-  grants: ['power:capacitor'],
   id: 'capacitor',
   name: 'Capacitor',
-  version: '6.530'
+  powers: ['capacitor'],
+  type: 'talent',
+  version: '6.540'
 };

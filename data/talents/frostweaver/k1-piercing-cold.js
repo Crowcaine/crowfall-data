@@ -1,12 +1,13 @@
 export default {
   class: 'frostweaver',
-  grants: [
-    'stat:armor-penetration-elemental:6',
-    'stat:damage-ice:10',
-    'stat:damage-ice-cap:10',
-    'stat:ice-storage-cap:1'
-  ],
   id: 'piercing-cold',
   name: 'Piercing Cold',
-  version: '6.500'
+  stats: {
+    'armor-penetration-elemental': 6,
+    'damage-ice': 10,
+    'damage-ice-cap': 10,
+    'ice-storage-cap': 1
+  },
+  type: 'talent',
+  version: '6.540'
 };

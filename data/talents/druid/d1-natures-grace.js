@@ -1,8 +1,9 @@
 export default {
   class: 'druid',
   description: 'This talent grants the [power:natures-grace] power.',
-  grants: ['power:natures-grace'],
   id: 'natures-grace',
   name: "Nature's Grace",
-  version: '6.530'
+  powers: ['natures-grace'],
+  type: 'talent',
+  version: '6.540'
 };

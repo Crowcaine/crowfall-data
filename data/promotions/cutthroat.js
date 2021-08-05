@@ -8,16 +8,14 @@ export default {
     'power:in-the-zone': 'grants a Movement Speed increase.',
     'power:kidney-shot': 'adds a Barrier when used.'
   },
-  grants: [
-    'mastery:axe',
-    'mastery:dagger',
-    'mastery:mace',
-    'stat:armor-penetration:10',
-    'stat:attack-power:200'
-  ],
   id: 'cutthroat',
+  masteries: ['axe', 'dagger', 'mace'],
   name: 'Cutthroat',
+  stats: {
+    'armor-penetration': 10,
+    'attack-power': 200
+  },
   tags: ['melee'],
   type: 'promotion',
-  version: '6.500'
+  version: '6.540'
 };

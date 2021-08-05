@@ -1,14 +1,13 @@
 export default {
   description: '',
-  grants: [
-    'stat:armor-penetration-crushing:2',
-    'stat:damage-crushing:2',
-    'power:fortification',
-    'power:cracked-armor'
-  ],
   id: 'kanes-apostle',
   name: 'Kanes Apostle',
+  powers: ['fortification', 'cracked-armor'],
   requirements: ['domain:justice'],
+  stats: {
+    'armor-penetration-crushing': 2,
+    'damage-crushing': 2
+  },
   type: 'major',
-  version: '6.530'
+  version: '6.540'
 };

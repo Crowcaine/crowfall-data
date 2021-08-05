@@ -22,40 +22,16 @@ let writeDir = './data/promotions';
 
     fse.ensureDirSync(writeDir);
 
-    content.grants.forEach((s) => {
-      const prefix = s.split(':')[0];
-      const invalid =
-        [
-          'stat',
-          'mastery',
-          'power',
-          'proficiency',
-          'equipment',
-          'tray',
-          'slot'
-        ].indexOf(prefix) === -1;
-
-      if (invalid) {
-        log('error', `invalid grant ${prefix} prefix in ${file}`);
-      }
-    });
-
-    const allStats = content.grants.filter((g) =>
-      g.startsWith('stat')
-    );
-
-    allStats.forEach((s) => {
-      const stat = s.split(':')[1];
-      const value = s.split(':')[2];
+    Object.entries(content.stats).forEach(([key, value]) => {
 
       if (!value) {
         log('error', `[stat:${stat}] missing value in ${file}`);
       }
 
-      if (!stats[stat]) {
+      if (!stats[key]) {
         log(
           'error',
-          `[stat:${stat}] not a predefined stat in ${file}`
+          `[stat:${key}] not a predefined stat in ${file}`
         );
       }
     });

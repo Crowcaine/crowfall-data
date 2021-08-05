@@ -10,5 +10,5 @@ export default {
   name: "Will O' Wisps",
   radius: 8,
   target: 'area',
-  version: '6.530'
+  version: '6.540'
 };

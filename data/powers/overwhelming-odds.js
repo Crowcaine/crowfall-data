@@ -6,5 +6,5 @@ export default {
   id: 'overwhelming-odds',
   name: 'Overwhelming Odds',
   target: 'self',
-  version: '6.530'
+  version: '6.540'
 };

@@ -1,8 +1,9 @@
 export default {
   class: 'assassin',
   description: 'This talent grants the [power:sneak-attack] power.',
-  grants: ['power:sneak-attack'],
   id: 'sneak-attack',
   name: 'Ambush',
-  version: '6.500'
+  powers: ['sneak-attack'],
+  type: 'talent',
+  version: '6.540'
 };

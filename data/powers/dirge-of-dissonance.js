@@ -9,5 +9,5 @@ export default {
   name: 'Dirge of Dissonance',
   radius: 5,
   target: 'pbae',
-  version: '6.530'
+  version: '6.540'
 };

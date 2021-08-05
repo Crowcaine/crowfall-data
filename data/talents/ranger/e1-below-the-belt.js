@@ -1,14 +1,15 @@
 export default {
   class: 'ranger',
-  grants: [
-    'stat:strength:20',
-    'stat:dexterity:40',
-    'stat:intellect:10',
-    'stat:armor-penetration-physical:3',
-    'stat:damage-weapon:9',
-    'stat:power-efficiency:15'
-  ],
   id: 'below-the-belt',
   name: 'Below the Belt',
-  version: '6.500'
+  stats: {
+    'armor-penetration-physical': 3,
+    'damage-weapon': 9,
+    dexterity: 40,
+    intellect: 10,
+    'power-efficiency': 15,
+    strength: 20
+  },
+  type: 'talent',
+  version: '6.540'
 };

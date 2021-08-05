@@ -1,14 +1,13 @@
 export default {
   description: '',
-  grants: [
-    'stat:armor-penetration-piercing:2',
-    'stat:armor-penetration-slashing:2',
-    'power:dagger-spin',
-    'power:root-stake'
-  ],
   id: 'thorny-warrior',
   name: 'Thorny Warrior',
+  powers: ['dagger-spin', 'root-stake'],
   requirements: ['class:ranger', 'race:human'],
+  stats: {
+    'armor-penetration-piercing': 2,
+    'armor-penetration-slashing': 2
+  },
   type: 'major',
-  version: '6.530'
+  version: '6.540'
 };

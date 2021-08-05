@@ -1,6 +1,6 @@
-import { domains, races, classes } from './enums.mjs';
 import glob from 'glob-promise';
 import log from '../logger.mjs';
+import { classes, domains, races } from './enums.mjs';
 
 (async () => {
   log('info', 'checking minor data');
@@ -26,12 +26,9 @@ import log from '../logger.mjs';
       );
     }
 
-    content.grants
-      .filter((g) => g.startsWith('stat'))
+    Object.keys(content.stats)
       .forEach((stat) => {
-        let [, name] = stat.split(':');
-
-        if (!stats[name]) {
+        if (!stats[stat]) {
           log('error', `[stat:${name}] does not exist in ${file}`);
         }
       });

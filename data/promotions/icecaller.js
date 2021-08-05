@@ -9,16 +9,16 @@ export default {
     'power:crystal-lance': 'causes healing based on damage inflicted',
     'power:frost-armor': 'heals allies on pick-up'
   },
-  grants: [
-    'proficiency:mail',
-    'mastery:frostcaster',
-    'stat:support-power:400',
-    'stat:max-mana:300',
-    'stat:ice-storage-cap:1'
-  ],
   id: 'icecaller',
+  masteries: ['frostcaster'],
   name: 'Icecaller',
+  proficiencies: ['mail'],
+  stats: {
+    'ice-storage-cap': 1,
+    'max-mana': 300,
+    'support-power': 400
+  },
   tags: ['healing'],
   type: 'promotion',
-  version: '6.500'
+  version: '6.540'
 };

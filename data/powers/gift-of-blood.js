@@ -4,5 +4,5 @@ export default {
   id: 'gift-of-blood',
   name: 'Gift of Blood',
   target: 'self',
-  version: '6.500'
+  version: '6.540'
 };

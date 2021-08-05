@@ -1,18 +1,21 @@
 export default {
-  grants: [
-    'stat:constitution:17',
-    'stat:dexterity:12',
-    'stat:intellect:30',
-    'stat:spirit:18',
-    'stat:strength:13',
-    'power:rear-kick',
-    'power:wild-charge',
-    'power:legions-strength',
-    'power:trailmaster',
-    'power:sure-footed',
-    'power:hungry-as-a-horse'
-  ],
   id: 'centaur',
   name: 'Centaur',
+  powers: [
+    'legions-strength',
+    'rear-kick',
+    'sure-footed',
+    'trailmaster',
+    'wild-charge',
+    'hungry-as-a-horse'
+  ],
+  stats: {
+    constitution: 17,
+    dexterity: 12,
+    intellect: 30,
+    spirit: 18,
+    strength: 13
+  },
+  type: 'race',
   version: '6.540'
 };

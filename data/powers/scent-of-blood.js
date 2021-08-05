@@ -6,5 +6,5 @@ export default {
   id: 'scent-of-blood',
   name: 'Scent of Blood',
   target: 'self',
-  version: '6.500'
+  version: '6.540'
 };

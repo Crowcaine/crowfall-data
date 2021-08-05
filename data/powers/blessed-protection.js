@@ -9,5 +9,5 @@ export default {
   name: 'Blessed Protection',
   radius: 50,
   target: 'group',
-  version: '6.500'
+  version: '6.540'
 };

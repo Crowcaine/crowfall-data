@@ -10,5 +10,5 @@ export default {
   name: 'Rejuvenating Strike',
   range: 5,
   target: 'reticle',
-  version: '6.500'
+  version: '6.540'
 };

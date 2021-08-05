@@ -11,5 +11,5 @@ export default {
   name: 'Furious Retaliate',
   range: 5,
   target: 'sphere',
-  version: '6.530'
+  version: '6.540'
 };

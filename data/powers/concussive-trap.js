@@ -10,5 +10,5 @@ export default {
   name: 'Concussive Trap',
   radius: 5,
   target: 'area',
-  version: '6.530'
+  version: '6.540'
 };

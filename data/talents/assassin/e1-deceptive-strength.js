@@ -1,14 +1,15 @@
 export default {
   class: 'assassin',
-  grants: [
-    'stat:strength:10',
-    'stat:dexterity:40',
-    'stat:intellect:20',
-    'stat:backstab-damage:10',
-    'stat:backstab-critical-strike:15',
-    'stat:damage-high-health:10'
-  ],
   id: 'deceptive-strength',
   name: 'Deceptive Strength',
-  version: '6.500'
+  stats: {
+    'backstab-critical-strike': 15,
+    'backstab-damage': 10,
+    'damage-high-health': 10,
+    dexterity: 40,
+    intellect: 20,
+    strength: 10
+  },
+  type: 'talent',
+  version: '6.540'
 };

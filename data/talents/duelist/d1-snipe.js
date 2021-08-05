@@ -1,8 +1,9 @@
 export default {
   class: 'duelist',
   description: 'This talent grants the [power:snipe] power.',
-  grants: ['power:snipe'],
   id: 'snipe',
   name: 'Snipe',
-  version: '6.500'
+  powers: ['snipe'],
+  type: 'talent',
+  version: '6.540'
 };

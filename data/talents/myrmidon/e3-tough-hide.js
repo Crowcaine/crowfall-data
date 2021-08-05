@@ -1,15 +1,16 @@
 export default {
   class: 'myrmidon',
-  grants: [
-    'stat:strength:20',
-    'stat:dexterity:10',
-    'stat:constitution:40',
-    'stat:resistance-all:300',
-    'stat:control-defense:25',
-    'stat:power-efficiency:25',
-    'stat:health:200'
-  ],
   id: 'tough-hide',
   name: 'tough-hide',
-  version: '6.500'
+  stats: {
+    constitution: 40,
+    'control-defense': 25,
+    dexterity: 10,
+    health: 200,
+    'power-efficiency': 25,
+    'resistance-all': 300,
+    strength: 20
+  },
+  type: 'talent',
+  version: '6.540'
 };

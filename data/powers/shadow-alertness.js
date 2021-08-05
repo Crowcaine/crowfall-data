@@ -11,5 +11,5 @@ export default {
   name: 'Shadow Alertness',
   radius: 50,
   target: 'group',
-  version: '6.400'
+  version: '6.540'
 };

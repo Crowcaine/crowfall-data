@@ -1,15 +1,12 @@
 export default {
   description: '',
-  grants: [
-    'stat:health:5300',
-    'proficiency:mail',
-    'proficiency:leather',
-    'proficiency:great-axe',
-    'proficiency:great-mace'
-  ],
   id: 'champion',
   name: 'Champion',
+  proficiencies: ['great-axe', 'leather', 'mail', 'great-mace'],
   races: ['centaur', 'half-giant', 'minotaur', 'stoneborn'],
+  stats: {
+    health: 5300
+  },
   talents: {
     a1: 'talent:massive-cleave',
     b1: 'talent:guts',
@@ -51,5 +48,6 @@ export default {
     l8: 'domain:battle',
     l9: 'domain:wind'
   },
-  version: '6.500'
+  type: 'class',
+  version: '6.540'
 };

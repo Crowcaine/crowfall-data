@@ -1,19 +1,18 @@
 export default {
   description: '',
-  grants: [
-    'stat:healing:3',
-    'stat:health:500',
-    'power:benediction',
-    'power:spite'
-  ],
   id: 'cloisterer',
   name: 'Cloisterer',
+  powers: ['benediction', 'spite'],
   requirements: [
     'class:confessor',
     'class:templar',
     'race:human',
     'domain:light'
   ],
+  stats: {
+    healing: 3,
+    health: 500
+  },
   type: 'major',
-  version: '6.530'
+  version: '6.540'
 };

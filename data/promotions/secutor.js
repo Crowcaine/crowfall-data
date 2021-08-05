@@ -9,21 +9,23 @@ export default {
       'reduces the cost of maintaining block by 75% and causes you to no longer lose additional stamina when blocking big hits for 12 seconds',
     'power:pursuit': 'adds a barrier when activated'
   },
-  grants: [
-    'mastery:axe',
-    'mastery:long-sword',
-    'mastery:mace',
-    'mastery:short-sword',
-    'mastery:buckler',
-    'mastery:medium-shield',
-    'mastery:tower-shield',
-    'proficiency:plate',
-    'stat:health:1500',
-    'stat:control-defense:30'
-  ],
   id: 'secutor',
+  masteries: [
+    'axe',
+    'buckler',
+    'long-sword',
+    'mace',
+    'medium-shield',
+    'short-sword',
+    'tower-shield'
+  ],
   name: 'Secutor',
+  proficiencies: ['plate'],
+  stats: {
+    'control-defense': 30,
+    health: 1500
+  },
   tags: ['melee', 'defense'],
   type: 'promotion',
-  version: '6.500'
+  version: '6.540'
 };

@@ -2,8 +2,9 @@ export default {
   class: 'confessor',
   description:
     'This talent grants the [power:righteousness] passive power.',
-  grants: ['power:righteousness'],
   id: 'righteousness',
   name: 'Righteousness',
-  version: '6.500'
+  powers: ['righteousness'],
+  type: 'talent',
+  version: '6.540'
 };

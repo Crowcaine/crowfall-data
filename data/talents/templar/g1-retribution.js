@@ -2,8 +2,9 @@ export default {
   class: 'templar',
   description:
     'This talent grants the [power:retribution] passive power.',
-  grants: ['power:retribution'],
   id: 'retribution',
   name: 'Retribution',
-  version: '6.500'
+  powers: ['retribution'],
+  type: 'talent',
+  version: '6.540'
 };

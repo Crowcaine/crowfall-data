@@ -1,14 +1,15 @@
 export default {
   class: 'ranger',
-  grants: [
-    'stat:strength:10',
-    'stat:dexterity:40',
-    'stat:constitution:20',
-    'stat:personal-damage-modifier:6',
-    'stat:resistance-bleeding:1000',
-    'stat:health:350'
-  ],
   id: 'tree-sap-blood',
   name: 'tree-sap-blood',
-  version: '6.500'
+  stats: {
+    constitution: 20,
+    dexterity: 40,
+    health: 350,
+    'personal-damage-modifier': 6,
+    'resistance-bleeding': 1000,
+    strength: 10
+  },
+  type: 'talent',
+  version: '6.540'
 };

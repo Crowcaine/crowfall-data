@@ -1,14 +1,13 @@
 export default {
   description: '',
-  grants: [
-    'stat:movement-speed-stealth:5',
-    'stat:stealth:15',
-    'power:cheap-shot',
-    'power:study-target'
-  ],
   id: 'waylayer',
   name: 'Waylayer',
+  powers: ['cheap-shot', 'study-target'],
   requirements: ['class:assassin', 'domain:shadow'],
+  stats: {
+    'movement-speed-stealth': 5,
+    stealth: 15
+  },
   type: 'major',
   version: '6.540'
 };

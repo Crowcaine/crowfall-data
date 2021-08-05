@@ -1,15 +1,14 @@
 export default {
   description: '',
-  grants: [
-    'stat:health:4550',
-    'proficiency:mail',
-    'proficiency:leather',
-    'proficiency:buckler',
-    'proficiency:mace',
-    'proficiency:medium-shield'
-  ],
   id: 'cleric',
   name: 'Cleric',
+  proficiencies: [
+    'buckler',
+    'leather',
+    'mace',
+    'mail',
+    'medium-shield'
+  ],
   races: [
     'centaur',
     'elken',
@@ -18,6 +17,9 @@ export default {
     'human',
     'stoneborn'
   ],
+  stats: {
+    health: 4550
+  },
   talents: {
     a1: 'talent:anoited',
     b1: 'talent:divine-alacrity',
@@ -59,5 +61,6 @@ export default {
     l8: 'domain:light',
     l9: 'domain:protection'
   },
-  version: '6.500'
+  type: 'class',
+  version: '6.540'
 };

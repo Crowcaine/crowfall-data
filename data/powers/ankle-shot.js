@@ -5,5 +5,5 @@ export default {
   id: 'ankle-shot',
   name: 'Ankle Shot',
   target: 'self',
-  version: '6.500'
+  version: '6.540'
 };

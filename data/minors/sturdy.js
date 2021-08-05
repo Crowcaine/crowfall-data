@@ -1,8 +1,8 @@
 export default {
   description: '',
-  grants: ['stat:resistance-crushing:300', 'power:sturdy'],
   id: 'sturdy',
   name: 'Sturdy',
+  powers: ['sturdy'],
   requirements: [
     'class:myrmidon',
     'race:stoneborn',
@@ -13,6 +13,9 @@ export default {
     'domain:frost',
     'domain:death'
   ],
+  stats: {
+    'resistance-crushing': 300
+  },
   type: 'minor',
-  version: '6.530'
+  version: '6.540'
 };

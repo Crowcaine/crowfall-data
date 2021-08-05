@@ -1,8 +1,9 @@
 export default {
   class: 'myrmidon',
   description: 'This talent grants the [power:cast-net] power.',
-  grants: ['power:cast-net'],
   id: 'cast-net',
   name: 'Cast Net',
-  version: '6.500'
+  powers: ['cast-net'],
+  type: 'talent',
+  version: '6.540'
 };

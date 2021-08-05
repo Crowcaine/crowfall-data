@@ -1,16 +1,9 @@
 export default {
   description: '',
-  grants: [
-    'stat:ranged-distance:5',
-    'power:all-clear',
-    'proficiency:arrows',
-    'proficiency:recurve-bow',
-    'slot:ranged',
-    'slot:ammo',
-    'tray:ranged'
-  ],
   id: 'archery',
   name: 'Archery',
+  powers: ['all-clear'],
+  proficiencies: ['arrows', 'recurve-bow'],
   requirements: [
     'class:assassin',
     'class:champion',
@@ -19,6 +12,11 @@ export default {
     'class:myrmidon',
     'class:templar'
   ],
+  slots: ['ranged', 'ammo'],
+  stats: {
+    'ranged-distance': 5
+  },
+  trays: ['ranged'],
   type: 'minor',
   version: '6.540'
 };

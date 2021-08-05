@@ -1,8 +1,9 @@
 export default {
   class: 'assassin',
   description: 'This talent grants the [power:blackjack-toss] power.',
-  grants: ['power:blackjack-toss'],
   id: 'blackjack-toss',
   name: 'Blackjack Toss',
-  version: '6.500'
+  powers: ['blackjack-toss'],
+  type: 'talent',
+  version: '6.540'
 };

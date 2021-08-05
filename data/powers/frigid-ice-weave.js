@@ -8,5 +8,5 @@ export default {
   range: 30,
   resource: 'weaving',
   target: 'ground',
-  version: '6.400'
+  version: '6.540'
 };

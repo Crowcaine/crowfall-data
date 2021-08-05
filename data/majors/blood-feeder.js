@@ -1,14 +1,13 @@
 export default {
   description: '',
-  grants: [
-    'stat:critical-strike:2',
-    'stat:damage-high-health:5',
-    'power:bite',
-    'power:tasty'
-  ],
   id: 'blood-feeder',
   name: 'Blood Feeder',
+  powers: ['bite', 'tasty'],
   requirements: ['domain:death'],
+  stats: {
+    'critical-strike': 2,
+    'damage-high-health': 5
+  },
   type: 'major',
   version: '6.540'
 };
