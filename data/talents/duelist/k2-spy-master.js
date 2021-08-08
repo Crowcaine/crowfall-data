@@ -11,5 +11,5 @@ export default {
     'damage-stealth': 30
   },
   type: 'talent',
-  version: '6.540'
+  version: '7.000'
 };

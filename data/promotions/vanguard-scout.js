@@ -1,13 +1,13 @@
 export default {
   class: 'duelist',
   description:
-    'Known for lurking in the shadows and leaving only to finish off a wounded target.',
+    'Adapt yourself to launch a barrage of baffling attacks from stealth leaving only when ready to finish off your prey.',
   enhances: {
-    'power:flinlock-shot':
+    'power:flintlock-shot':
       'increases movement speed for a duration when activated',
     'power:keen-guard':
-      'has a chance to slow enemies that hit you while active',
-    'power:peppershot-box': 'inflicts stun on 5 pips spent'
+      "has a chance to blinds enemies that hit you while it's active",
+    'power:pepperbox-shot': 'inflicts stun on 5 pips spent'
   },
   id: 'vanguard-scout',
   masteries: ['pistol', 'rapier'],
@@ -18,7 +18,7 @@ export default {
     'ranged-distance': 9,
     stealth: 15
   },
-  tags: ['melee'],
+  tags: ['ranged', 'control'],
   type: 'promotion',
-  version: '6.540'
+  version: '7.000'
 };

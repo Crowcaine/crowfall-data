@@ -1,13 +1,12 @@
 export default {
   class: 'duelist',
   description:
-    'Heavily armored and control focused, this master of the foil is not to be trifled with.',
+    'Rise as a master of the foll who uses heavy armor and dark wit to control and dominate your hapless challengers.',
   enhances: {
-    'power:flinlock-shot':
+    'power:flintlock-shot':
       'causes increased damage against bleeding targets',
-    'power:keen-guard':
-      'also heals on activation scaling with pips and has reduced cooldown',
-    'power:peppershot-box':
+    'power:keen-guard': 'has a reduced cooldown',
+    'power:pepperbox-shot':
       'applies root and reduces enemy piercing when activated with five pips'
   },
   id: 'dirge',
@@ -21,5 +20,5 @@ export default {
   },
   tags: ['melee', 'control'],
   type: 'promotion',
-  version: '6.540'
+  version: '7.000'
 };

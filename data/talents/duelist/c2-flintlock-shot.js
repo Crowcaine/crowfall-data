@@ -5,5 +5,5 @@ export default {
   name: 'Flintlock Shot',
   powers: ['flintlock-shot'],
   type: 'talent',
-  version: '6.540'
+  version: '7.000'
 };

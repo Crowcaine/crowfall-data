@@ -1,11 +1,11 @@
 export default {
   castType: 'instant',
-  cooldown: 11,
+  cooldown: 13,
   description:
-    'leaps you out of your burrow performing a deadly surprise attack for 255 damage and generating two pips.\n\nIf Ambush hits an exposed enemy while they attack or use an ability they are knocked down, take additional damage and you each additional pips',
+    'teleports you out of your burrow to your target within range, performing a deadly surprise attack for 381 damage, applying a 10% [stat:damage:10] buff for 10 seconds to yourself and generating two pips. The [stat:damage] buff also increases your cap while active.\n\nIf Ambush hits and exposed enemy they are rooted.',
   id: 'ambush',
   name: 'Ambush',
-  range: 5,
+  range: 10,
   target: 'cone',
-  version: '6.540'
+  version: '7.000'
 };

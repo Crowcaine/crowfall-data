@@ -1,6 +1,6 @@
 export default {
   castType: 'instant',
-  cooldown: 25,
+  cooldown: 27,
   description:
     'applies the Exposed debuff to reveal weaknesses you and other specialists may capitalize on.',
   duration: 30,
@@ -8,5 +8,5 @@ export default {
   name: 'Recon',
   range: 30,
   target: 'ray',
-  version: '6.540'
+  version: '7.000'
 };

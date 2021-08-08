@@ -4,10 +4,6 @@ export default {
   id: 'keen-guard',
   name: 'Keen Guard',
   powers: ['keen-guard'],
-  stats: {
-    stamina: 15,
-    stealth: 25
-  },
   type: 'talent',
-  version: '6.540'
+  version: '7.000'
 };

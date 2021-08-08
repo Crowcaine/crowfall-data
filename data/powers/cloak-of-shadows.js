@@ -6,5 +6,5 @@ export default {
   id: 'cloak-of-shadows',
   name: 'Cloak of Shadows',
   target: 'self',
-  version: '6.540'
+  version: '7.000'
 };

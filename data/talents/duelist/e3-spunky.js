@@ -11,5 +11,5 @@ export default {
     'resistance-all': 300
   },
   type: 'talent',
-  version: '6.540'
+  version: '7.000'
 };

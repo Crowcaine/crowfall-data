@@ -10,5 +10,5 @@ export default {
     'personal-healing-modifier': 4.5
   },
   type: 'talent',
-  version: '6.540'
+  version: '7.000'
 };

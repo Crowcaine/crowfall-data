@@ -6,5 +6,5 @@ export default {
   name: 'Sweet Victory',
   powers: ['sweet-victory'],
   type: 'talent',
-  version: '6.540'
+  version: '7.000'
 };

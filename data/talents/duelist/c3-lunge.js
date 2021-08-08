@@ -5,5 +5,5 @@ export default {
   name: 'Lunge',
   powers: ['lunge'],
   type: 'talent',
-  version: '6.540'
+  version: '7.000'
 };

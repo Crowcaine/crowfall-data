@@ -6,5 +6,5 @@ export default {
   name: 'Feral Instincts',
   powers: ['feral-instincts'],
   type: 'talent',
-  version: '6.540'
+  version: '7.000'
 };

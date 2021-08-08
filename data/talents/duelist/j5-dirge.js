@@ -5,5 +5,5 @@ export default {
   name: 'Dirge',
   powers: ['dirge'],
   type: 'talent',
-  version: '6.540'
+  version: '7.000'
 };

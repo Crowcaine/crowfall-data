@@ -6,5 +6,5 @@ export default {
   name: 'Into the Shadows',
   powers: ['into-the-shadows'],
   type: 'talent',
-  version: '6.540'
+  version: '7.000'
 };

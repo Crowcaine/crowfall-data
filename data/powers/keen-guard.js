@@ -1,12 +1,13 @@
 export default {
   castType: 'instant',
-  cooldown: 47,
+  cooldown: 19,
   cost: 1,
   costType: 'pips',
   description:
-    'applies a damage preventing barrier. Effects scale with pips spent.\n\n1 Pip: Gain 150 barrier for 2 seconds.\n2 Pips: Gain 150 barrier for 3 second\n3 Pips: Gain 150 barrier for 3 second\n4 Pips: Gain 150 barrier for 3 second\n5 Pips: Gain 150 barrier for 3 second',
+    'applies a barrier preventing at least 329 damage scaling with pips spent (max 1000) and lasting 3 seconds scaling with the pips spent. You also gain additional 10 stamina heal every 2 seconds over 10 seconds if you spend 5 pips to activate Keen Guard.',
+  duration: 10,
   id: 'keen-guard',
   name: 'Keen Guard',
   target: 'self',
-  version: '6.540'
+  version: '7.000'
 };

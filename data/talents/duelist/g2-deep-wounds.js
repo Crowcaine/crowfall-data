@@ -6,5 +6,5 @@ export default {
   name: 'Deep Wounds',
   powers: ['deep-wounds'],
   type: 'talent',
-  version: '6.540'
+  version: '7.000'
 };

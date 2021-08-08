@@ -1,13 +1,13 @@
 export default {
   class: 'duelist',
   description:
-    'A master of pistols who enhances their powers when dealing critical strikes.',
+    'Becomd a formidble master of pistols who enhances their powers with dangerous critical strikes.',
   enhances: {
-    'power:flinlock-shot':
+    'power:flintlock-shot':
       'generates an additional pip when used and has a chance to have its cooldown reset when using basic saber attacks and pistol shots',
-    'power:keen-guard':
-      'adds a 1% critical strike and 3% critical damage buff that scales with pips',
-    'power:peppershot-box': 'deals 50% more damage'
+    'power:pepperbox-shot': 'deals 50% more damage',
+    'power:rapid-shots':
+      'has a chance to reset the cooldown on [power:flip-shot]when attacking targets with less than 50% health'
   },
   id: 'slayer',
   masteries: ['pistol', 'rapier'],
@@ -18,5 +18,5 @@ export default {
   },
   tags: ['ranged'],
   type: 'promotion',
-  version: '6.540'
+  version: '7.000'
 };

@@ -5,5 +5,5 @@ export default {
   name: 'Cheap Shots',
   powers: ['cheap-shots'],
   type: 'talent',
-  version: '6.540'
+  version: '7.000'
 };

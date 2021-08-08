@@ -1,11 +1,11 @@
 export default {
   castType: 'instant',
-  cooldown: 11,
+  cooldown: 13,
   description:
-    'shoots for 213 damage and generate two pips.\n\nIf Flintlock Shot hits and exposed enemy while they attack or use an ability they are knocked down, and take additional damage and you generate an additional pip.\nThis attack can be instantly flash-cast.',
+    'shoots for 313 damage and generate two pips.\n\nIf Flintlock Shot hits an exposed enemy they are knocked down, and take additional damage and you generate an additional pip.\n\nThis attack can be instantly flash-cast.',
   id: 'flintlock-shot',
   name: 'Flintlock Shot',
   range: 15,
   target: 'reticle',
-  version: '6.540'
+  version: '7.000'
 };

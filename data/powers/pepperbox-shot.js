@@ -1,14 +1,14 @@
 export default {
   castType: 'instant',
-  cooldown: 5,
+  cooldown: 7,
   cost: 1,
   costType: 'pips',
   description:
-    'blasts up to three targets causing 24 damage per pip spent',
+    'blasts up to three targets causing 36 damage per pip spent.\n\nThis attack gains a 100% [stat:critical-strike:100] modifier when used against an exposed target.',
   id: 'pepperbox-shot',
   maxTargets: 3,
   name: 'Pepperbox Shot',
   range: 15,
   target: 'cone',
-  version: '6.540'
+  version: '7.000'
 };

@@ -6,5 +6,5 @@ export default {
   id: 'deep-wounds',
   name: 'Deep Wounds',
   target: 'self',
-  version: '6.540'
+  version: '7.000'
 };
