@@ -1,16 +1,15 @@
 export default {
   castType: 'instant',
   cooldown: 24,
-  cost: 102,
+  cost: 115,
   costType: 'mana',
   description:
-    'targets an area, dealing 71 damage and slowing enemies hits by it.',
-  duration: 10,
+    'fortifies group members and you with otherworldly strength increasing their [stat:personal-damage-modifier:7] and [stat:power-damage-melee:7] by 7% while you maintain this effect.',
+  duration: 6,
   id: 'divine-presence',
-  maxTargets: 5,
+  maxTargets: 7,
   name: 'Divine Presence',
   radius: 10,
-  range: 35,
-  target: 'area',
-  version: '6.540'
+  target: 'sphere',
+  version: '7.000'
 };
