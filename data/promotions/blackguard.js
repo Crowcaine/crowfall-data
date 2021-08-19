@@ -1,20 +1,21 @@
 export default {
   class: 'assassin',
   description:
-    'This dweller of the darkness achives victory through outlasting their opponents, in every possible way.',
+    'Transform yourself into a darkness dweller who achieves victory through outlasting their opponents',
   enhances: {
-    'power:backstab': 'adds a barrier when activated',
-    'power:in-the-zone': 'has increased duration per pip spent',
-    'power:kidney-shot': 'applies bleed to enemies'
+    'power:backstab': 'adds a unique barrier when activated',
+    'power:blur':
+      'now makes you immune to Crowd Control while active',
+    'power:garrote': 'now does AOE damage and Bleed application'
   },
   id: 'blackguard',
   masteries: ['axes', 'dagger', 'mace'],
   name: 'Blackguard',
-  proficiencies: ['mail'],
+  proficiencies: ['mail', 'plate'],
   stats: {
     health: 1000
   },
   tags: ['melee', 'defense'],
   type: 'promotion',
-  version: '6.540'
+  version: '7.000'
 };

@@ -12,5 +12,5 @@ export default {
     'damage-slashing-cap': 10
   },
   type: 'talent',
-  version: '6.540'
+  version: '7.000'
 };

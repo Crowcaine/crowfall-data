@@ -3,12 +3,12 @@ export default {
   combo: {
     '2a': 'engage'
   },
-  cooldown: 11,
+  cooldown: 12,
   description:
-    'dashes you backward 16m with an attack generating a Pip and causing 148 damage',
+    'dashes you backward 16m with an attack generating a Pip and causing 174 damage',
   id: 'disengage',
   name: 'Disengage',
-  range: 15,
+  range: 16,
   target: 'reticle',
-  version: '6.540'
+  version: '7.000'
 };

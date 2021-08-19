@@ -1,11 +1,12 @@
 export default {
   castType: 'instant',
-  cooldown: 11,
+  cooldown: 12,
   description:
-    'steps you from the shadows to deliver a lethal surprise attack causing 253 damage and generating two Pips. This attack gains a 100% critical strike modifier and generates an additional Pip when used against exposed targets',
+    'teleports you through the shadows to your target to deliver a lethal surprise attack causing 298 damage and applies instant poison to your attacks top 10 seconds if you have toxin equipped. This attack gains a 100% critical strike modifier when used against exposed targets\n\nGenerates 2 Pips',
+  duration: 15,
   id: 'sneak-attack',
   name: 'Sneak Attack',
-  range: 5,
+  range: 10,
   target: 'reticle',
-  version: '6.540'
+  version: '7.000'
 };

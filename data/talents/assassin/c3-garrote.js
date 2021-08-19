@@ -5,5 +5,5 @@ export default {
   name: 'Garrote',
   powers: ['garrote'],
   type: 'talent',
-  version: '6.540'
+  version: '7.000'
 };

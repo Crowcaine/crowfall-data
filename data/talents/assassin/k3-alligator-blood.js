@@ -15,5 +15,5 @@ export default {
     'resistance-bleeding': 3000
   },
   type: 'talent',
-  version: '6.540'
+  version: '7.000'
 };

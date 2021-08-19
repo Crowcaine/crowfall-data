@@ -6,6 +6,5 @@ export default {
   name: 'Shiv',
   powers: ['shiv'],
   type: 'talent',
-  undefined: ['poisons'],
-  version: '6.540'
+  version: '7.000'
 };

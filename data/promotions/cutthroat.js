@@ -1,11 +1,12 @@
 export default {
   class: 'assassin',
   description:
-    'A dealer of death that focuses on ambushing and attacking enemies from behind.',
+    'Become a dealer of death that focuses on ambushing and attacking enemies from behind.',
   enhances: {
     'power:backstab':
-      'has reduced cooldown and is always treated as from behind regardless of your position',
-    'power:in-the-zone': 'grants a Movement Speed increase.',
+      'is now an execute when used against an Exposed target',
+    'power:blinkstep':
+      'now generates 1 pip when used on an Exposed target',
     'power:kidney-shot': 'adds a Barrier when used.'
   },
   id: 'cutthroat',
@@ -17,5 +18,5 @@ export default {
   },
   tags: ['melee'],
   type: 'promotion',
-  version: '6.540'
+  version: '7.000'
 };

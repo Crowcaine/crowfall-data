@@ -11,19 +11,19 @@ export default {
     a1: 'talent:tools-of-the-trade',
     b1: 'talent:brutal-fury',
     b2: 'talent:shadow-heart',
-    c1: 'talent:shiv',
-    c2: 'talent:kidney-shot',
+    c1: 'talent:sneak-attack',
+    c2: 'talent:shiv',
     c3: 'talent:garrote',
-    d1: 'talent:sneak-attack',
+    d1: 'talent:blink-step',
     d2: 'slot:minor-discipline',
-    d3: 'talent:recon',
+    d3: 'talent:blur',
     e1: 'talent:deceptive-strength',
     e2: 'talent:disengage',
     e3: 'talent:quietude',
-    f1: 'talent:efficient-poisons',
+    f1: 'talent:poison-mastery',
     f2: 'talent:dirty-tricks',
     f3: 'talent:schadenfreude',
-    g1: 'talent:poison-mastery',
+    g1: 'talent:efficient-poisons',
     g2: 'talent:yagas-gift',
     h1: 'talent:cloaked-in-shadow',
     i1: 'promotion:cutthroat',
@@ -49,5 +49,5 @@ export default {
     l9: 'domain:death'
   },
   type: 'class',
-  version: '6.540'
+  version: '7.000'
 };

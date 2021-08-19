@@ -6,5 +6,5 @@ export default {
   name: 'Dagger Storm',
   powers: ['dagger-storm'],
   type: 'talent',
-  version: '6.540'
+  version: '7.000'
 };

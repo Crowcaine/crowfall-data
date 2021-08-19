@@ -1,9 +1,10 @@
 export default {
   castType: 'passive',
+  cooldown: 10,
   description:
-    'heals you for 450 Health whenever you apply a stun to an enemy',
+    'applies a 10% [stat:damage:10] buff whenever you apply a Stun or Knockdown to an enemy',
   id: 'schadenfreude',
   name: 'Schadenfreude',
   target: 'self',
-  version: '6.540'
+  version: '7.000'
 };

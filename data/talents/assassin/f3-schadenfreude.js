@@ -6,5 +6,5 @@ export default {
   name: 'Schadenfreude',
   powers: ['schadenfreude'],
   type: 'talent',
-  version: '6.540'
+  version: '7.000'
 };

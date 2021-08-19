@@ -6,5 +6,5 @@ export default {
   name: "Yaga's Gift",
   powers: ['yagas-gift'],
   type: 'talent',
-  version: '6.540'
+  version: '7.000'
 };

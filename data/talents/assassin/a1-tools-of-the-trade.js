@@ -1,10 +1,10 @@
 export default {
   class: 'assassin',
   description:
-    'This talent grants the [power:backstab] and [power:in-the-zone] powers.',
+    'This talent grants the [power:backstab] and [power:kidney-shot] powers.',
   id: 'tools-of-the-trade',
   name: 'Tools of the Trade',
-  powers: ['backstab', 'in-the-zone'],
+  powers: ['backstab', 'kidney-shot'],
   type: 'talent',
-  version: '6.540'
+  version: '7.000'
 };

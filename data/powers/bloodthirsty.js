@@ -6,5 +6,5 @@ export default {
   id: 'bloodthirsty',
   name: 'Bloodthirsty',
   target: 'self',
-  version: '6.540'
+  version: '7.000'
 };

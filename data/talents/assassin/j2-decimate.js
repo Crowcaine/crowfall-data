@@ -5,5 +5,5 @@ export default {
   name: 'Decimate',
   powers: ['decimate'],
   type: 'talent',
-  version: '6.540'
+  version: '7.000'
 };

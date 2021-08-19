@@ -5,5 +5,5 @@ export default {
   name: 'Dirty Tricks',
   powers: ['dirty-tricks'],
   type: 'talent',
-  version: '6.540'
+  version: '7.000'
 };

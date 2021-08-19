@@ -1,11 +1,11 @@
 export default {
   castType: 'instant',
-  cooldown: 8,
+  cooldown: 9,
   description:
-    'stabs an enemy, causing 222 damage. [stat:power-damage] is increased by 800% and generate a bonus Pip when you are behind your target',
+    'stabs an enemy, causing 222 damage. [stat:power-damage] is increased by 400% when you are behind your target. Hitting an exposed target akways counts as from behind your target.\n\nGenerates 1 Pip',
   id: 'backstab',
   name: 'Backstab',
   range: 5,
   target: 'reticle',
-  version: '6.540'
+  version: '7.000'
 };

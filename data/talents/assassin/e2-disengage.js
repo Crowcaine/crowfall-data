@@ -5,5 +5,5 @@ export default {
   name: 'Disengage',
   powers: ['disengage'],
   type: 'talent',
-  version: '6.540'
+  version: '7.000'
 };

@@ -1,11 +1,11 @@
 export default {
   castType: 'instant',
-  cooldown: 32,
+  cooldown: 33,
   description:
-    'blinds your target and deals 148 damage to them. This attack performs a knock down instead of a blind when used against an exposed target. \n Generates 1 Pip.',
+    'blinds your target and deals 174 damage to them. This attack performs a Knockdown instead of a Blind when used against an Exposed target. \n Generates 1 Pip.',
   id: 'dirty-tricks',
   name: 'Dirty Tricks',
   range: 5,
   target: 'reticle',
-  version: '6.540'
+  version: '7.000'
 };

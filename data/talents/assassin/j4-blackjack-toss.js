@@ -5,5 +5,5 @@ export default {
   name: 'Blackjack Toss',
   powers: ['blackjack-toss'],
   type: 'talent',
-  version: '6.540'
+  version: '7.000'
 };

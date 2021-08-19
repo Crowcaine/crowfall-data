@@ -6,5 +6,5 @@ export default {
   name: 'Resourceful Tactics',
   powers: ['resourceful-tactics'],
   type: 'talent',
-  version: '6.540'
+  version: '7.000'
 };
