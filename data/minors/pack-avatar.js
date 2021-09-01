@@ -3,10 +3,10 @@ export default {
   id: 'pack-avatar',
   name: 'Pack Avatar',
   powers: ['pack-avatar'],
-  requirements: ['race:centaur', 'race:elken', 'race:half-elf'],
+  requirements: ['race:centaur', 'race:elken'],
   stats: {
     health: 500
   },
   type: 'minor',
-  version: '6.540'
+  version: '7.100'
 };
